@@ -1,0 +1,2 @@
+kofiguracja repozytorium
+http://igorzelmanovich.blogspot.com/2012/03/setting-up-git-git-extensions-and.html
