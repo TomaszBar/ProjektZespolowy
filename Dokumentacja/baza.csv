@@ -1,0 +1,2678 @@
+LP,NAZWA PRODUKTU,kcal,BIA£KA,T£USZCZE,WÊGLOWODANY
+1,ba¿ant pieczony,215,31.9,9.1,0
+2,ba¿ant surowa pierœ,130,24.9,3.3,0
+3,ba¿ant surowe miêso ze skór¹,184,22.9,9.1,0
+4,ba¿ant surowa udko,133,22.1,4.4,0
+5,gêœ samo miêso,316,30.1,23,0
+6,gêœ tuszka,345,14.7,30.2,0
+7,gêœ tuszka pieczona,501,16,48.1,0
+8,g³uszec,123,18.2,6,0
+9,g³uszec pieczony,172,30.3,5.5,0
+10,go³¹b,172,20.1,9.9,0
+11,go³¹b pieczony,233,28.3,13.2,0
+12,indyk pierœ bez skóry duszona,122,24.1,1.8,0
+13,indyk pierœ bez skóry pieczona na grillu,123,25.3,1.6,0
+14,indyk pierœ bez skóry sma¿ona,135,26.1,2.6,0
+15,indyk pierœ bez skóry surowa,88,20.2,1.1,0
+16,indyk pierœ ze skór¹ duszona,131,24.3,2.6,0
+17,indyk pierœ ze skór¹ pieczona na grillu,127,24.4,3.2,0
+18,indyk pierœ ze skórk¹ sma¿ona,199,27.8,9.4,0
+19,indyk pierœ ze skór¹ surowa,106,15.9,2.5,0
+20,idnyk podudzie bez skóry duszone,156,23.1,7.8,0
+21,indyk podudzie bez skóry pieczony na grillu,165,24.3,6.4,0
+22,indyk podudzie bez skóry sma¿one,189,24,9.9,0
+23,idnyk podudzie bez skóry surowe,99,17.1,3.4,0
+24,indyk podudzie se skór¹ duszone,166,22.3,7.3,0
+25,indyk podudzie ze skór¹ oprószane m¹k¹ sma¿one,174,28.5,6,1.9
+26,indyk podudzie ze skór¹ pieczone na grillu,211,23.1,13.2,0
+27,indyk podudzie ze skór¹ sma¿one,313,24.1,24.8,0
+28,indyk podudzie ze skór¹ surowe,145,16.1,9.2,0
+29,indyk skóra pieczona,472,14.1,44.9,0
+30,indyk skóra surowa,422,10.2,42.8,0
+31,indyk skrzyde³ko bez skóry duszone,192,24.3,9.8,0
+32,indyk skrzyde³ko bez skóry pieczona na grillu,182,27.1,7,0
+33,indyk skrzyde³ko bez skóry sma¿one,222,26.3,11.9,0
+34,indyk skrzyde³ko bez skóry surowe,115,19,4.5,0
+35,indyk skrzyde³ko ze skór¹ duszone,182,23.4,9.6,0
+36,indyk skrzyde³ko ze skór¹ oprószane m¹k¹ sma¿one,205,27.4,11.3,2.1
+37,indyk skrzyde³ko ze skór¹ pieczona na grillu,196,23.3,10.9,0
+38,indyk skrzyde³ko ze skór¹ sma¿one,347,23,29.1,0
+39,indyk skrzyde³ko ze skór¹ surowe,170,17.2,10.8,0
+40,indyk tuszka,132,17.2,6.9,0
+41,indyk tuszka pieczona,255,21.5,18.8,0
+42,indyk udko bez skóry duszone,166,27.1,6,0
+43,indyk udko bez skóry pieczona na grillu,166,27.1,4.5,0
+44,indyk udko bez skóry sma¿one,193,29.1,7.2,0
+45,indyk udko bez skóry surowe,100,19.2,2.6,0
+46,indyk udko ze skór¹ duszone,144,27.2,3.3,0
+47,indyk udko ze skór¹ pieczone na grillu,201,27,9.8,0
+48,indyk udko ze skór¹ sma¿one,280,27.8,18.9,0
+49,indyk udko ze skór¹ oprószane m¹k¹ sma¿one,188,30.5,6.4,2.1
+50,indyk udko ze skór¹ surowe,133,19,6.6,0
+51,indyk wêdzony,133,28.4,1.6,0
+52,kabanosy z kurczaka,250,23.1,17.2,0.2
+53,kaczka miêso ze skórk¹,343,21.1,28.8,0
+54,kaczka pierœ surowa,125,20.5,4.4,0
+55,kaczka samo miêso,194,26.1,11.3,0
+56,kaczka tuszka,313,15,27.1,0
+57,kaczka tuszka pieczona,399,16.6,35.8,0
+58,kaszanka z kurczaka,209,10,11.4,15.9
+59,kie³basa delikatesowa z kurczaka,111,20.2,3.6,0.2
+60,kie³basa ja³owcowa z kurczaka,239,19.8,17.5,0.2
+61,kie³basa kanapkowa z kurczaka,183,12.8,14.1,3.1
+62,kie³basa mazurska z indyka,133,15.2,7.9,0.2
+63,kie³basa mortadela z indyka,212,11.3,17.6,0.2
+64,kie³basa parówki z indyka,233,12.3,19.7,0.6
+65,kie³basa parówki z kurczaka,258,10.3,22.1,4.1
+66,kie³basa parówki z kurczaka parzone,265,15.3,18.2,9.7
+67,kie³basa podlaska z kurczaka,236,21.1,17.2,0.1
+68,kie³basa podsuszana z kurczaka,166,22.3,8.6,0
+69,kie³basa serdelki drobiowe,245,14.2,20.3,2.2
+70,kie³basa szynkowa z indyka,89,18.1,2.2,0.3
+71,kie³basa szynkowa z kurczaka,17.1,5.1,0,0
+72,kura tuszka,200,19.1,13.1,0
+73,kura tuszka duszona,350,20,27.9,0
+74,kura tuszka pieczona na grillu,381,21.1,33,0
+75,kura tuszka sma¿ona,431,21,37.9,0
+76,kurczak pierœ bez skóry duszona,140,27.2,3.2,0
+77,kurczak pierœ bez skóry pieczona na grillu,152,29.1,3,0
+78,kurczak pierœ bez skóry sma¿ona,174,31.2,4.6,0
+79,kurczak pierœ bez skóry surowa,100,22.1,1.5,0
+80,kurczak porcja roso³owa,180,19.2,11.9,0
+81,kurczak skóra duszona,400,13,37.9,0
+82,kurczak skóra pieczona,499,16.6,47.2,0
+83,kurczak skóra sma¿ona,520,16.1,49.2,0
+84,kurczak skóra surowa,290,11.3,38.4,0
+85,kurczak skrzyde³ko bez skóy gotowane,188,27.1,7.3,0
+86,kurczak skrzyde³ko bez skóry pieczone,855,31.1,8.3,0
+87,kurczak skrzyde³ko bez skóry sma¿one,203,30,10,0
+88,kurczak skrzyde³ko bez skóry surowe,122,20.8,3.9,0
+89,kurczak skrzyde³ko ze skór¹ gotowane,251,23,17,0
+90,kurczak skrzyde³ko ze skór¹ oprószone m¹k¹ sma¿one,323,27.2,23,2.5
+91,kurczak skrzyde³ko ze skór¹ pieczone,300,27.1,19.1,0
+92,kurczak skrzyde³ko ze skór¹ surowe,221,18.2,15.7,0
+93,kurczak skrzyde³ko ze skór¹ w cieœcie sma¿one,325,19.2,22.1,2.6
+94,kurczak tuszka,160,19,9.1,0
+95,kurczak tuszka duszona,280,20.3,20.6,0
+96,kurczak tuszka pieczona na grillu,298,23,21.2,0
+97,kurczak tuszka sma¿ona,250,21.8,26.8,0
+98,kurczak udko bez skóry duszone,211,21.8,13.3,0
+99,kurczak udko bez skóry pieczona na grillu,220,23.7,13.6,0
+100,kurczak udko bez skóry sma¿one,234,25.6,14.9,0
+101,kurczak udko bez skóry surowe,127,17.9,7,0
+102,kurczak udko ze skór¹ duszone,201,24.9,11.3,0
+103,kurczak udko ze skór¹ oprószane m¹k¹ sma¿one,215,25.6,13,2.7
+104,kurcak udko ze skór¹ pieczone na grillu,211,24.6,12,0
+105,kurczak udko ze skór¹ sma¿one,341,24.1,27.1,0
+106,kurczak udko ze skór¹ surowe,161,17.3,9.9,0
+107,kurczak wêdzony,165,29.2,5.6,0
+108,kuropatwa surowa,108,22.1,0.9,0
+109,kuropatwa pieczona,213,33.7,7.6,0
+110,pasztet podlaski z kurczaka,230,6.6,21.2,3.7
+111,pasztet strasburski z gêsich w¹tróbek,292,16.2,23,0
+112,pasztet z kurczaka pieczony,213,14.6,14.5,7.2
+113,perliczka,177,22.5,9.2,0
+114,perliczka pieczona,213,31.8,8.9,0
+115,polêdwica z indyka,106,16.2,4.4,0.1
+116,polêdwica z piersi kurczaka,97,20.6,1,0.8
+117,przepiórka pieczona,218,37.8,6.9,0
+118,strusie miêso mielone gotowane,166,28.7,4.4,0
+119,strusie miêso mielone surowe,135,23.2,4.2,0
+120,szynka delikatesowa z kurczaka,1251,8.7,5.4,0
+121,szynka z indyka,85,17.8,1.4,0.1
+122,szynka z piersi kurczaka,97,21.4,1.3,0.3
+123,szynka z udŸca kurczaka,118,17.3,5.4,0
+124,turkawka pieczona,232,3,13.6,0
+125,w¹tróbka drobiowa,137,19.9,6,0.7
+126,w¹tróbka drobiowa duszona,185,26,8.4,0.2
+127,w¹tróbka drobiowa gotowana,190,25.6,8.9,0.2
+128,¿o³¹dki drobiowe,120,18.8,3.9,0.5
+129,¿o³¹dki drobiowe gotowane,157,27.5,3.9,1.3
+130,Big Mac,273,11,16,22
+131,cheeseburger,277,13,12,29
+132,cheeseburger podwójny,277,14,16,21
+133,Chicken McNuggets,287,14,18,17
+134,chipsy kukurydziane solone,501,6.6,23.9,60.9
+135,chipsy kukurydziane z chili,500,6.6,23.8,61
+136,chipsy ziemniaczane bekonowe,566,6.6,39.1,51.8
+137,chipsy ziemniaczane o smaku cebuli,522,6.2,31.2,52
+138,chipsy ziemniaczane o smaku kurczaka,508,6.6,32,48.9
+139,chipsy ziemniaczane fromage,509,6.7,32.1,49
+140,chipsy ziemniaczane paprykowe,548,6.3,41,50
+141,chipsy ziemniaczane solone,556,6.1,41,51.2
+142,chrupki kukurydziane,361,9,3,80.2
+143,chrupki kukurydziane o smaku hod-doga,481,6.1,23.2,64.2
+144,chrupki kukurydziane wiosenna cebulka,544,6.1,33.9,53.2
+145,chrupki kukurydziane o smaku serowo-keczupowym,498,6.3,25.7,60
+146,chrupki ziemniaczane o smaku keczupowym,511,3.3,29.3,61.1
+147,frytki mor¿one,177,2.4,5.4,27.7
+148,frytki z frytkownicy,261,3.3,12.1,33.2
+149,frytki z piekarnika,233,2.7,5.1,36.8
+150,hamburger,267,11,10,33
+151,hamburger McChicken,295,9.7,15.9,28.3
+152,Hot Wings skrzyde³ka w superpikantnej panierce,363,24.3,24.3,11.7
+153,kurczak Hot&Spicy w pikantnej panierce,368,26.6,23,13.9
+154,kurczak Hot&Spicy Strips w podwójnej pikantnej panierce,238,21.7,11.3,10.7
+155,kurczak Kentucky w ³agodnej panierce,246,26,10.9,11.3
+156,pizza pepperoni mro¿ona,233,12.2,7.5,28.8
+157,pizza z pieczarkami i cebul¹ mro¿ona,300,12.5,13.2,32.7
+158,pizza z sosem pomidorowym i serem na cienkim cieœcie,289,10.6,15,29.6
+159,pizza z sosem pomidorowym i serem na grubym cieœcie,270,10.7,10.9,34.7
+160,pizza z szynk¹ mro¿ona,225,10,3,39
+161,popcorn bez t³uszczu,400,12.2,4.5,78.5
+162,popcorn z t³uszczem,523,9.3,28.9,58.2
+163,borowiki,33,2.9,0.3,5.7
+164,borowiki suszone,260,20.1,3.6,52.8
+165,dro¿d¿e piekarskie prasowane,124,11.5,1.6,14.6
+166,dro¿d¿e piwne suszone,275,39.2,1.1,37.9
+167,grzyby chiñskie pochwianeczka jadalna œwie¿e,26,2.2,0.4,4.1
+168,grzyby chiñskie czarne suszone,290,0,0,73.5
+169,grzyby shiitake gotowane,56,0,0,15.1
+170,grzyby shiitake œwie¿e,14,2.6,0.4,2.7
+171,grzyby suszone ró¿ne,290,9.3,0.8,64
+172,grzyby suszone ró¿ne gotowane,103,3.6,0.4,27.9
+173,kurki,18,1.3,0.6,4.2
+174,pieczarki,15,2.6,0.5,2.7
+175,pieczarki gotowane,22,2.1,0.7,3
+176,pieczarki marynowane,27,2,0.4,5.2
+177,pieczarki sma¿one,256,3.5,24.5,3.1
+178,pieczarki suszone,332,19.9,1.9,48.5
+179,rydze,24,3.1,0.4,3.8
+180,baleron gotowany,245,15.2,20.4,0.8
+181,baranina ³opatka,287,15.3,25.7,0
+182,baranina ³opatka pieczona,313,20.9,25.4,0
+183,baranina miêso bez koœci,233,17.7,17.8,0
+184,baranina miêso z koœci¹,307,16.7,26.9,0
+185,baranina udziec,231,18.3,18.2,0
+186,baranina udziec pieczony,292,24.7,20.4,0
+187,baton szynkowy z indyka,145,15,9.8,0.2
+188,baton z kurczaka,142,16.6,8.5,0.2
+189,bekon,432,14.5,42.8,0
+190,bekon chiñski suszony,292,16.4,24.9,3.3
+191,bekon gotowany,169,28.6,5.3,0
+192,bekon kanadyjski,406,27.1,33.3,0
+193,bekon œrodkowy,408,23.9,34.3,0
+194,bekon wêdzony z rusztu,233,31.8,11.1,0
+195,cielêcina frykando,107,13,5.1,2.5
+196,cielêcian ³opatka,101,19.8,3,0
+197,cielêcina ³opatka duszona,200,33.3,6,0
+198,cielêcina ³opatka gotowana,111,21,3.1,0
+199,cielêcina ³opatka pieczona,165,26.6,6.5,0
+200,cielêcina ³opatka sma¿ona,203,32,6.9,0
+201,cielêcina miêso bez koœci,103,19.2,3.3,0
+202,cielêcina miêso z koœci¹,155,20.1,8.8,0.1
+203,cielêcina sznyclówka,1.3,21,2.2,0
+204,cielêcina sznyclówka duszona,210,33.9,6.1,0
+205,cielêcina sznyclówka pieczona,171,27,6.2,0
+206,cielêcina szynka,201,36,6.1,0
+207,cielêcina szynka duszona,207,32.1,6.1,0
+208,cielêcina szynka pieczona,177,26.1,6.4,0
+209,cielêcina udziec,110,20,3.3,0
+210,cielêcina udziec duszony,191,33.3,5.2,0
+211,cielêcina udziec gotowany,195,33.2,5.3,0
+212,cielêcina udziec pieczony,146,27,3.3,0
+213,cielêcina udziec sma¿ony,202,30.3,8.8,0
+214,cynaderki,95,16.3,3.3,0.9
+215,cynaderki gotowane,166,27.2,5.9,0.1
+216,flaki gotowane,101,18.1,3.1,0
+217,flaki surowe,88,16.4,2.3,0
+218,g³owizna w galarecie,221,11.3,11.4,0
+219,jagniêcina bez koœci,277,17.3,22.4,0
+220,jagniêcina bez koœci gotowana,277,24.6,17.9,0
+221,kabanosy wieprzowe,330,28.9,25.1,0
+222,kabanosy wieprzowo-wo³owe,370,16.7,30.1,0.9
+223,kie³basa bia³a,333,15.1,26.9,2.8
+224,kie³basa chorizo,380,17.1,33.8,1.4
+225,kie³basa domowa,325,15.1,30.1,0.6
+226,kie³basa domowa gotowana,311,20.9,24.3,1.4
+227,kie³basa krakowska parzona,170,20.3,9.9,0
+228,kie³basa krakowska sucha,325,26.8,25.1,0
+229,kie³basa litweska,285,15.3,23.8,1.2
+230,kie³basa lubuska,256,17.7,18.1,4.7
+231,kie³basa mielonka,170,12.4,11.3,3.5
+232,kie³basa mortadela,203,13,18.2,0
+233,kie³basa mortadela cielêca,187,12.1,16.8,0
+234,kie³basa mortadela wieprzowo-cielêca,316,13.1,26.8,0
+235,kie³basa mortadela z pieczarkami,233,11,15.5,2
+236,kie³basa myœliwska sucha,300,28.1,20.3,0
+237,kie³basa parówki dla dzieci,230,13.1,20.2,0.5
+238,kie³basa parówki Morlinki,251,13.1,21.8,0.7
+239,kie³basa parówki Soko³ów,356,9.2,34.8,0.8
+240,kie³basa parówki popularne,250,9.6,33.9,0.5
+241,kie³basa parówki popularne parzone,310,14,27.5,1.6
+242,kie³basa parówkowa,333,11.2,32.6,0
+243,kie³basa parówkowa gotowana,298,15.4,25.9,0
+244,kie³basa parówkowa wieprzowo-cielêca,293,11.9,25.6,0
+245,kie³basa podwawelska,255,18.1,18.9,1
+246,kie³basa polska,338,17.2,32.9,2.9
+247,kie³basa rzeszowska,213,21.2,13.6,0
+248,kie³basa serwolatka,460,16.2,43.9,0.3
+249,kie³basa serwolatka angielska,266,11.2,21.3,7.8
+250,kie³basa œl¹ska,213,19.2,16,0
+251,kie³basa œl¹ska pieczona na grillu,333,22.9,27.8,0
+252,kie³basa toruñska,278,21.5,20.5,0
+253,kie³basa wiejska,299,16.7,30.1,0.3
+254,kie³basa w³oska cotechino,370,15.3,34.2,0
+255,kie³basa zwyczajna,212,17.7,15.5,0
+256,kie³basa ¿u³awska,212,18.2,14.1,0
+257,kie³basa ¿ywiecka,320,21.1,20.1,0
+258,kie³baski bawarskie,302,15.4,27,0.1
+259,kie³baski francuskie toulouse,370,12.2,33.3,4.9
+260,kie³baski frankfurterki,370,13.2,32.3,0
+261,kie³baski serdelki,322,10.1,37.5,2
+262,kie³baski w puszce,233,13.4,20.2,0
+263,kie³baski wiedeñskie,250,14.1,21.2,3.3
+264,kie³basy wieprzowe sma¿one,320,14.4,25.6,10.8
+265,kie³basy wo³owe sma¿one,273,13.5,18.9,15.6
+266,kiszka kaszana gryczana,260,18.2,33.4,21.1
+267,kiszka kaszana jêczmienna,199,8.6,13,13.1
+268,kiszka pasztetowa,399,12.5,36.1,4.5
+269,konina bez koœci,111,20.9,2.3,0
+270,konina bez koœci pieczona,145,27.9,3.2,0
+271,konina z koœci¹,107,22.8,2.3,0
+272,konina z koœci¹ pieczona,156,29.1,3.2,0
+273,koŸlêcina pieczona,140,27.3,2.7,0
+274,ko¿lêcina surowa,111,20.2,2,0
+275,królik tuszka,160,22.1,7.4,0
+276,królik tuszka duszona,249,32.4,13,0
+277,królik tuszka pieczona na grillu,240,20.9,12.2,0
+278,krupniok,250,14.8,33.1,19.2
+279,mielonka,207,17.3,14.2,2.7
+280,mózg cielêcy,103,9.9,7.2,0
+281,mózg wieprzowy,143,12.1,10.8,0
+282,mózg wo³owy,132,11.4,10.2,0
+283,nerki baranie,88,16.3,2.5,0
+284,nerki baranie sma¿one,156,25.1,6.6,0
+285,nerki wieprzowe,99,17,3.5,0
+286,nerki wieprzowe duszone,155,25.4,6.2,0
+287,nerki wieprzowe gotowane,162,24.8,5.4,0
+288,nerki wo³owe,87,15.6,2.7,0
+289,nerki wo³owe duszone,177,26.4,7.9,0
+290,ogon wieprzowy duszony,245,31.2,14,0
+291,ozór cielêcy,107,17.3,4.4,0
+292,ozór wieprzowy,166,17,11.3,0
+293,ozór wieprzowy gotowany,214,25.1,12.5,0
+294,ozór wo³owy marynowany wêdzony,212,15.1,15.1,0
+295,ozór wo³owy peklowany wêdzony,212,15.1,15.1,0
+296,pastrami z pieprzem,660,10.2,65,0
+297,pasztet pieczony,400,17.1,32.1,14
+298,pasztet popularny,406,13.1,38.9,1.8
+299,p³uca wieprzowe,75,16,1.3,0
+300,polêdwica luksusowa,180,20.1,10.5,2.6
+301,polêdwica sopocka,166,19.6,8.9,1
+302,salami luksusowe,560,22.3,50.9,1.2
+303,salami mini,565,22.1,53,1
+304,salami niemieckie,522,17.5,49.4,0
+305,salami popularne,580,22.3,54.3,1.5
+306,salceson bia³y,368,14.8,34.5,0
+307,salceson czarny,344,13.2,33,0.7
+308,salceson w³oski,324,14.9,30.2,0
+309,sarnina comber grillowany,155,32.3,2.1,0
+310,sarnina grillowana,153,30.4,2.6,0
+311,sarnina miêso mielone opiekane na patelni,183,27.2,8.3,0
+312,sarnina pieczona,160,30.3,2.9,0
+313,sarnina polêdwica z grila,155,30.3,2.6,0
+314,sarnina surowa,118,23.2,2.6,0
+315,schab wêdzony,133,24.5,4.3,0
+316,serca wieprzowe,117,17.2,4.5,1.1
+317,serca wieprzowe duszone,153,23.5,6.1,0.5
+318,serca wieprzowe gotowane,147,22.8,5.3,0.3
+319,szynka kanapkowa,101,14.5,4.6,1.5
+320,szynka surowa wieprzowa,259,18.2,20.7,0
+321,szynka wiejska,256,17,20.4,1.1
+322,szynka wieprzowa gotowana,337,16.8,19,1.1
+323,szynka wieprzowa wêdzona gotowana,390,23.2,33.1,0
+324,szynka z dzika,110,27.7,3.2,0.2
+325,szynkówka wieprzowa,197,13.7,15,1.3
+326,szynkówka wo³owa,85,16.4,1.6,1.5
+327,œlimaki,77,15.5,0.9,2.1
+328,œlimaki w muszlach,26,5.3,0.4,0
+329,œlimaki winniczki gotowane,84,19.4,1.5,0
+330,œlimaki z konserwy,120,25,2.3,0.4
+331,w¹troba barania sma¿ona,233,23,13.8,4
+332,w¹troba barania surowa,182,20.3,10.5,1.8
+333,w¹troba cielêca,125,20,3.5,4.2
+334,w¹troba cielêca duszona,155,23.5,5,2.2
+335,w¹troba cielêca sma¿ona,230,31.5,8.7,3.4
+336,w¹troba wieprzowa sma¿ona,170,27.2,3.9,4.1
+337,w¹troba wieprozwa surowa,140,22.5,3.6,2.8
+338,w¹troba wo³owa,127,20,3.3,3.9
+339,w¹troba wo³owa duszona,161,24.8,4.4,2.5
+340,w¹troba wo³owa sma¿ona,230,34.2,7.5,3.2
+341,w¹trobianka,236,10.9,20.7,0.8
+342,wêdzonka wo³owa gotowana,102,17.7,3.3,0.6
+343,wieprzowina biodrówka,136,19.2,6.6,0
+344,wieprzowina biodrówka duszona,202,26.1,10.2,0
+345,wieprzowina biodrówka pieczona,207,26,10.5,0
+346,wieprzowina biodrówka sma¿ona,205,25.8,11.3,0
+347,wieprzowina boczek bez koœci,515,10.5,54,0
+348,wieprzowina boczek bez koœci duszony,620,15.7,62.1,0
+349,wieprzowina boczek bez koœci pieczony,570,36.1,46,0.7
+350,wieprzowina boczek bez koœci sma¿ony,655,10.1,68.2,0
+351,wieprzowina boczek bez koœci wêdzony,560,8.8,57.6,0.1
+352,wieprzowina boczek bez koœci wêdzony œredniochudy,491,14.2,52.4,0.1
+353,wieprzowina golonka przednia ze skór¹,291,19.2,23.1,0
+354,wieprzowina golonka przednia ze skór¹ duszona,388,29.7,30.2,0
+355,wieprzowina golonka przednia ze skór¹ pieczona,313,29.1,22.3,0
+356,wieprzowina golonka przednia ze skór¹ sma¿ona,420,23.1,26.8,0
+357,wieprzowina golonka tylna ze skór¹,297,18.8,25,0
+358,wieprzowina golonka tylna ze skór¹ duszona,399,30.6,30.7,0
+359,wieprzowina golonka tylna ze skór¹ pieczona,323,29.1,23.3,0
+360,wieprzowina golonka tylna ze skór¹ sma¿ona,426,22.4,38.1,0
+361,wieprzowina karkówka,272,16.5,23.1,0
+362,wieprzowina karkówka pieczona,421,18.4,37.9,0
+363,wieprzowina karkówka sma¿ona,403,19.4,35.3,0
+364,wieprzowina koœci,344,13.8,32.1,0
+365,wieprzowina krew,75,17,0.3,0.3
+366,wieprzowina ³opatka,262,16.3,21.8,0
+367,wieprzowina ³opatka pieczona,285,17.2,23.4,0
+368,wieprzowina mózg gotowany,148,13.4,10.5,0
+369,wieprzowina nogi,276,23.4,20.7,0
+370,wieprzowina nogi gotowane,189,19,11.5,0
+371,wieprzowina pachwina,644,7.6,68.2,0
+372,wieprzowina pachwina duszona,720,10.9,73.9,0
+373,wieprzowina pachwina gotowana,633,14.2,62.7,0
+374,wieprzowina pachwina pieczona,760,6.1,80.9,0
+375,wieprzowina pachwina sma¿ona,752,6.8,79.3,0
+376,wieprzowina podgardle,644,7.6,68.2,0
+377,wieprzowina podgardle duszone,720,11.1,73.8,0
+378,wieprzowina podgardle gotowane,633,13.8,63.7,0
+379,wieprzowina podgardle pieczone,761,6.2,81.4,0
+380,wieprzowina podgardle sma¿one,750,6.9,79,0
+381,wieprzowina polêdwica,129,18.6,6.2,0
+382,wieprzowina polêdwica duszona,205,25.6,10,0
+383,wieprzowina polêdwica pieczona,206,25.8,10.8,0
+384,wieprzowina polêdwica sma¿ona,209,25.9,10.9,0
+385,wieprzowina schab,134,19.2,6,0
+386,wieprzowina schab duszony,198,25.1,10,0
+387,wieprzowina schab pieczony,206,25.5,10.6,0
+388,wieprzowina schab sma¿ony,204,25.1,10.6,0
+389,wieprzowina schab z koœci¹,180,21.7,10.4,0
+390,wieprzowina schab z koœci¹ duszony,270,35.8,13.1,0
+391,wieprzowina schab z koœci¹ pieczony,246,31.3,12.2,0
+392,wieprzowina schab z koœci¹ sma¿ony,270,27.9,17.3,0
+393,wieprzowina serce,115,17.1,4.9,0
+394,wieprzowina szynka,266,18.3,21.5,0
+395,wieprzowina szynka duszona,361,29.7,26,0
+396,wieprzowina szynka peklowana,259,17.4,20.5,0.7
+397,wieprzowina szynka sma¿ona,377,21.8,31.7,0
+398,wieprzowina szynka w cieœcie sma¿ona,223,12.6,14,12.1
+399,wieprzowina wywar z koœci,6,1.4,0,0
+400,wieprzowina ¿eberka,327,15.3,29.5,0
+401,wieprzowina ¿eberka pieczone,424,21,37.5,0
+402,wo³owina antrykot,150,21.2,7.4,0
+403,wo³owina wo³owina antrykot duszony,217,31.1,9.4,0
+404,wo³owina antrykot gotowany,201,29.6,8.3,0
+405,wo³owina antrykot pieczony,235,24.1,15.5,0
+406,wo³owina antrykot sma¿ony,228,30.7,10.5,0
+407,wo³owina goleñ przednia,373,20.3,32.4,0
+408,wo³owina goleñ przednia duszona,511,26.4,44.6,0
+409,wo³owina goleñ przednia gotowana,431,27.4,34.4,0
+410,wo³owina goleñ tylna,371,20.3,32.5,0
+411,wo³owina goleñ duszona,511,27.1,44.4,0
+412,wo³owina goleñ tylna gotowana,427,28.1,33.9,0
+413,wo³owina karkówka,415,14.4,39.9,0
+414,wo³owina karkówka duszona,569,19.1,54.1,0
+415,wo³owina karkówka gotowana,481,20.2,44.1,0
+416,wo³owina koœci,368,20.3,32.5,0
+417,wo³owina ³ata,411,14.5,40,0
+418,wo³owina ³ata duszona,560,19,52.6,0
+419,wo³owina ³ata gotowana,471,19.5,43,0
+420,wo³owina ³opatka,226,21.1,15.8,0
+421,wo³owina ³opatka duszona,431,27.3,35.1,0
+422,wo³owina ³opatka gotowana,290,28.9,18.9,0
+423,wo³owina motek,359,19.7,31.5,0
+424,wo³owina mostek duszony,511,27.1,43.5,0
+425,wo³owina mostek gotowany,435,27.8,35.1,0
+426,wo³owina polêdwica,115,20.3,3.6,0
+427,wo³owina rostbef,156,22.3,6.9,0
+428,wo³owina rostbef duszony,163,32.3,2.9,0
+429,wo³owina rostbef pieczony,152,29,2.9,0
+430,wo³owina rostbef sma¿ony,167,33.2,2.8,0
+431,wo³owina rozbratel,150,21.1,7.3,0
+432,wo³owina rozbratel duszony,215,30.7,9,0
+433,wo³owina rozbratel gotowany,194,30,7.6,0
+434,wo³owina pieczony,231,23.8,14.7,0
+435,wo³owina sma¿ony,226,30.7,10.6,0
+436,wo³owina szponder,221,20.3,16.2,0
+437,wo³owina szponder peklowany,157,24,7.1,0
+438,wo³owina szynka gotowana,109,21.1,6.5,0
+439,wo³owina udziec,150,20.7,8,0
+440,wo³owina udziec duszony,226,31.1,10,0
+441,wo³owina udziec pieczony,258,25,16.1,0
+442,wo³owina udziec sma¿ony,234,30.8,10.9,0
+443,wo³owina wêdzona,156,23,7.1,0
+444,wo³owina wêdzonka gotowana,99,18.1,31.6,0.4
+445,wo³owina wywar z koœci,6,1.4,0,0
+446,zajêcze miêso duszone,200,806,8.2,0
+447,¿elatyna,455,85.1,0.1,0
+448,Actimel,71,2.8,1.6,10.5
+449,jajko kurze bia³ko,45,11.2,0.2,0.6
+450,jajko kurze bia³ko gotowane,55,11.6,0.3,0.8
+451,jajko kurze ca³e,138,12.4,9.9,0.7
+452,jajko kurze ca³e gotowane,155,12.7,11.1,0.4
+453,jajko kurze ca³e sma¿one na maœle,276,10,43.9,0.8
+454,jajko kurze ca³e sma¿one na oleju,303,12.1,29.1,0.5
+455,jajko kurze ca³e sma¿one na smalcu,300,10.9,29.1,0.6
+456,jajko kurze ¿ó³tko,313,15.7,28.3,0.4
+457,jajko kurze ¿ó³tko gotowane,243,16.1,28.3,0.5
+458,jajko tysi¹cletnie (chiñskie),193,16.1,15.9,0.8
+459,jogurt Activia z suszonymi œliwkami,95,3.6,2.6,14.2
+460,jogurt ba³kañski,112,3.8,9,4
+461,jogurt bananowy 15% t³uszczu,72,2.6,1.5,10.8
+462,jogurt brzoskwiniowy z ziarnami zbó¿ Bakoma,95,2.7,2.5,15.6
+463,jogurt do picia Danonki,87,2.8,1.6,15.4
+464,jogurt gruszkowo-jab³kowy z ziarnami zbó¿ Bakoma,93,2.5,2.5,15
+465,jogurt gruszkowy Danone,87,2.6,2.3,14
+466,jogurt jagodowy 15% t³uszczu,66,3.9,1.5,9
+467,jogurt morelowy 15% t³uszczu,66,3.9,1.5,9.1
+468,jogurt naturalny 0% t³uszczu,53,5.9,0,7.9
+469,jogurt naturalny 2% t³uszczu,62,4.5,2.2,6.3
+470,jogurt truskawkowy 15% t³uszczu,62,3.5,1.5,8.1
+471,jogurt winogronowy z ziarnami zbó¿ Zott,100,3.9,2.6,15.2
+472,jogurt wiœniowy 0% t³uszczu bez cukru,50,5.7,0,8.1
+473,jogurt wiœniowy 15% t³uszczu,60,3.5,1.5,8
+474,jogurt z ziarnami 7 zbó¿ Bakoma,92,2.5,2.5,15
+475,jogurt z ziarnami zbó¿ i suszon¹ œliwk¹ Zott,100,3.9,2.6,15.2
+476,kefir 0% t³uszczu,26,3.3,0,3.1
+477,kefir 2% t³uszczu,55,3.6,2,4.8
+478,maœlanka 05%,36,3.5,0.6,4.9
+479,maœlanka 15%,45,3,1.7,4.9
+480,mleko kobyle,43,2,1.1,6.6
+481,mleko kozie,70,3.1,4,4.6
+482,mleko krowie bananowe,66,3.5,1.2,11.8
+483,mleko krowie czekoladowe,75,3.6,1.4,12.5
+484,mleko krowie pasteryzowane 05% t³uszczu,40,3.6,0.5,5.2
+485,mleko krowie pasteryzowane 20% t³uszczu,54,3.5,2,5.3
+486,mleko krowie pasteryzowane 32% t³uszczu,62,3.4,3.2,5
+487,mleko krowie pasteryzowane 35% t³uszczu,66,3.2,3.5,5
+488,mleko krowie UHT 05% t³uszczu,40,3.6,0.5,5.2
+489,mleko krowie UHT 15% t³uszczu,45,3.3,1.5,5.1
+490,mleko krowie UHT 20% t³uszczu,53,3.5,2,5
+491,mleko krowie 32% t³uszczu,63,3.5,3.2,5
+492,mleko krowie w proszku odt³uszczone,260,36.1,0.9,52
+493,mleko krowie w proszku pe³ne,475,27.1,24.2,29.2
+494,mleko krowie w proszku pó³t³uste,409,30.3,12.4,40.5
+495,mleko krowie zagêszczone nies³odzone,133,6.7,7.7,9.6
+496,mleko krowie zagêszczone s³odzone,330,7.7,8.2,56.1
+497,mleko krowie zsiad³e,60,3.2,3.1,4.9
+498,mleko owcze,109,6.2,7.1,5.3
+499,mleko sojowe,53,4.7,2.1,5
+500,mleko sojowe czekoladowe,47,2.8,2,5.9
+501,mleko wielb³adzie,70,3.9,4.1,4
+502,proszek jajeczny,590,49.2,42.5,2.9
+503,ser brie pó³t³usty,325,20.1,28.8,0.3
+504,ser bryndza,284,18.5,21.2,1.3
+505,ser bursztyn,340,27.3,26.3,0.2
+506,ser camembert pe³not³usty,299,21.6,22.5,0.3
+507,ser cheddar pe³not³usty,400,27.5,32.2,0.1
+508,ser edamski t³usty,316,27,22.8,0.2
+509,ser edamski topiony,299,13.6,27.5,1.4
+510,ser ementaler pe³not³usty,384,29.2,30.1,0.2
+511,ser emanteler t³usty,316,30,20.9,0.2
+512,ser feta,216,17.2,15.8,1.1
+513,ser gouda do smarowania Hochland,253,10,21,6
+514,ser gouda pe³not³usty,330,28.2,23.9,0.2
+515,ser gouda t³usty,310,27.5,21.6,0.2
+516,ser kozi miêkki,270,19,21.3,0.7
+517,ser kozi twardy,455,31.3,36,2.1
+518,ser limburski,255,25.1,20.5,0.2
+519,ser mascarpone,455,5.9,46,2.1
+520,ser mozzarella,251,11.7,12.1,23.8
+521,ser myœliwski pe³not³usty,344,25.4,27.3,0.2
+522,ser myœliwski t³usty,336,29.3,23.8,0.2
+523,ser oscypek,593,12.3,61,0.1
+524,ser owcy parzony typu mozzarella,266,15.3,20.9,0
+525,ser owczy solankowy typu feta,209,12.3,18.4,0
+526,ser owczy twarogowy bia³y,260,15.1,19.8,0
+527,ser owczy twarogowy pe³not³usty wêdzony,314,13.1,24.3,7.7
+528,ser parmezan,453,42,31.5,0.2
+529,ser pleœniowy,352,21.6,29.2,2.6
+530,ser pleœniowy Aksamitek SM Turek,350,17.5,31,0.3
+531,ser pleœniowy brie SM Turek,294,18,24.5,0.4
+532,ser pleœniowy cambozola Classic Finesse,427,14,41,0.5
+533,ser pleœniowy camembert SM Turek,294,18,24.5,0.4
+534,ser pleœniowy camembert Cr?me Valbon Hochland,331,10,31,3
+535,ser pleœniowy dorblu,356,21.5,29.8,0
+536,ser pleœniowy Lazur Blue Turkusowy,360,21.8,31,0.2
+537,ser pleœniowy Mabelle Camembert,354,17.7,31.2,0.4
+538,ser pleœniowy naturalny brie Sekret Mnicha,350,17.5,31,0.3
+539,ser pleœniowy Valbon Brie,360,17,32,1
+540,ser pleœniowy Valbon Camembert oryginalny,360,17,32,1
+541,ser pleœniowy Z³oty Brie SM Turek,350,17.5,31,0.3
+542,ser pleœniowy Z³oty Camembert SM Turek,350,17.5,31,0.3
+543,ser radamer,435,25.8,25.5,0.2
+544,ser ricotta,126,10.1,9.9,0
+545,ser rokpol pe³not³usty,370,23.1,31.2,0.2
+546,ser roquefort,380,21.5,31.8,1.6
+547,ser salami pe³not³usty,348,25.1,27.8,0.1
+548,ser salami t³usty,300,25.5,21.7,0.1
+549,ser stilton,384,25.4,34.7,0
+550,ser Tartare Delikatny,202,7.6,17.5,3.5
+551,ser Tartare Figura,197,7.6,16.5,4.3
+552,ser Tartare Kraina Smaków,228,6.2,21,3.5
+553,ser tofu,72,7.2,3.9,1.3
+554,ser topiony edamski,294,13.2,26.8,1.1
+555,ser topiony ementaler,306,12.8,27.1,0.9
+556,ser topiony kremowy,311,17.4,27.5,1.6
+557,ser topiony t³usty,225,18.3,16.1,1.4
+558,ser topiony z papryk¹ Hochland,309,7,29,5
+559,ser tosca z czosnkiem,165,10.4,11.8,4.1
+560,ser tosca z warzywami,165,8.1,11.9,5.5
+561,ser trapistów pe³not³usty,379,23.8,31,0.1
+562,ser trapistów t³usty,355,27.9,27,0.1
+563,ser twarogowy chudy,98,20,0.4,3.2
+564,ser twarogowy kremowy paprykowy Ostrowia,252,5,24,4
+565,ser twarogowy kwasowy chudy,105,21.4,1.4,2.5
+566,ser twarogowy kwasowy t³usty,170,8,9.3,3.6
+567,ser twarogowy pó³t³usty,135,18.9,4.8,3.6
+568,ser twarogowy œmietankowy Philadelphia,255,5.9,24,3.2
+569,ser twarogowy t³usty,177,17.9,10.3,3.6
+570,ser twarogowy ziarnisty,98,11.9,4.7,2.9
+571,ser tyl¿ycki pe³not³usty,360,27,28,0.1
+572,ser tyl¿ycki t³usty,330,28,24.5,0.1
+573,ser wiejski,129,17.4,4.7,2.7
+574,serek do wypieków SM TUrek,148,7.6,11.5,3.5
+575,serek fromage naturalny,380,10.3,37.3,2.2
+576,serek fromage z czosnkiem,370,10.3,36.2,3.7
+577,serek grani naturalny,90,11.2,3.9,2.4
+578,serek homogenizowany,143,16.4,3.7,12.8
+579,serek homogenizowany brzoskwiniowy,120,5.6,3.2,17.1
+580,serek homogenizowany czekoladowy,165,15.2,3.6,17.5
+581,serek homogenizowany jab³kowy z rodzynkami i cynamonem Danone,115,5.3,3,16.4
+582,serek homogenizowany jagodowy Danone,112,5.3,3,15.7
+583,serek homogenizowany naturalny SM Jana,118,13,6.5,1.8
+584,serek homogenizowany pe³not³usty,164,13,11.1,2.8
+585,serek homogenizowany truskawkowy Danone,168,15.3,3.9,17.6
+586,serek homogenizowany waniliowy Danone,159,16.8,4.2,13.3
+587,serek homogenizowany SM Jana,110,8.5,4,10
+588,serek homogenizowany wiœniowy SM Jana,118,9.4,0,11.1
+589,serek kremowy SM Turek,216,6.5,19.5,3.5
+590,serek œwie¿y SM Turek,157,7.7,12.5,3.5
+591,serek œwie¿y light SM Turek,73,8.5,3,3
+592,serek truskawkowy Danone,122,6.4,3.5,16.1
+593,serek twarogowy ziarnisty,104,12.5,4.5,3.4
+594,serwatka p³ynna,26,0.9,0.1,4.9
+595,œmietana 9% t³uszczu,111,2.8,9,4.5
+596,œmietana 12% t³uszczu,136,2.8,12,4
+597,œmietana 18% t³uszczu,185,2.7,18,3.4
+598,œmietana 20% t³uszczu,202,2.5,20,3.6
+599,œmietana 24% t³uszczu,240,2.5,24,3.5
+600,œmietana 30% t³usczu,292,2.3,30,3
+601,œmietanka 85% t³uszczu do kawy s³odzona,160,4.4,8.5,15.8
+602,œmietanka 9% t³uszczu do kawy,110,2.9,9,3.7
+603,œmietanka 12% t³uszczu,135,2.8,12,4
+604,œmietanka 18% t³uszczu,188,2.6,18,3.7
+605,œmietanka 20% t³uszczu,206,2.6,20,3.4
+606,œmietanka 30% t³uszczu,290,2.3,30,3.4
+607,zabielacz do kawy proszek,105,2.7,7.6,10.5
+608,adwokat,253,4.1,0,24.9
+609,ajerkoniak,277,5.4,0,29
+610,brandy,215,0,0,0
+611,coca-cola,42,0,0,10.4
+612,coca-cola bezkofeinowa,42,0,0,10.4
+613,coca-cola bezkofeinowa light,1,0.1,0,0.1
+614,coca-cola light,1,0.1,0,0.1
+615,curaçao likier,422,0,0,27.1
+616,gin,233,0,0,0
+617,herbata bez cukru napar,0,0,0,0.1
+618,herbata rumiankowa bez cukru napar,1,0,0,0.2
+619,herbata zielona z miêt¹,62,5.3,0,11
+620,herbata zio³owa bez cukru napar,1,0,0,0.2
+621,ja³owcówka,232,0,0,0
+622,kakao Nesquik proszek,380,3.5,3,84.3
+623,kakao proszek 16%,452,19,20.9,51.3
+624,kakao proszek 20%,460,19,20.1,51.2
+625,kawa 3 w 1 proszek Maxwell House,405,2.5,10.5,75.5
+626,kawa bez cukru napar,3,0.3,0,0.4
+627,kawa cappuccino proszek Mokate,413,9,9,74
+628,kawa cappuccino œmietankowe proszek,291,5.1,10.4,69.2
+629,kawa Ricore proszek,344,12.6,0.2,73
+630,kawa rozpuszczalna proszek Nescafé,240,12.2,0.5,41.1
+631,kawa rozpuszczalna z cykori¹ proszek,184,3.5,0,42.1
+632,kawa zbo¿owa bez cukru napar,3,0.3,0,0.4
+633,kawa zbo¿owa proszek,366,6.3,2.7,80
+634,koniak,321,0,0,0
+635,likier kminkowy,166,0,0,24.6
+636,likier orzechowy,274,0,0,22.3
+637,likier zio³owy,203,0,0,0
+638,napoje gazowane o smaku owocowym,44,0,0,11.2
+639,napój cytrynowy Jupik,15,0.1,0.1,3.5
+640,napój Fanta,48,0,0,11.7
+641,napój Fanta o smaku pomarañczowym,44,0,0,10.8
+642,napój herbaciany Ice Tea Green Lipton,28,0,0,6.8
+643,napój herbaciany o smaku malinowym proszek Gellwe,384,0,0,96
+644,napój herbata z limonk¹ ¯ywiec Zdrój,20,0,0,4.9
+645,napój jab³kowo-miêtowy Tymbark,39,0.1,0.1,9.5
+646,napój jab³kowy,43,0.1,0.4,9.9
+647,napój mleczny jogurtowy,80,3.8,1.7,11.8
+648,napój mleczny kakaowy,79,3.1,2,11.7
+649,napój mleczny Monte Drink,87,3.8,2.1,13.1
+650,napój Red Bull,45,0,0,11.3
+651,napój Sprite,42,0,0,10.5
+652,napój z czarnej porzeczki Tymbark,57,0.1,0.1,14
+653,nektar jab³kowy antonówka Tymbark,44,0.1,0.1,10.6
+654,nektar z czerwonych grejpfrutów Hortex,45,0.3,0.1,10.8
+655,oran¿ada,44,0,0,13.2
+656,pepsi cola,42,0,0,10.4
+657,pepsi cola bezkofeinowa,42,0,0,10.4
+658,pepsi cola bezkofeinowa light,1,0.1,0,0.1
+659,pepsi cola light,1,0.1,0,0.1
+660,piwo bezalkoholowe,29,0.3,0,5.4
+661,piwo ciemne,50,0.3,0,5.6
+662,piwo ciemne pe³ne,77,0.5,0.1,7.2
+663,piwo imbirowe,32,0,0,8.5
+664,piwo jasne,42,0.6,0,4
+665,piwo jasne pe³ne,72,0.5,0.1,5
+666,piwo korzenne,42,0,0,11
+667,porter,90,0.5,0.1,9.5
+668,porto,170,0,0,12
+669,portwein,162,0.3,0,14.5
+670,rum,241,0,0,0
+671,sherry s³odkie,145,0,0,5.8
+672,sherry wytrawne,115,0,0,1.5
+673,soka ananasowy,50,0.4,0.2,11.8
+674,sok brzoskwiniowo-bananowo-jab³kowy Hortex,45,0.4,0.1,10.5
+675,sok cytrynowy,27,0.5,0.3,6.1
+676,sok grejpfrutowy,40,0.6,0.1,9.4
+677,sok grejpfrutowy ró¿owy œwie¿y,40,0.4,0.1,9.4
+678,sok grejpfrutowy œwie¿y,40,0.4,0.1,9.4
+679,sok gruszkowy,46,0,0,12
+680,sok jab³kowo-burakowy Bio pasteryzowany Rzepka,38,0.7,0.1,8.5
+681,sok jab³kowy,44,0.1,0.1,9.5
+682,sok jab³kowy Bobo Frut,42,0.1,0,10.5
+683,sok jab³kowy Tymbark,42,0.1,0.1,10.2
+684,sok jab³kowy 100% Fortuna,46,0.1,0.1,10.9
+685,sok jab³kowy 100% Hortex,40,0.1,0.1,10
+686,sok jab³kowy antonówka Tymbark,44,0.1,0.1,10.6
+687,sok jab³kowy Bio pasteryzowany Rzepka,40,0.1,0.1,10
+688,sok jab³kowy pasteryzowany Specja³ Wiejski,40,0.1,0.1,10
+689,sok jab³kowy œwie¿y,24,0.5,0.4,4.9
+690,sok Kubuœ banan jab³ko i brzoskwinia,52,0.4,0.1,13.2
+691,sok marchwiow-brzoskwiniowy,45,0.6,0.1,11.1
+692,sok marchwiowo-jab³kowo-bananowy Pysio,48,0.5,0.1,11
+693,sok marchwiowo-jab³kowo-brzoskwiniowy Pysio,48,0.4,0.1,11
+694,sok marchwiowo-jab³kowo-pomarañczowy,45,0.7,0.3,11.5
+695,sok marchwiowo-jab³kowy,47,0.6,0.4,13
+696,sok marchwiowo-jab³kowy Bio pasteryzowany Rzepka,43,0.2,0.1,10.6
+697,sok marchwiowo-pomarañczowy,38,0.7,0.2,11.1
+698,sok marchwiowy,44,0.5,0.1,11.5
+699,sok pomarañczowy,44,0.7,0.1,10
+700,sok pomarañczowy œwie¿y,45,0.8,0.2,10.5
+701,sok pomidorowy,12,0.9,0.1,2.7
+702,sok pomidorowy Hortex,15,0.9,0.2,2.4
+703,sok pomidorowy Bio pasteryzowany Rzepka,14,0.8,0.1,2.6
+704,sok pomidorowy pikantny œwie¿y Tymbark,13,0.8,0.1,2.2
+705,sok wielowarzywny,26,1.1,0.4,5.6
+706,sok z burak i ogórka kiszonego Cymes,28,1.4,0.1,9.1
+707,sok z buraków,36,1.5,0.1,7.3
+708,sok z cytryny œwie¿y,22,0.5,0.2,6.6
+709,sok z czarnej porzeczki pasteryzowany Wiejski Specja³,53,0.3,0.1,12.7
+710,sok z czarnej porzeczki œwie¿y,55,0.4,0.1,12
+711,sok z jab³ek œwie¿y Cymes,47,0.3,0.3,12
+712,sok z limonki œwie¿y,24,0.3,0.1,9.2
+713,sok z marchwi i selera œwie¿y Cymes,28,0.3,0.4,8.4
+714,sok z marchwi jab³ek i owoców tropikalnych,53,0.6,0.4,13.8
+715,sok z marchwi œwie¿y,46,0.5,0.2,11.5
+716,sok z marchwi œwie¿y Cymes,27,0.3,0.4,8.4
+717,sok z pomarañczy Jaffa œwie¿y Cymes,44,0.6,0.1,9.9
+718,sok z pomidorów,15,0.9,0.1,2.7
+719,sok z winogron,59,0.7,0.1,15.3
+720,szampan,76,0.4,0,1.5
+721,szampan pó³s³odki,99,0.3,0,7
+722,szampan pó³wytrawny,80,0.1,0,3.5
+723,szampan s³odki,121,0.3,0,12
+724,tonik,35,0,0,9.1
+725,tonik Schweppes,30,0,0,7.2
+726,whisky,220,0,0,0
+727,whisky scotch,250,0,0,0
+728,winiak,263,0,0,0
+729,wino bia³e musuj¹ce,77,0,0,1.6
+730,wino bia³e pó³wytrawne,83,0.1,0,3.9
+731,wino bia³e s³odkie,90,0.2,0,6.1
+732,wino bia³e wytrawne,111,0.1,0,0.8
+733,wino czerwone,109,0.1,0,0.3
+734,wino czerwone pó³s³odkie,78,0,0,0.9
+735,wino czerwone s³odkie,107,0.1,0,8.3
+736,wino czerwone wytrawne,68,0,0,0.4
+737,wino lecznicze chrzanowe,88,0.3,0,14.9
+738,wino lecznicze selerowe,75,0.3,0,12.9
+739,wino madera,97,0,0,2.4
+740,wino malaga,134,0,0,8.3
+741,wino ró¿owe,73,0,0,2.7
+742,wino wermut s³odkie,174,0.2,0,16.2
+743,wino wermut wytrawne,97,0,0,4.8
+744,wino z czarnej porzeczki,80,0.5,0.2,22.8
+745,wino z g³ogu,72,0.3,0,18.9
+746,wino z pomarañczy,157,0.2,0,39.6
+747,wino z winogron,111,0.4,0.2,28.3
+748,woda mineralna Muszynianka,0,0,0,0
+749,woda mineralna Na³êczowianka,0,0,0,0
+750,woda mineralna Zywiec Zdrój,0,0,0,0
+751,woda z kranu,0,0,0,0
+752,wódka,239,0,0,0
+753,wódka czysta,224,0,0,0
+754,wódka s³odka,265,0,0,0
+755,any¿ nasiona,332,17.7,16.3,51
+756,dynia pestki,566,25.6,45.9,18.3
+757,dynia pestki opiekane,523,33,43.2,13.5
+758,kokos,342,3.5,32.1,16.1
+759,koper nasiona,303,17.2,15.1,56
+760,len nasiona,540,19.1,43,28.3
+761,mak niebieski,487,20.2,43.8,35.2
+762,migda³y,577,21.2,53.1,20.6
+763,migda³y kalifornijskie,580,21.2,53,20.7
+764,migda³y opiekane na sucho,616,21.3,55.2,20.2
+765,migda³y opiekane w oleju,620,20.3,57.1,19
+766,mleczko kokosowe,21,0.8,0.3,3.8
+767,orzechy arachidowe,565,25.9,47,19.9
+768,orzechy arachidowe opiekane na sucho,580,24.1,47,26.1
+769,orzechy arachidowe opiekane w oleju,570,26.3,46.4,22.1
+770,orzechy brazylijskie,678,13.8,66.1,14.5
+771,orzechy cashews pra¿one i solone,598,21.5,51.8,25.5
+772,orzechy kokosowe œwie¿e mi¹¿sz,655,3.5,67.5,15.6
+773,orzechy kokosowe wiórki,605,5.7,64.3,27.1
+774,orzechy laskowe,644,14.8,63.1,15
+775,orzechy laskowca opiekane na sucho,660,14.6,65,15.5
+776,orzechy nerkowca,570,18.3,47.1,27.8
+777,orzechy nerkowca opiekane na sucho,577,16,47.1,33.2
+778,orzechy nerkowca opiekane w oleju,580,17,47,31
+779,orzechy pekan,690,9.3,70.9,15.1
+780,orzechy pinii,675,14,68.5,13.2
+781,orzechy pistacjowe,590,21.1,28.7,25.3
+782,orzechy pistacjowe opiekane na sucho,596,21.3,50.5,25.1
+783,orzechy pistacjowe w ³upinkach pra¿one i solone bez t³uszczu,622,20.5,53.7,15.8
+784,orzechy w czekoladzie,640,4.7,16.5,79
+785,orzechy w³oskie,651,16.3,60.5,18.7
+786,sezam nasiona,630,23.8,61.5,9.7
+787,sezam nasiona opiekane,606,15,53.1,27.9
+788,s³onecznik nasiona,570,25.4,44.5,23.2
+789,s³onecznik nasiona opiekane na sucho,670,21,44.5,20.4
+790,s³onecznik nasiona opiekane w oleju,590,23.3,51.2,19.6
+791,s³onecznik nasiona z miodem,555,19.7,40.4,15.2
+792,wiórki kokosowe,705,5.8,64.1,26.7
+793,agrest,40,0.7,0.3,12.1
+794,ananas,55,0.5,0.3,14.1
+795,ananas plastry w syropie,87,0.5,0.2,21.2
+796,ananas suszony,334,2.6,2.6,74.6
+797,arbuz,35,0.4,0.1,8.8
+798,awokado,164,2.2,15.6,7.7
+799,babaco,20,1,0.2,3.6
+800,banan,97,1.1,0.5,23.6
+801,banan skrobiowy,111,0,0,29
+802,banan suszony,345,3.7,1.5,87.9
+803,Borówki,48,0.3,0.3,12.1
+804,borówki amerykañskie,59,0.9,0.3,15.2
+805,borówki konfitura do miês,192,0.3,0.1,53.1
+806,brzoskwinia,45,1.1,0.4,12.3
+807,brzoskwinia mus,78,2.8,0.2,18.9
+808,brzoskwinia suzona,255,5.5,1.6,64.3
+809,brzoskwinia w syropie,77,0.7,0.1,19.9
+810,brzoskwinia w syropie ods¹czona,88,0.9,0.2,21.5
+811,canistel,155,2.2,1.3,42.1
+812,cytron kandyzowana skórka,91,0,0,24.1
+813,cytryna,35,1.3,0.4,9.3
+814,cytryna œwie¿a skórka,73,1.7,0.2,17
+815,czarne jagody,46,1.1,0.9,13.8
+816,czarne jagody gotowane,93,0.7,0.2,21.9
+817,czarne jagody mro¿one,44,1,0.5,13.1
+818,czereœnie,62,1.1,0.4,13.9
+819,czereœnie suszone,275,4.6,1.3,69.9
+820,daktyly,92,0,0,26.2
+821,daktyle suszone,279,2.2,0.3,73.9
+822,durian,30,1.1,0,6.7
+823,dynia,26,1.7,0.5,7.6
+824,dynia gotowana,24,1.1,0.3,6.2
+825,d¿em agrestowo-truskawkowy niskos³odzony,166,0.6,0.3,40.2
+826,d¿em ananasowy bez cukru,601,0.3,0.1,36.2
+827,d¿em ananasowy niskos³odzony,154,0.3,0.2,39.2
+828,d¿em brzoskwiniowy niskos³odzony,159,0.6,0.2,37.3
+829,d¿em jagodowy bez cukru,148,0.6,0.4,36.6
+830,d¿emu jagodowy niskos³odzony,154,0.4,0.1,39.1
+831,d¿em morelowy niskos³odzony,155,0.5,0.2,39
+832,d¿em pomarañczowy niskos³odzony,155,0.3,0.2,38.7
+833,d¿em œliwkowy niskos³odzony,155,0.4,0.2,38.2
+834,d¿em œliwkowy wysokos³odzony,155,0.4,0.3,37.7
+835,d¿em truskawkowy,167,0.4,0.3,39
+836,d¿em truskawkowy wysokos³odzony,255,0.4,0.3,63.4
+837,d¿em wiœniowy niskos³odzony,156,0.3,0.1,37.6
+838,d¿em wiœniowy wysokos³odzony,259,0.5,0.3,62.3
+839,d¿em z czarnej porzeczki niskos³odzony,155,0.4,0.2,40.1
+840,d¿em z czarnej porzeczki wysokos³odzony,255,0.6,0.2,64.1
+841,d¿em z kiwi niskos³odzony,156,0.3,0.2,38.1
+842,d¿em z moreli s³odzony fruktoz¹,122,0.5,0.2,31
+843,d¿em z pigwy,163,0.2,0.3,41.1
+844,d¿em z truskawek s³odzony fruktoz¹,119,0.2,0.1,29.8
+845,figi kaktusowe,44,0.7,0.2,9.4
+846,figi suszone,292,3.9,1.4,78.9
+847,figi suszone duszone,133,1.3,0.7,33.1
+848,figi œwie¿e,77,0.6,0.4,20
+849,granat,70,1.1,0.4,18.3
+850,grejpfrut,34,0.5,0.2,10.3
+851,grejpfrut czerwony,33,0.6,0.2,7.4
+852,grejpfrut w puszcze s³odzony,73,0.8,0.2,18.4
+853,gruszka,55,0.7,0.3,14.6
+854,gruszka gotowana,55,1.1,0.3,12.9
+855,gruszka suszona,266,2,0.4,70
+856,gruszka suszona duszona bez cukru,122,0.7,0.4,32.9
+857,gruszka suszona duszona z cukrem,140,0.8,0.4,37.2
+858,guajawa,36,0.9,0.7,12.3
+859,guanabana,66,0.9,0,17.2
+860,jab³ko,44,0.6,0.5,13
+861,jab³ko gotowane,44,0.5,0.6,12.3
+862,jab³ko gwieŸdziste,69,1.2,1.1,16
+863,jab³ko mus,122,2.9,1.1,27
+864,jab³ko pieczone,105,0.2,1.9,21.1
+865,jab³ko pieczone z cukerm,110,0.4,1.7,24.2
+866,jab³ko suszone,244,2.3,2.2,63.6
+867,jab³ko suszone gotowane,63,0.2,0.4,16.3
+868,je¿yny,62,1.5,0.2,16.6
+869,kalamansi,30,1.2,0,7.8
+870,karambloa,34,1.1,0.9,7.7
+871,kiwi,55,1,0.4,14.3
+872,klementynki,39,1.1,0.2,8.9
+873,konfituraa truskawkowa,303,1.2,1.4,72.9
+874,konfitura wiœniowa,311,0.5,1.2,62.3
+875,kumkwat,13,0,0,3.2
+876,liczi,73,0.2,0.2,17.5
+877,limonka,28,0.6,0.3,11.2
+878,longan,56,0,0,14
+879,malinoje¿yny,35,1.5,0.3,14.1
+880,maliny,30,1.2,0.4,11.8
+881,maliny mro¿one,30,1.2,0.4,12.4
+882,maliny gotowane,144,17.2,2.8,1.5
+883,mandarynka,43,0.7,0.3,10.9
+884,mandarynka w zalewie,40,0.8,0.2,10.1
+885,mango,66,0.7,0.4,17.7
+886,mangostan,78,1.1,0.9,20
+887,marakuja,35,2.9,0.3,6.3
+888,marmolada,271,0.5,0.2,68.9
+889,marmolada œliwkowa,244,0.5,0.3,63.5
+890,melon,33,1,0.4,8.5
+891,melon gorzki,8,2.2,0,0.9
+892,melon kantalupa,23,0.3,0.1,4.8
+893,melon miodowy,33,1.1,0.1,6.5
+894,mieszanka owocowa mro¿ona,44,1,0.4,12.2
+895,morele,45,0.8,0.3,12.3
+896,morele gotowane,45,1.8,0.3,10.5
+897,morele suszone,290,5.5,1.3,72.4
+898,morele suszone duszone bez cukru,130,2.5,0.6,33.1
+899,morele w puszce s³odzone,90,0.8,0.2,23.4
+900,morwa czarna,31,2.1,0,6.4
+901,nektarynka,45,0.8,0.2,11.6
+902,owoc chlebowca,101,2.1,0.1,25.8
+903,papaja,45,0.7,0.1,10.8
+904,patison gotowany,11,0.1,0.1,1.9
+905,pepino (trimelon),19,0.2,0.1,4.8
+906,persymona czarna,66,2.1,0,14.8
+907,persymona suszona,276,1.5,0.7,73.1
+908,pigwa,55,0.5,0.1,16
+909,pigwica,58,0,0,14
+910,pomarañcze,45,1,0.3,10.9
+911,pomarañcze skórka,106,1.7,0.3,25.2
+912,pomelo,48,1.1,0,11.5
+913,pompela,43,1.1,0,12
+914,porzeczki bia³e,35,1.1,0.1,12.8
+915,porzeczki bia³e mro¿one,32,1.1,0.3,13.5
+916,porzeczki czarne,36,1.5,0.2,15.5
+917,porzeczki czarne mro¿one,40,1.5,0.3,15.5
+918,porzeczki czerwone,33,1,0.3,14.3
+919,porzeczki czerwone mro¿one,35,1,0.3,14.3
+920,powid³a œliwkowe,217,1.2,0.3,54.1
+921,powid³a z wêgierek,225,0.6,0.3,69.5
+922,poziomki,35,0.9,0.6,8.5
+923,poziomki mro¿one s³odzone,91,0.3,0.2,22.7
+924,rambutan,71,0,0,15.5
+925,rodzynki Ekonatural,272,2.3,0.5,71.2
+926,rodzynki greckie Bakalland,272,2.3,0.5,71.2
+927,rodzynki su³tañskie Fresco,277,2.3,0.5,64.7
+928,œliwki,46,0.5,0.3,12
+929,œliwki bez pestek mro¿one,52,0.7,0.2,11.9
+930,œliwki daktylowe,78,0.8,0.5,19.5
+931,œliwki gotowane,45,1.1,0.3,11.1
+932,œliwki powid³a,220,1.1,0.3,54.5
+933,œliwki suszone,12,5.3,1.1,71.3
+934,œliwki suszone z pestk¹,270,3.4,1.5,69.7
+935,œliwki suszone duszone bez cukru,122,1.7,0.6,30.5
+936,œliwki w czekoladzie,613,16.2,28.1,79.5
+937,œliwki w puszce s³odzone,85,0.5,0.1,22.3
+938,truskawki,30,0.8,0.5,7.3
+939,truskawki mro¿one,29,0.6,0.5,7.3
+940,tykwa,18,1.1,0.1,2.9
+941,winogrona,72,0.8,0.2,18.4
+942,winogrona w s³odkim sosie jogurtowym,80,1.8,0.9,18.3
+943,wiœnie,49,0.7,0.5,11.2
+944,wiœnie bez pestek mro¿one,48,1,0.4,11.1
+945,wiœnie gotowane,43,1.3,0.5,9.9
+946,wiœnie suszone,273,5.4,2.6,65.2
+947,¿urawina,50,0.5,0.2,13
+948,¿urawina mus s³odzony w puszce,150,0.2,0.3,38
+949,bagietka francuska,285,8.1,1.6,60.6
+950,bajgiel,223,8.8,1.6,46.5
+951,bu³ki dro¿d¿owe,277,5.3,7.2,50.1
+952,bu³ka do hot-doga,321,8.2,7.7,59.2
+953,bu³ka grahamka,266,8.1,1.4,59.8
+954,bu³ka kajzerka,291,7.7,3.3,55.6
+955,bu³ka ma³gorzatka,268,9.2,1.6,60.5
+956,bu³ka maœlana,328,7.3,6.1,63.7
+957,bu³ka mleczna,315,8.1,4.3,62.3
+958,bu³ka owsiana,302,8.3,4.3,59.2
+959,bu³ka pszenna paryska,277,7.1,2.6,53.9
+960,bu³ka pszenna poznañska,225,7.3,0.9,57.9
+961,bu³ka pszenna wyborowa,224,5.2,2.8,45.9
+962,bu³ka pszenna z makiem,272,7.8,2.5,56.1
+963,bu³ka sojowa,321,9.8,4.7,63.2
+964,bu³ka tarta,348,9.8,2.1,76.9
+965,bu³ka tarta panierka,401,8.3,24.7,35.6
+966,bu³ka wroc³awska,301,7.7,4.1,56.2
+967,bu³ka zwyk³a,277,7.7,1.9,59.9
+968,cha³ka zdobna,331,7.7,7.3,62.5
+969,cha³ka zwyk³a,279,7.2,2.8,60.3
+970,chleb baltonowski,244,6.6,1.3,54.8
+971,chleb chrupki,361,9.3,2.3,78.8
+972,chleb chrubki graham Wasa,365,13,7.4,61
+973,chleb chrupki lekkie pieczyw 7 zbó¿ Wasa,345,10,3,69
+974,chleb chrupki lekkie pieczywo kukurydziane Wasa,365,9,3.8,74
+975,chleb chrupki lekkie pieczywo pszenne Wasa,360,12,2.2,73
+976,chleb chrupki lekkie pieczywo ry¿owe Wasa,375,8,3.3,78
+977,chleb chrupki lekkie pieczywo ¿ytnie Wasa,353,11,2.4,73
+978,chleb chrupki original Wasa,315,9,1.4,67
+979,chleb chrupki pe³noziarnisty 3 zbo¿a Wasa,324,11,4.4,60
+980,chleb chrupki pe³noziarnisty sport Wasa,305,9,1.5,64
+981,chleb chrupki pe³noziarnisty z sezamem Wasa,330,12,6,58
+982,chleb pe³noziarnisty ¿ytni Wasa,310,10,1.4,64
+983,chleb chrupki z musli Wasa,355,12,5,65
+984,chleb ciabatta,278,7.4,1.7,59
+985,chleb grahm pszenny,222,7.4,1.9,50.1
+986,chleb lecytynowy,230,9,1.1,45.4
+987,chleb mazowiecki,244,6.6,1.6,57.3
+988,chleb mieszany pszenno-¿ytni,202,4.4,1.2,45.6
+989,chleb mieszany s³onecznikowy,244,6.5,4.9,49.1
+990,chleb mieszany z soj¹,233,7.1,2.8,48.9
+991,chleb mleczny,248,6.9,1.3,56.5
+992,chleb naan,341,9.3,14.7,50.5
+993,chleb na³êczowski,239,5.8,1.9,57.3
+994,chleb pitta bia³a,277,9.8,1.6,52.9
+995,chleb pitta razowa,267,9.9,2.3,54.8
+996,chleb poleski,254,6.6,2.9,54.1
+997,chleb praski,240,5.9,1.6,57.1
+998,chleb pszenny,256,7.1,1.2,56.2
+999,chleb pszenny ciemny barwiony karmelem,222,8.9,2.2,44.2
+1000,chleb pszenny razowy graham,201,6.6,1.1,42.4
+1001,chleb pszenny z ziarnem pszenicy,233,7.4,1.6,50.1
+1002,chleb pszenny zwyk³y,218,5.9,1.2,46
+1003,chleb pumpernikiel,255,6.1,1.9,59.1
+1004,chleb pytlowy ¿ytni,234,4.1,1.2,57.1
+1005,chleb razowy pe³noziarnisty,223,6.4,1.3,54.2
+1006,chleb razowy z pestkami s³onecznika,214,5.1,1.7,51
+1007,chleb sitek,213,5.1,1.4,54.1
+1008,chleb staropolski,220,4.8,1.5,50.3
+1009,chleb tostowy,303,8.4,4.3,58.9
+1010,chleb tostowy graham,277,7.7,4.1,54.3
+1011,chleb wiejski,244,6,1.2,55.4
+1012,chleb wielkopolski,250,6.3,1.4,57.8
+1013,chleb zakopiañski,266,6.9,2.3,58.2
+1014,chleb zwyk³y,249,5.5,1.3,57.1
+1015,chleb ¿ytni fitness z ziarnami Schulstad,198,5,3.2,36.9
+1016,chleb ¿ytni jasny,244,4.1,1.6,56.2
+1017,chleb ¿ytni jasny mleczny,251,4.7,1.7,56.8
+1018,chleb ¿ytni pe³noziarnisty,236,6.6,1.7,54.2
+1019,chleb ¿ytni pe³noziarnisty ze œliwk¹,173,4.1,1.3,35.8
+1020,chleb ¿ytni pytlowy,243,4.6,1.7,57.6
+1021,chleb ¿ytni razowy,224,6,1.6,52.5
+1022,chleb ¿ytni razowy litewski,235,6.4,1.9,53
+1023,chleb ¿ytni razowy na miodzie,236,5.8,1.9,55.9
+1024,chleb ¿ytni razowy wytrawny,229,6.9,1.6,53.4
+1025,chleb ¿ytni razowy z soj¹ i s³onecznikiem,239,8.3,3.9,49.3
+1026,chleb ¿ytni sitkowy,240,5.3,1.5,50.1
+1027,chleb ¿ytni starogradzki,228,4.8,1.4,48.9
+1028,chleb ¿ytni wileñski,229,4.1,1.4,53
+1029,chlebek chapatti,334,7.5,13.4,49.2
+1030,chlebek puri (indyjski),333,6.6,16.5,44.8
+1031,croissant,362,8.8,21,39.1
+1032,gluten,381,41.1,2.1,47.6
+1033,kasza gryczana,338,13,3,61.3
+1034,kasza gryczana gotowana,65,2.4,0.6,13.3
+1035,kasza jaglana,348,11.2,3.2,70.8
+1036,kasza jaglana gotowana,177,5.5,1.7,34.9
+1037,kasza jêczmienna per³owa,332,7,2.4,76.1
+1038,kasza jêczmienna per³owa gotowana,92,1.3,0.5,21.1
+1039,kasza jêczmienna pêczak,331,8.3,1.9,75.3
+1040,kasza jêczmienna pêczak gotowana,100,1.7,0.7,22.4
+1041,kasza kukurydziana,366,7.7,2.7,78.2
+1042,kasza kuskus,367,13,0.7,76.8
+1043,kasza kuskus gotowana,114,3.9,0.3,24.1
+1044,kasza manna,345,8.9,1.2,75.7
+1045,kasza manna gotowana,80,2,0.3,20.1
+1046,kasza manna orkiszowa,400,13,1.9,77.9
+1047,maca,291,11.1,2,67.3
+1048,makaron bezjajeczny,370,11.1,1.7,79.6
+1049,makaron bezjajeczny gotowany,133,3.7,0.9,28.2
+1050,makaron bezjajeczny z semoliny,380,11.2,1.6,77.5
+1051,makaron bezjajeczny z semoliny gotowany,133,3.7,0.6,28.1
+1052,makaron czterojajeczny,372,11.8,3.3,75.6
+1053,makaron czterojajeczny gotowany,140,4,1.5,27.2
+1054,makaron gotowany z dodatkiem oleju,290,4.7,26.1,13.1
+1055,makaron dwujajeczny,370,11.3,3.5,77.2
+1056,makaron dwujajeczny gotowany,135,4.2,0.8,26.8
+1057,makaron dwujajeczny z semoliny,385,11.6,2.5,77.4
+1058,makaron dwujajeczny z semoliny gotowany,130,3.7,0.7,28.3
+1059,makaron razowy,350,15,1.6,76.2
+1060,makaron razowy gotowany,126,5.5,0.6,27.1
+1061,makaron razowy spaghetti,360,14.9,1.7,76.7
+1062,makaron razowy tagliatelle,355,14.2,1.2,74.8
+1063,makaron ry¿owy,287,4.2,1,90
+1064,makaron ry¿owy gotowany,190,22.3,0.5,46
+1065,makaron sojowy,274,0.7,3.9,84.4
+1066,makaron sojowy gotowany,130,0.3,3.1,25.2
+1067,makaro spaghetti,339,12.2,1.9,75.1
+1068,makaron spaghetti gotowany,106,3.3,0.9,23
+1069,makaron z m¹ki kukurydzianej gotowany,125,2.7,0.8,28.2
+1070,m¹ka atta,140,3.7,0,30.9
+1071,m¹ka gryczana,343,12.1,1.5,76
+1072,m¹ka jêczmienna,355,7.2,1.9,75
+1073,m¹ka kukurydziana,348,9.6,1.3,80
+1074,m¹ka pszenna chlebowa typu 750,360,9.2,2,74
+1075,m¹ka pszenna chlebowa typu 750 gotowana,111,2.9,0.7,23.1
+1076,m¹ka pszenna graham typu 1850,360,12,2.6,71
+1077,m¹ka pszenna krupczatka typu 500,360,9.4,1.3,75.3
+1078,m¹ka pszenna krupczatka tupu 500 wzbogacona,354,9.1,1.3,74.8
+1079,m¹ka pszenna luksusowa typu 550,361,9.5,1.8,75
+1080,m¹ka pszenna poznañska typu 500,350,9.3,1.3,75.2
+1081,m¹ka pszenna razowa typu 2000,360,11.3,2.3,70.6
+1082,m¹ka pszenna semolina,342,10.7,1.5,75
+1083,m¹ka pszenna semolina typu 1750,360,10,1.4,75
+1084,m¹ka pszenna sitkowa,333,8.9,1.5,60
+1085,m¹ka pszenna tortowa typu 450,360,9.4,1.1,75
+1086,m¹ka pszenna typu 500,341,9.3,1.4,75.1
+1087,m¹ka pszenna typu 500 wzbogacona,344,9.3,1.3,74.8
+1088,m¹ka pszenna typu 550,341,10,1.4,74.5
+1089,m¹ka ry¿owa,370,6.1,1.5,80.2
+1090,m¹ka sojowa odt³uszczona,331,47.2,1.3,38.8
+1091,m¹ka sojowa pe³not³usta,475,46.4,14,19.9
+1092,m¹ka sojowa pe³not³usta pieczona lub pra¿ona,440,41,25,20.9
+1093,m¹ka ziemniaczana,350,0.7,0.1,84
+1094,m¹ka ¿ytnia razowa typu 2000,341,8,2.3,75.1
+1095,m¹ka zytnia sitkowa typu 1400,340,6.8,2.3,76
+1096,m¹ka ¿ytnia starogardzka typu 1850,338,7.5,2,75
+1097,m¹ka ¿ytnia typu 580,340,5.6,1.4,79
+1098,m¹ka ¿ytnia typu 720,340,6,1.6,77.7
+1099,m¹ka ¿ytnia wyborowa,340,7.5,1.2,77
+1100,otrêby owsiane,248,17.4,6.9,66.1
+1101,otrêby pszenne,183,16,4.4,65.5
+1102,otrêby ry¿owe,313,14.1,21.1,50
+1103,otrêby ¿ytnie,240,13.1,5.3,60
+1104,paluszki s³one,288,10.2,5.3,75.6
+1105,paluszki solinki,378,9.5,5.3,74.9
+1106,paluszki z kminkiem,502,17,30.1,39
+1107,pieczywo pó³francuskie z d¿emem,410,7.5,9.8,72.4
+1108,pieczywo pó³francuskie z serem,400,10.1,6.2,66.8
+1109,p³atki jêczmienne,360,10.2,4,80
+1110,p³atki jêczmienne b³yskawiczne,360,10.2,4,80
+1111,p³¹tki kukurydziane,365,7,3,82.9
+1112,p³atki kukurydziane wzbogacone,365,7,2.8,84.1
+1113,p³atki musli chrupkie Fitella bananowe Gellwe,399,8.8,10.3,67.8
+1114,p³atki musli czekoladowe,360,11.5,5.5,66
+1115,p³atki musli czekoladowo-orzechowe Naturalia,368,9.4,6.4,69.2
+1116,p³atki musli górskie Naturalia,375,11,7.9,66.5
+1117,p³atki lekkie Fitella truskawkowe Gellwe,350,14.2,3.5,66
+1118,p³atki musli studenckie Naturalia,360,8.7,3.5,72.1
+1119,p³atki musli z orzechami,400,12.4,16,60.5
+1120,p³atki musli z owocami,315,8.8,3.5,60.9
+1121,p³atki musli z owocami suszonymi,330,8.5,3.6,73
+1122,p³atki musli z owocami suszonymi Tropic,370,9.6,6.9,67
+1123,p³atki musli z rodzynkami i orzechami,370,11.3,12.5,63.1
+1124,p³atki owsiane,370,12,7.5,69
+1125,p³atki owsiane gotowane,68,1.3,1.1,11.2
+1126,p³atki pszenne naturalne,355,9.1,3.1,81.5
+1127,p³atki pszenne naturalne gotowane,48,1.4,0.5,11.2
+1128,p³atki ry¿owe,361,6.6,1.1,85.1
+1129,p³atki œniadaniowe Chocapic,382,8.4,4.8,76.2
+1130,p³atki œniadaniowe Cookie Crips,377,6.4,3.4,80.1
+1131,p³¹tki œniadaniowe Nesquik,379,7.3,3.8,79.1
+1132,p³atki ¿ytnie naturalne,345,6.6,3.3,83.1
+1133,ry¿ arborio,375,8.1,1.8,77.5
+1134,ry¿ basmati bia³y,350,7.2,1.5,75.1
+1135,ry¿ bia³y,328,7.1,0.9,77.8
+1136,ry¿ bia³y gotowany,115,2.6,0.4,26.6
+1137,ry¿ br¹zowy,335,7.7,2.1,77
+1138,ry¿ br¹zowy gotowany,109,2.2,0.7,23.5
+1139,ry¿ br¹zowy kleisty (puddingowy),360,8.2,1.8,75
+1140,ry¿ calrose,358,6.3,0,76.9
+1141,ry¿ dziki,360,14.2,0.8,73.5
+1142,ry¿ dziki gotowany,98,4.2,0.4,20.8
+1143,ry¿ preparowany,285,6.6,1.8,85.2
+1144,sago,370,0,0,96
+1145,tortilla wraps,321,7.9,8.8,52.3
+1146,zarodki pszenne,260,28,9.5,45
+1147,ziarno gryki,337,10.6,2.7,73
+1148,ziarno jêczmienia,324,10.2,2.4,69
+1149,ziarno kukurydzy,362,10.5,7.6,63
+1150,ziarno owsa,388,17.1,6.7,66.8
+1151,ziarno prosa,366,5.1,2.3,75.1
+1152,ziarno pszenicy,331,11.5,3.2,70
+1153,ziarno pszen¿yta,313,12.7,2.6,63.1
+1154,ziarno quinoa komosa ry¿owa,386,12.5,5.7,69.8
+1155,ziarno ¿yta,350,8.3,2.1,73.8
+1156,aromat wanilinowy do ciasta bez alkoholu,57,0,0,14.6
+1157,aromat wanilinowy do ciasta z alkoholem,244,0.1,0,2.6
+1158,bazylia suszona,255,14.6,4.2,61.1
+1159,bazylia œwie¿a,25,2.6,0.5,4.4
+1160,chili w proszku,312,11.4,16.9,55.6
+1161,curry w proszku,330,13.1,14.2,61.2
+1162,cynamon w proszku,266,4.2,3.3,83
+1163,fix do potraw chiñskich Knorr,277,9.9,5.2,47.8
+1164,ga³ka muszkata³owa,536,6.1,37.1,50.2
+1165,gorczyca ¿ó³ta,473,25.3,29.2,33.9
+1166,goŸdziki,330,6.1,20,60.3
+1167,imbir kandyzowany,297,0.6,0.2,74.2
+1168,imbir korzeñ,73,1.6,0.5,15.9
+1169,imbir korzeñ gotowany,71,1.9,0.6,16.2
+1170,imbir proszek,361,9.9,6.7,72.1
+1171,kapary,113,7.2,3.3,20.1
+1172,kapary w puszce,24,2.7,0.8,4.6
+1173,kapary w zalewie octowej,23,0.5,0.8,3.6
+1174,keczup,99,2,1.1,23.1
+1175,keczup ³agodny,102,1.7,0.2,22
+1176,kminek nasiona,380,18.1,22.5,45.1
+1177,kminek proszek,337,20.2,15.7,48.7
+1178,kolendra,302,12.5,17.7,56.1
+1179,leczo mro¿one,20,1,0.4,5.2
+1180,liœcie laurowe,315,7.8,8.5,74.5
+1181,liœcie mniszka lekarskiego,43,2.2,0.8,9.6
+1182,maggi przyprawa do zup,15,2.8,0,1.7
+1183,majeranek suszony,273,13.7,7.1,61.3
+1184,majonez,717,1.2,80.1,2.8
+1185,majonez dekoracyjny Winiary,739,1.3,80,3.5
+1186,majonez light,334,1.3,33.8,5.9
+1187,majonez oliwkowy Hellman's,717,1.2,76.8,4.1
+1188,miêta suszona,288,19.4,6.2,52.4
+1189,miêta œwie¿a,45,3.4,0.8,8.5
+1190,musztarda,166,6,6.7,22.9
+1191,ocet winny,16,0,0,6.1
+1192,oregano mielone,305,10.8,10,65.5
+1193,papryka ostra proszek,312,13,17.1,54.6
+1194,papryka s³odka proszek,291,15,13.1,56
+1195,pieprz bia³y,300,10.8,12.4,69.5
+1196,pieprz cayenne,320,12.1,17.5,57.3
+1197,pieprz czarny,295,11.1,3.5,65.4
+1198,pieprz czerwony,320,12.1,17.5,57.1
+1199,przyprawka jarzynka,92,2,0.5,23.4
+1200,sos agrestowy,54,0.8,2.6,7
+1201,sos barbecue,161,0,0,36
+1202,sos beszamelowy klasyczny,142,3.4,10,10.6
+1203,sos beszamelowy zagêszczany ¿ó³tkiem i œmietan¹,157,3.5,13,7.6
+1204,sos borówkowy,80,0.4,0.3,20.6
+1205,sos borówkowy z jab³kiem i chrzanem,91,0.4,0.2,25
+1206,sos cebulowy zagêszczany zawiesin¹ z m¹ki mleka i œmietany,68,1.5,4.8,6
+1207,sos cebulowy zagêszczany zawiesin¹ z m¹ki i œmietany,84,1.4,6,6.4
+1208,sos chrzanowy,96,1.5,7.7,7
+1209,sos chrzanowy z jab³kami i œmietan¹ kremówk¹,130,1.9,9.9,8.7
+1210,sos chrzanowy z majonezem i œmietan¹ kremówk¹,165,4.5,14.5,5.6
+1211,sos cumberland,50,1.4,0.4,11.8
+1212,sos cytrynowy,40,0.9,2.2,5.3
+1213,sos czekoladowy z gorzkiej czekolady ¿ó³tek i chudego mleka z orzechami,260,4.4,10.8,36
+1214,sos czekoladowy z kakao ¿ó³tek mas³a i t³ustego mleka,327,4.3,23.2,23.7
+1215,sos czosnkowy,102,2.2,8.6,5.5
+1216,sos fasolowy,49,1.9,2,6.4
+1217,sos grzybowy z gêst¹ œmietan¹,103,2.1,7.7,7.4
+1218,sos grzybowy z suszonych grzybów,56,1,3.7,5.9
+1219,sos grzybowy ze œwie¿ych grzybów,65,1.6,5.2,3.7
+1220,sos holenderski,409,5.7,41.5,1.6
+1221,sos jab³kowy,52,0.7,2.2,8.1
+1222,sos jarzynowy,50,1.3,1.8,8.3
+1223,sos jogurtowy z zielenin¹,55,3.7,1.7,6.4
+1224,sos kaparowy,43,1.1,2.5,4.8
+1225,sos karmelowy,449,0.9,24.5,58.2
+1226,sos kminkowy,130,3.5,11,4.5
+1227,sos koperkowy,95,1.4,8,4.6
+1228,sos majonezowy z jab³kami i chrzanem,290,1.6,28.6,9.4
+1229,sos majonezowy z ¿urawinami,419,1.4,39.9,17.9
+1230,sos morelowy,125,0.8,6.1,5.9
+1231,sos musztardowy,51,1.3,2.9,4.6
+1232,sos myœliwski,125,1.8,10.7,3.1
+1233,sos ogórkowy,75,1.1,6.4,4.2
+1234,sos pieczarkowy,65,1.9,5.2,3.8
+1235,sos pieprzowy,80,1.1,3.3,5.1
+1236,sos pomidorowy z zasma¿k¹ i œmietan¹,75,2,4,9.3
+1237,sos pomidorowy zagêszczony zawiesin¹ z m¹ki i mleka,35,1,1.5,4.4
+1238,sos powid³owy,186,1.9,6.6,30.4
+1239,sos powid³owy z chrzanem,166,1.9,6.8,24.3
+1240,sos sa³atkowy do mizerii,92,5.1,3.5,9.8
+1241,sos sa³atkowy francuski na oliwie z oliwek,420,0.5,43.3,6
+1242,sos sa³atkowy koperkowo-zio³owy na oliwie z oliwek,411,0.4,43.3,5.4
+1243,sos sa³atkowy w³oski na oliwie z oliwek,412,0.5,42.8,6.3
+1244,sos sardelowy,55,2.4,3.6,3
+1245,sos szczawiowy,99,1.4,8.7,4.1
+1246,sos szczypiorkowo-chrzanowy,161,6,13.5,4
+1247,sos szczypiorkowo-chrzanowy,195,4.9,17.3,5
+1248,sos szodonowy,212,2.9,5.2,24
+1249,sos szodonowy z pomarañcz¹,176,2.6,3.9,21.4
+1250,sos œliwkowy,109,0.8,0.4,24
+1251,sos œmietanowo-musztardowy,211,5.3,17.6,7.4
+1252,sos œmietanowy ze szczypiorkiem,155,5.5,13.8,3.4
+1253,sos tatarski,310,1.8,32.3,6
+1254,sos waniliowy,149,4.6,3.6,25
+1255,sos winegret,570,0.9,62.5,3.4
+1256,sos winogronowy z majonezem,338,1.5,34,8.1
+1257,sos wiœniowo-chrzanowy,99,0.9,0.2,24.9
+1258,sos z maku,256,9,17,19
+1259,sos z surowych owoców,80,1,0.4,14.5
+1260,sos z suszonych œliwek,87,1.1,4,8.9
+1261,sos ziemniaczany,54,1.1,1.5,9.2
+1262,sos musztardowy,214,0,13,25
+1263,sól bia³a,0,0,0,0
+1264,szafran,313,11.5,6,66.2
+1265,sza³wia mielona,310,11.2,13.5,59.8
+1266,tymianek suszony,273,9.2,7.1,63.6
+1267,tymianek œwie¿y,99,5.5,1.8,25.1
+1268,wanilia ekstrakt,295,0.1,0.1,13.2
+1269,amur,65,9.7,1.3,0
+1270,anchois w oleju,216,28.8,9.9,0
+1271,b³êkitek filet bez skóry,81,17.2,1.1,0
+1272,dorsz duszony,97,45.9,1.3,0
+1273,dorsz filet bez skóry pieczony,95,21,0.6,0
+1274,dorsz filet bez skóry sma¿ony,140,20.2,5.6,0
+1275,dorsz filet bez skóry œwie¿y,66,17.2,0.4,0
+1276,dorsz gotowany,82,33.1,1.6,0
+1277,dorsz pieczony,103,23.3,1.1,0.2
+1278,dorsz sma¿ony panierowany,172,22.2,8.1,4
+1279,dorsz œwie¿y,77,17.9,0.6,0
+1280,dorsz suszony,144,33.1,1.2,0
+1281,dorsz wêdzony,95,22.3,0.6,0
+1282,fl¹dra pieczona,112,21.5,2.5,0
+1283,fl¹dra sma¿ona,149,20,7.6,0
+1284,fl¹dra œwie¿a,85,16.6,2,0
+1285,fl¹dra w oleju z papryk¹,277,14.3,22.2,0.6
+1286,fl¹dra w pomidorach,103,20.4,8.6,0.3
+1287,fl¹dra wêdzona,166,14.4,11.3,0
+1288,g³adzica pieczona,118,23.1,2.5,0
+1289,g³adzica sma¿ona,153,20.2,7.2,0
+1290,g³adzica œwie¿a,83,18.2,2.2,0
+1291,g³adzica wêdzona,77,14.7,0.9,0
+1292,grenadier,99,18.3,2.3,0
+1293,halibut duszony,171,23.1,2.4,0
+1294,halibut gotowany,93,17,2.4,0
+1295,halibut pieczony,133,26,2.5,0
+1296,halibut sma¿ony,172,24.3,7.6,0
+1297,halibut œwie¿y,99,20.2,1.8,0
+1298,halibut wêdzony,177,18.1,11,0
+1299,homar gotowany,76,22.9,2,0
+1300,homar œwie¿y,87,19.2,1.1,0.4
+1301,homar w skorupie,33,22.2,1.3,0
+1302,ikra z dorsza,110,33.2,2.7,0
+1303,jesiotr sma¿ony,177,20.3,11.2,0
+1304,jesiotr œwie¿y,102,16.3,4.3,0
+1305,jesiotr wêdzony,177,32.3,4.5,0
+1306,kalmary,85,16.7,1.2,2.3
+1307,kalmary suszone,334,65.1,4.1,4.2
+1308,karmazyn sma¿ony,133,20.2,5.1,0
+1309,karmazyn œwie¿y,111,17.7,5.1,0
+1310,karp duszony,144,8.8,5.4,0
+1311,karp gotowany,144,23.1,5.4,0
+1312,karp pieczony,148,23.3,5.9,0
+1313,karp sma¿ony,178,22.5,11,0
+1314,karp œwie¿y,111,17.3,4,0
+1315,kawior,267,25.3,18.1,3.8
+1316,kergulena sma¿ona,60,9.3,0.8,0
+1317,kegrulena œwie¿a,42,8.3,0.7,0
+1318,kraby gotowane,112,21,1.4,1.2
+1319,kraby surowe,85,17.6,1.3,0.5
+1320,kraby w puszce,104,17.9,2.8,1.5
+1321,kraby w skorpupie,44,20.2,0.7,0.2
+1322,krewetki gotowane,100,21.4,1.4,0
+1323,krewetki prawns gotoane,99,23.6,1.2,0
+1324,krewetki shrimps,120,24.5,2.6,0
+1325,krewetki sma¿one panierowane,250,22.6,13.1,11.9
+1326,krewetki œwie¿e,110,2.5,1.5,1
+1327,krewetki w puszce,121,25.3,1.3,0.8
+1328,langusta,120,21.5,3.3,0
+1329,leszcz duszony,55,9.2,2,0
+1330,leszcz sma¿ony,64,11.3,1.7,0
+1331,leszcz œwie¿y,55,10.1,1.3,0
+1332,lin sma¿ony,53,11.7,2.5,0
+1333,lin œwie¿y,45,11.2,2.3,0
+1334,³osoœ gotowany,263,25.1,17.3,0
+1335,³osoœ pieczony,254,24.6,17.5,0
+1336,³osoœ sma¿ony,301,24.2,22.3,0
+1337,³osoœ œwie¿y,206,21.1,14.5,0
+1338,³osoœ w puszce,204,22,12.1,0
+1339,³osoœ wêdzony,158,22.6,9.1,0
+1340,makrela filety z czerwon¹ fasol¹,122,12.6,7.5,14.7
+1341,makrela filety z warzywami,119,11.7,6.5,4
+1342,makrela pieczona,166,33.4,2.6,0
+1343,makrela sma¿ona,201,30.7,7.3,0
+1344,makrela œwie¿a,182,19.7,11.3,0
+1345,makrela w oleju,350,9.7,31.2,0
+1346,makrela w sosie w³asnym,177,10.3,11.7,0
+1347,makrela wêdzona,223,21.2,15.6,0
+1348,ma³¿e panierowane sma¿one,217,18.3,11.2,10
+1349,ma³¿e swie¿y,95,12.9,0.4,11.2
+1350,ma³¿e w muszelkach,15,3.3,0.1,0
+1351,m ¹twa,71,15.4,0.9,0
+1352,m ¹twa sma¿ona,176,18,7.6,7.9
+1353,miêso wielorybie,127,21,4.2,1.1
+1354,miêtus sma¿ony,116,25,1.2,0
+1355,miêtus œwie¿y,95,20.2,0.9,0
+1356,mintaj pieczony,106,23.8,0.7,0
+1357,mintaj sma¿ony,146,21.6,6.2,0
+1358,mintaj œwie¿y,74,16.8,0.7,0
+1359,morszczuk pieczony,122,23.1,2.5,0
+1360,morszczuk sma¿ony,160,21.3,7.7,0
+1361,morszczuk œwie¿y,90,18.1,2.4,0
+1362,mule,88,17.6,2.1,0
+1363,okoñ pieczony,111,24,0.9,0
+1364,okoñ sma¿ony,155,23,6.3,0
+1365,okoñ œwie¿y,87,19.2,0.9,0
+1366,ostrobok sma¿ony,85,16.6,2.5,0
+1367,ostrobok œwie¿y,79,14.6,2.2,0
+1368,ostrygi gotowane,165,19.1,4.7,10
+1369,ostrygi œwie¿e,82,9.5,2.4,5.1
+1370,oœmiornica gotowana,161,30.2,2.2,4.5
+1371,oœmiornica œwie¿a,83,15.3,0.8,2.1
+1372,paluszki rybne mro¿one,180,12.1,5.8,19.9
+1373,paluszki rybne pieczone,215,15.3,9.2,19.8
+1374,paluszki rybne sma¿one,234,13.3,12,17.5
+1375,paluszki rybne œwie¿e,200,12,9,15.1
+1376,panga pieczona,112,18,3.8,0
+1377,panga sma¿ona,152,16.5,9.3,0
+1378,panga œwie¿a,93,13.1,3.8,0
+1379,paprykarz szczeciñski,180,10,12.1,8.7
+1380,pasta rybna,100,7.8,5.7,4
+1381,pasta z tuñczyka z majonezem,382,8.1,38.2,1.8
+1382,pasztet rybny,266,10.5,21,8.7
+1383,pasztet z ryb wêdzonych,150,13.1,10.3,1.1
+1384,pikling œledŸ solony i wêdzony,221,22.1,15,0
+1385,p³aszczka,100,22,1.5,0
+1386,p³oæ sma¿ona,35,8.4,0.6,0
+1387,p³oæ œwie¿a,36,7.4,0.6,0
+1388,przegrzebki,109,24.2,0.8,0
+1389,przegrzebki gotowane,101,22.5,1.2,0
+1390,pstr¹g strumieniowy pieczony,130,25.1,2.4,0
+1391,pstr¹g strumieniowy sma¿ony,170,24.5,7.4,0
+1392,pstr¹g strumieniowy œwie¿y,99,19.8,2.3,0
+1393,pstr¹g têczowy pieczony,215,19.2,14.8,0
+1394,pstr¹g têczowy sma¿ony,252,19,19.3,0
+1395,pstr¹g têczowy œwie¿y,165,19,9.3,0
+1396,rak gotowany,83,17.1,1.4,0
+1397,rak szyjki gotowane,79,37.8,1.1,0
+1398,rak œwie¿y,78,16.2,1,0
+1399,rak w skorupce,42,22.3,0.7,0
+1400,rekin miêso,101,22,0.8,0
+1401,rekin p³etwa suszona,359,85.5,0,0
+1402,ryba maœlana pieczona,190,23,9.9,0
+1403,ryba maœlana sma¿ona,218,20.5,14.3,0
+1404,ryba maœlana œwie¿a,150,17.8,8.2,0
+1405,sandacz pieczony,115,25,1,0
+1406,sandacz sma¿ony,139,22.8,5.7,0
+1407,sandacz œwie¿y,85,20.1,0.6,0
+1408,sardynka œwie¿a,172,21,9.7,0
+1409,sardynka w oleju,223,24.5,14.1,0
+1410,sardynka w pomidorach,165,17.2,10.1,1.3
+1411,sardynka w puszce bez oleju,220,24.5,11.4,1.3
+1412,sercówki gotowane,55,12.2,0.7,0
+1413,sieja sma¿ona,72,12.4,2.2,0
+1414,sieja œwie¿a,61,11.2,2,0
+1415,sola pieczona,115,22.6,1.7,0
+1416,sola sma¿ona,155,21.3,7,0
+1417,sola œwie¿a,88,17.7,1.5,0
+1418,strzêpiel,87,19.1,1.2,0
+1419,sum pieczony,100,19,3.2,0
+1420,sum sma¿ony,112,22.4,6.5,0
+1421,sum œwie¿y,104,17.2,2.9,0
+1422,szczupak gotowany,18,1.2,0.6,4.3
+1423,szczupak pieczony,100,20.9,1.5,0
+1424,szczupak sma¿ony,153,22.5,6.3,0
+1425,szczupak œwie¿y,79,18.6,0.9,0
+1426,szprot w oleju,356,27.8,32.1,0
+1427,szprot w oleju z groszkiem,330,17.7,31.2,2.1
+1428,szprot w sosie pomidorowym,176,14,10.2,6.7
+1429,szprot wêdzony,224,19.7,17.6,0
+1430,œledŸ filety w oleju,306,16.6,20.7,0
+1431,sledzie zawijane rolmopsy,105,7.8,6.7,3.2
+1432,œledŸ marynowany,195,16.7,13,3.5
+1433,œledŸ pieczony,212,20.1,14.1,0
+1434,œledŸ sma¿ony,250,20.2,18.3,0
+1435,œledŸ solony,220,20.3,14.9,0
+1436,œledŸ œwie¿y,165,16.4,11.1,0
+1437,œledŸ w oleju,301,16.3,26.3,0
+1438,œledŸ w pomidorach,180,14.1,13.2,2
+1439,œledŸ w sosie pomidorowym,160,14,9.5,4.2
+1440,œledŸ w œmietanie,100,5.7,6.4,5.5
+1441,œledŸ wêdzony,213,22.1,13.2,0
+1442,to³pyga duszona,137,17.7,9.4,0
+1443,to³pyga sma¿ona,142,18.4,10.3,0
+1444,to³pyga œwie¿a,129,12.3,9.3,0
+1445,tr¹biki sfa³dowane gotowane,130,20.1,5.2,0
+1446,tuñczyk pieczon,187,30.7,6,0
+1447,tuñczyk œwie¿y,145,24.1,4.7,0
+1448,tuñczyk w oleju,191,27.3,9.3,0
+1449,tuñczyk w oleju pomidorowym z warzywami,140,13.8,2.5,16.1
+1450,tuñczyk w wsosie w³asnym,101,24.2,0.5,0
+1451,tuñczyk w wodzie,95,20.8,1.3,0
+1452,w¹t³usz srebrzysty,76,18.1,0.1,0
+1453,wêgorz pieczony,360,18.5,31,0
+1454,wêgorz sma¿ony,387,17.1,35,0
+1455,wêgorz œwie¿y,282,14.8,24.1,0
+1456,wêgorz œwie¿y,333,18.3,28.5,0
+1457,witlinek,80,19.8,0.7,0
+1458,amoniaczki,356,4.7,8.1,66.2
+1459,babka dro¿d¿owa z bakaliami,309,8,13.7,40.8
+1460,babka marmurkowa,390,6.5,18.5,43
+1461,babka marmurkowa oszczêdna,320,5.5,15.6,40.6
+1462,babka piaskowa,370,5.5,22,41.7
+1463,babka piaskowa z malinami,324,4.9,17.5,38.9
+1464,babka œliwkowo-migda³owa,299,6.3,14.6,37.8
+1465,babka z maku i bu³ki,340,8.8,19,35
+1466,babka ziemniaczana,130,5.8,4.7,17.7
+1467,bajaderka,446,3.1,21.9,46.7
+1468,baton 3 Bit,515,6.9,27.5,58.5
+1469,baton Bounty Milk,448,4.2,25.2,56.7
+1470,baton Knoopers,528,8,32,52
+1471,baton Lion,491,7.4,22.7,64.1
+1472,baton Mars,451,3.6,18.2,68.9
+1473,baton Mars Delight,557,4.5,33.6,58.9
+1474,baton Milky Way,448,3.6,16.2,71.8
+1475,baton Pawe³ek z adwokatem,471,5.1,21,61.1
+1476,baton Pawe³ek z amaretto w ciemnej czekoladzie,460,5.1,20.7,59.9
+1477,baton Snickers,497,9.7,28.9,52.6
+1478,baton Twix,483,5.3,23.2,64.2
+1479,batonik Chocapic,415,7.5,13.5,65.9
+1480,batonik Cini Minis,413,6.5,12.8,29
+1481,batonik Fitness,382,5.1,7,30.3
+1482,batonik Nesquik,418,7.2,7.9,66.5
+1483,bezy,420,2.9,11.5,53.8
+1484,bezy z kremem,613,3.6,45.9,53.9
+1485,biszkopt z m¹ki gryczanej,230,5,5.5,39.8
+1486,biszkopt z powid³ami i bit¹ œmietan¹,188,4.4,9.9,21.5
+1487,biszkopt z truskawkami i galaretk¹,188,5.9,3.9,32
+1488,biszkopt z wiœniami kremem i galaretk¹,245,4.9,11.5,30.8
+1489,biszkopty kocie jêzyczki,348,8.8,11.9,23.2
+1490,biszkopty okr¹g³e,398,9.9,10.1,73.2
+1491,bita œmietana w aerozolu,225,2.6,22.2,2.1
+1492,budyñ czekoladowy proszek,368,0,1.9,87.2
+1493,budyñ czekoladowy ugotowany na mleku 2%,98,3.4,2.4,15.9
+1494,budyñ œmietankowy bez cukru proszek,310,8.3,5.1,52.9
+1495,budyñ œmietankowy ugotowany na mleku 2%,97,3.2,1.9,16.9
+1496,cha³wa,473,13.1,22.5,60.3
+1497,ciasteczka biszkoptowe Petitki Lubisie,388,6.6,16.3,59
+1498,ciasteczka delicje szampañskie,328,4.2,11.4,53.1
+1499,ciastka eklery z bit¹ œmietan¹,313,5.9,17.6,36.1
+1500,ciastka eklery z mas¹ budyniow¹,239,5.9,9.3,34.9
+1501,ciastka francuskie ze œliwkami,429,5,27.7,43.9
+1502,ciastka goplanki,500,6.4,21,69.1
+1503,ciastka je¿yki,457,5,21.3,61.2
+1504,ciastka karpatki,460,5,31.2,42.9
+1505,ciastka kokosanki,470,6.9,20.3,67.7
+1506,ciastka markizy,488,5.5,23.9,64.7
+1507,ciastka muffiny amerykañskie,266,17.6,5.9,25.1
+1508,ciastka muffiny angielskie,220,8.8,1.6,45
+1509,ciastka napoleonki,356,6,16.9,44
+1510,ciastka pó³francuskie z konfitur¹ z ró¿y,372,4.5,22.3,39.9
+1511,ciastka pó³francuskie z serem i jab³kami,285,4.7,14.6,34.5
+1512,ciastka ptysie z bit¹ œmietan¹,344,5.5,23.4,26.9
+1513,ciastka ptysie z kremem budyniowym,321,5,20.6,23.9
+1514,ciastka ró¿ki z ciasta francuskiego z jab³kami,398,4.4,26.6,39.2
+1515,ciastka sezamki,400,10,27.5,33
+1516,ciastka tortowe ze œwie¿ymi owocami,270,3.6,9.3,47
+1517,ciasto babka biszkoptowa,332,8.8,4.9,63.2
+1518,ciasto dro¿d¿owe podstawowe,299,7.7,8.3,47.1
+1519,ciasto francuskie podstawowe,511,4.4,40.4,36.9
+1520,ciasto keks bakaliowy,388,6,17.7,54.7
+1521,ciasto kruche podstawowe,411,5.9,22.2,52
+1522,ciasto piaskowe z gruszkami z kompotu,183,2.8,7.5,27
+1523,ciasto piaskowe z wanili¹,266,5.7,3.1,54.8
+1524,ciasto piernik z bakaliami,345,6.4,10.1,63.2
+1525,ciasto rolada biszkoptowa z d¿emem,302,7.3,5.6,57.8
+1526,ciasto rolada z mas¹ makow¹,329,9.9,16,43.7
+1527,ciasto sernik krakowski,332,14.1,13,38.6
+1528,ciasto sernik wiedeñski,336,14,13.2,40.1
+1529,ciasto sernik wiedeñski z polew¹ kakaow¹,302,12.6,14.9,32
+1530,cukier bia³y,402,0,0,99.8
+1531,cukier br¹zowy,376,0,0,97.5
+1532,cukier gronowy,388,0,0,99.6
+1533,cukier puder,385,0,0.1,99.7
+1534,cukier trzcinowy,398,0,0,98
+1535,cukierki czekoladowe Micha³ki,521,9.6,30.9,56.9
+1536,cukierki czekoladowe nadziewane galaretk¹,388,5.2,11.1,77.1
+1537,cukierki czekoladowe z likierem,423,4.2,11.8,60.9
+1538,cukierki dra¿e mleczne,404,2.7,13.1,65.7
+1539,cukierki galaretki wielosmakowe z cukerm,331,0.4,0,81.3
+1540,cukierki irysy mleczne,433,4.9,10.1,73.2
+1541,cukierki irysy owocowe,422,4.4,10.1,77.4
+1542,cukierki karmelki nadziewane,366,0.4,0.6,98.9
+1543,cukierki karmelki twarde,399,0,0,98.9
+1544,cukierki krówki,414,4.9,11.9,77.9
+1545,cukierki landrynki,381,0,0,98.2
+1546,cukierki miêtowe,388,2.4,7.6,81.3
+1547,cukierki owocowe,377,0.2,0.4,93.6
+1548,cukierki Nimm 2,368,0.1,0,92
+1549,cukierki ptasie mleczko,479,2.8,29,55.5
+1550,cukierki ptasie mleczko alpejskie truskawkowe Milka,430,4,22.5,53.5
+1551,cukierki ptasie mleczko alpejskie waniliowe Milka,435,4,32,53
+1552,cukierki ptasie mleczko czekoladowe Wedel,445,3.5,22.2,58
+1553,cukierki ptasie mleczko œmietankowe Wedel,446,3.5,22.1,58.4
+1554,cukierki ptasie mleczko waniliowe Wedel,436,3,21.2,58.3
+1555,cukierki toffi,545,3.3,33.1,62.1
+1556,cukierki trufle,436,3.5,12.2,74.9
+1557,cukierki ¿elki,369,0,0,90
+1558,cukierki ¿elki nadziewane,338,6.3,0.2,80.1
+1559,cukierki ¿elki owocowe Nimm 2,323,8,0.1,72.6
+1560,cukierki ¿ujki Nimm 2,367,0,3.4,84
+1561,czekolada bia³a,588,7.9,39.2,50.5
+1562,czekolada deserowa,522,5.9,28.8,66.6
+1563,czekolada do picia,367,5.5,2.6,77.4
+1564,czekolada gorzka,577,6.6,33.6,57.1
+1565,czekolada kawowa,529,5.3,29.4,62.9
+1566,czekolada kremowa,563,2.4,36.1,74.9
+1567,czekolada mleczna,550,9.9,31.1,53.9
+1568,czekolada mleczna z orzechami laskowymi,544,8.2,30.3,58.9
+1569,czekolada nadziewana,455,4.2,16.9,69
+1570,czekolada œmietankowa z orzechami laskowymi,590,8.9,42.1,46.1
+1571,czekolada twarda,539,5.2,30.3,64.1
+1572,czekolada ze skórk¹ pomarañczow¹,357,7.3,2.5,81.3
+1573,czekoladki Ferrero Rocher,562,9,40.2,41
+1574,czekoladki Golden Nut,576,6,39,50.2
+1575,czekoladki Mon Cheri,421,3.2,19.7,57.8
+1576,czekoladki Rafaello,600,9.7,46.6,35.4
+1577,czekoladki Toffifee,535,6,31,58
+1578,czekoladkowa mieszanka,482,3.9,24.2,76.2
+1579,czekoladowe jajko Kinder Niespodzianka,560,9.5,35.3,51.5
+1580,deser mleczny Monte czekoladowy,195,2.8,13.6,15.4
+1581,deser mleczny Monte waniliowy,187,2.6,13.4,14
+1582,deser twarogowy kakaowy,153,14.3,6.6,10.7
+1583,deser truskawkowy,171,11.1,6,18.2
+1584,deserowy krem cherry,205,2,8.2,14
+1585,deserowy krem czereœniowy,85,3,3.1,12.5
+1586,dra¿etki Tic Tac,390,0,0,97.5
+1587,dropsy mleczne,421,0.4,2.2,98.7
+1588,dropsy owocowe,392,0,0,98.6
+1589,dro¿d¿ówka,299,7.7,5.1,64.2
+1590,dro¿d¿ówka jagodzianka,323,7.6,5.5,61.2
+1591,dro¿d¿ówka z budyniem i pomad¹,313,6.6,5,67.1
+1592,dro¿d¿ówka z d¿emem,300,6.8,5.1,66.2
+1593,dro¿d¿ówka z kruszonk¹,299,6.5,4.7,71
+1594,dro¿d¿ówka z serem,313,7.9,7.9,66.8
+1595,faworki,579,4.6,51.3,25.6
+1596,fruktoza,388,0,0,99.8
+1597,galaretka ananasowa po przyrz¹dzeniu,255,2.4,0.2,13.6
+1598,galaretka cytrynowa po przyrz¹dzeniu,54,2.6,0,70.1
+1599,galaretka cytrynowa proszek,338,14.2,0,70.3
+1600,galaretka pomarañczowa po przyrz¹dzeniu,64,2.4,0.2,15.4
+1601,galaretka porzeczkowa po przyrz¹dzeniu,60,2,0.2,13.7
+1602,galaretka ró¿ne smaki po przyrz¹dzeniu Dr Oetker,53,2.3,0,11.3
+1603,galaretka wiœniowa po przyrz¹dzeniu,55,2.3,0,11.3
+1604,galaretka wiœniowa proszek,335,14,0,68.1
+1605,glukoza,389,0,0,99.9
+1606,guma do ¿ucia Orbit,170,0,0,69
+1607,guma do ¿ucia dla dzieci bez cukru Orbit,146,0,0,61
+1608,guma do ¿ucia mint ice Winterfresh,149,0,0,62
+1609,guma do¿ucia original Winterfresh,144,0,0,60
+1610,guma do ¿ucia spearmint Orbit,158,0,0,66
+1611,guma do ¿ucia z guaran¹ Airwaves,149,0,0,61
+1612,herbatniki,440,8.1,11.2,76.4
+1613,herbatniki alberty,442,8.3,11.3,77.2
+1614,herbatniki domowe w czekoladzie,501,6.6,24.1,60.8
+1615,herbatniki cocktailowe,488,8.9,21,54.7
+1616,herbatniki Corso,440,5,17.2,67.1
+1617,herbatniki kakaowe,476,7,23.1,66
+1618,herbatniki kokosowe,479,6.6,26.1,60.3
+1619,herbatniki petit beurre,443,7.6,10.2,61.2
+1620,herbatniki sezamowe,505,8,29.1,56.2
+1621,herbatniki w czekoladzie,480,6,22.9,62.8
+1622,herbatniki w czekoladzie z orzechami,498,6.1,24.1,64.7
+1623,herbatniki z cukrem,466,6.6,17.1,70.1
+1624,herbatniki z kawa³kami czekolady,503,6.2,26.1,63
+1625,herbatniki z nadzieniem czekoladowym,500,5.6,28,57.9
+1626,herbatniki z nadzieniem owocowym,390,39,16,58.3
+1627,karmel,404,4.1,11.3,77.7
+1628,kisiel b³yskawiczny ró¿ne smaki Dr Oetker gotowy,63,0.3,0,15.3
+1629,kisiel cytrynowy bez cukru proszek,339,0,0,83.2
+1630,kisiel cytrynowy z cukrem gotowy,67,0,0,18.1
+1631,kisiel malinowy z cukrem gotowy,60,0,0,13.9
+1632,kisiel malinowy z cukrem proszek,368,0,0,92.1
+1633,kisiel porzeczkowy,106,0.4,0.2,25.8
+1634,kisiel waniliowy,123,3.5,4.6,17.2
+1635,krakersy,500,14.6,24.1,68.1
+1636,krem czekoladowy do pieczywa Nutella,522,6.5,31,57
+1637,krem karpatka po przyrz¹dzeniue,155,3.3,5.8,21.7
+1638,krem orzechowo-czekoladowy do pieczywa,530,5.6,30.1,60.9
+1639,lody bakaliowe,136,2.4,7.5,15.8
+1640,lody czekoladowe,133,2.4,6.3,16.9
+1641,lody Milka Carte D'or,212,3.4,9.6,28
+1642,lody mleczno-owocowe,113,4.4,2.6,20.3
+1643,lody o smaku karmelowym,148,3.4,4.1,24.9
+1644,lody orzechowe,144,3.1,8.9,14.2
+1645,lody owocowe,122,2.4,7.1,14.7
+1646,lody ró¿ne smaki Zielona Budka,124,3.3,4.9,15.5
+1647,lody sorbet z soczystych brzoskwiñ Carte D'or,112,0.5,0.1,29
+1648,lody œmietankowe,171,3,7.9,16.7
+1649,lody œmietankowe light,119,3.2,5.7,12.9
+1650,lody œmietankowe w polewie orzechowo-kakaowej,321,4.3,21.8,22
+1651,lody œmietankowo-bakaliowe Algida,179,3.4,7.6,24
+1652,lody Tiramis? Carte D'or,200,3.4,8,28
+1653,lody waniliowe ró¿ki,264,2.3,13.6,33.1
+1654,lody wodne cytrynowo-truskawkowo-pomarañczowe Algida,99,0.1,0.3,24
+1655,marcepan,433,8.2,18.1,66.1
+1656,melasa,233,0,0,61
+1657,miód pszczeli,331,0.4,0,79.9
+1658,miód sztuczny,330,0.3,0,83.5
+1659,p¹czek,381,5.8,16.2,52.5
+1660,pierniczki alpejskie,370,4.1,9.9,66.4
+1661,pierniczki beskidzkie,340,3.6,1.8,78.1
+1662,pierniczki katarzynki,421,4.1,11,66.2
+1663,pierniczki nadziewane marmolad¹,395,4.1,8.5,61
+1664,pierniczki serca,392,4.1,5.9,60.5
+1665,piernik czekoladowy,320,5.1,11.9,75.2
+1666,polewa czekoladowa,377,2.7,23.1,45.5
+1667,precelki,390,9.5,3.7,80
+1668,rogal kruchy,350,8,7.3,62.1
+1669,rogal maœlany,321,7.8,5.6,62.2
+1670,rurka z kremem,155,5.5,7.2,24.9
+1671,sernik b³yskawiczny na mleku 2% t³uszczu Delecta,150,5.6,3.9,23
+1672,sernik brzoskwiniowy,233,9.2,8.9,29.5
+1673,sernik krakowski,287,10.5,13.6,31.3
+1674,sernik na zimno,200,13.5,5,26.5
+1675,sernik na zimno z truskawkami,164,8.5,8,16.1
+1676,sernik wiedeñski,228,11.9,11.5,19.8
+1677,sernik wiedeñski bez bakalii,266,11,13.3,24.9
+1678,sernik wiedeñski z bakaliami,240,11.4,10.6,25.7
+1679,sernik ze œliwkami,221,10.5,11,21.5
+1680,s³one paluszki,396,10.1,6.4,76.3
+1681,sucharki popularne,391,4.2,7.2,65.1
+1682,suchary delikatesowe,285,10.2,4.5,76.4
+1683,syrop cytrynowy,292,0,0,73
+1684,syrop klonowy,257,0,0.3,67.3
+1685,syrop truskawkowy,271,0.3,0.2,64
+1686,syrop z agawy,400,0,0,100
+1687,torcik waflowy w czekoladzie Wedel,540,7.2,33,53.5
+1688,wafel Grzesiek,546,9.8,32.6,53.2
+1689,wafel Kinder Bueno White,557,7.2,35.3,52.6
+1690,wafel Piccolo,500,6.2,25.9,51.9
+1691,wafel Prince Polo,534,4.8,32.5,57.5
+1692,wafel Princessa,562,4.1,34.6,58.4
+1693,wefel Teatralny,546,8,31,58
+1694,wafelki kakaowe,545,8.1,21.2,61.1
+1695,wafelki w czekoladzie mlecznej,581,7.5,26.2,57.2
+1696,wafle Familijne,533,7.1,29.6,59.5
+1697,wafle nadziewane,523,8.4,27.7,61
+1698,wafle ry¿owe naturalne,387,8.3,3,82
+1699,wafle w czekoladzie gorzkiej,551,7.2,34.3,56.2
+1700,waflowy torcik w czekoladzie,455,8.9,26.4,50
+1701,margaryna,731,0.4,81,0.6
+1702,margaryna Benecol,540,0,60,0
+1703,margaryna Bona,442,0,50,0
+1704,margaryna Finea Mix,533,0.3,60,0.3
+1705,margaryna Flora,531,0,60,0
+1706,margaryna Kama,398,0,45,0
+1707,margaryna Masmix,670,0.1,75,0.2
+1708,margaryna Mini Light,450,0,50,0
+1709,margaryna Mleczna,710,0.3,80,0.4
+1710,margaryna Nova,450,0,50,0
+1711,magaryna Palma,710,0.3,80,0.4
+1712,margaryna Rama,621,0.1,70,0.4
+1713,margaryna Rama Oliwio,432,0,48,0
+1714,margaryna Sava,720,0,80,0
+1715,margaryna s³oneczna,710,0.3,80,0.4
+1716,margaryna œniadaniowa,543,0.3,60,0.5
+1717,margaryna Tina,442,0,45,0
+1718,margaryna Zwyk³a,710,0.3,80,0.4
+1719,mase³ko zakopiañskie,581,1.1,65.6,1.2
+1720,mas³o chrzanowe,560,1.3,62.1,4
+1721,mas³o czosnkowe,583,2.1,64.5,7
+1722,mas³o Extra,735,0.7,82.5,0.7
+1723,mas³o kakaowe,888,0,100,0
+1724,mas³o klarowane,880,0,100,0
+1725,mas³o koperkowe,600,1.3,67.8,2.9
+1726,mas³o ³ososiowe,499,6.9,52.8,1
+1727,mas³o Mixe³ko £aciate,600,0,66,0
+1728,mas³o musztardowe,545,2.1,57.4,6
+1729,mas³o orzechowe z orzechów w³oskich,576,13.2,68.1,9.7
+1730,mas³o z orzechów archidowych,590,26.3,51.1,20.3
+1731,mas³o orzechowe z sezamem,570,15.2,48.3,21
+1732,mas³o orzechowo-kokosowe,550,9.9,47.6,19.5
+1733,mas³o ose³ka,674,0.4,74.8,0.3
+1734,mas³o pietruszkowe,610,1.2,68.3,2.9
+1735,mas³o roœlinne Nova,442,0,50,0
+1736,mas³o roœlinne kostka,730,0.4,80,0.5
+1737,mas³o roœlinne kubkowe,671,0.5,75,0.5
+1738,mas³o œmietankowe,639,1,73.5,1.2
+1739,mas³o wiejskie,753,0.8,82.1,0.8
+1740,mix t³uszczowy do smarowania pieczywa Krówka Mas³ówka,495,0.1,55,0.1
+1741,Mlemix Zambrowski,573,0.9,64,0.9
+1742,olej krokoszowy (saflorowy),885,0,100,0
+1743,olej kukurydziany,885,0,100,0
+1744,olej lniany,885,0,100,0
+1745,olej migda³owy,876,0,100,0
+1746,olej palmowy,885,0,100,0
+1747,olej ry¿owy,885,0,100,0
+1748,olej rzepakowo-sojowy,885,0,100,0
+1749,olej rzepakowy,899,0,100,0
+1750,olej rzepakowy niskoerukowy,885,0,100,0
+1751,olej rzepakowy t³oczony na zimno,885,0,100,0
+1752,olej rzepakowy uniwersalny,885,0,100,0
+1753,olej sezamowy,885,0,100,0
+1754,olej s³onecznikowy,885,0,100,0
+1755,olej sojowy,885,0,100,0
+1756,olej z awokado,875,0,100,0
+1757,olej z bawe³ny,884,0,99.8,0
+1758,olej z orzechów kokosowych,879,0.7,99.1,0
+1759,olej z orzechów laskowych,875,0,100,0
+1760,olej z orzechów ziemnych,884,0,99.8,0
+1761,olej z pestek dyni,874,0,100,0
+1762,olej z pestek moreli,874,0,100,0
+1763,olej z pestek winogron,885,0,100,0
+1764,olej z pszenicy,885,0,100,0
+1765,olej z zarodków pszennych,885,0,100,0
+1766,oliwa z oliwek,881,0,99.5,0.3
+1767,oliwa z oliwek Monini Classico Extra Vergine,824,0,92,0
+1768,planta t³uszcz roœlinny do sma¿enia,885,0,100,0
+1769,s³onina,800,2.5,89.5,0
+1770,smalec barani,910,0,100,0
+1771,smalec gêsi,890,0,99,0
+1772,smalec wieprzowy,878,0,99.6,0
+1773,smalec wo³owy,905,0,100,0
+1774,smalec z kaczki,891,0,99.7,0
+1775,t³uszcz do smarowania pieczywa GoGreen,440,0,50,0
+1776,tran,903,0,100,0
+1777,bak³a¿an,22,1.3,0.1,6.4
+1778,bak³a¿an gotowany,24,1.1,0.1,7
+1779,boæwina burak liœciowy,16,2.2,0.6,5.3
+1780,boæwina gotowana,50,3.9,1.3,7.7
+1781,botwinka buraki m³ode z liœæmi,21,1.7,0.2,4.2
+1782,botwinka gotowana,28,2.9,0.3,5.8
+1783,bób gotowany,87,7,0.6,14.2
+1784,bób ziarna suche,343,27.8,1.3,58.2
+1785,bób ziarna œwie¿e,65,7.7,0.3,14.9
+1786,bób ziarna œwie¿e mro¿one,61,7.2,0.3,13.2
+1787,broku³y,25,2.9,0.3,5.7
+1788,broku³y gotowane,31,3.3,0.6,5.1
+1789,broku³y mro¿one,23,2.7,0.4,4.7
+1790,broku³y mro¿one Bonduelle,27,2.7,0.4,4.7
+1791,broku³y mro¿one Hortex,27,2.7,0.4,4.7
+1792,broku³y mro¿one gotowane,29,3.2,0.2,5.4
+1793,brukiew,22,1,0.5,5.9
+1794,brukiew gotowana,17,0.2,0.2,3.1
+1795,brukiew ¿ó³ta,47,1.3,0.1,12
+1796,brukselka,33,4.9,0.4,9.2
+1797,brukselka gotowana,49,3.8,0.9,8.1
+1798,brukselka mro¿ona,39,3.9,0.4,9.1
+1799,brukselka mro¿ona gotowana,39,3.7,0.3,8.8
+1800,bukiet warzywny z kalafiorów i broku³ów mro¿ony,31,2.3,0.4,5.5
+1801,bukiet z jarzyn wiosennych mro¿ony,29,2.7,0.5,7.8
+1802,bulwa kolokazji gotowana,161,0.1,0,42.1
+1803,burak,41,1.9,0.1,9.3
+1804,burka i æwik³a z chrzanem,47,2.3,0.4,12.3
+1805,burak gotowany,45,2.4,0.1,9.3
+1806,burak purée mro¿ony,33,1.9,0.1,8.7
+1807,cebula,31,1.2,0.3,7.3
+1808,cebula gotowana,38,1.3,0.4,7.7
+1809,cebula szalotka,34,1.1,0.1,8.2
+1810,chrzan,66,4.6,0.7,19.2
+1811,chrzan tarty z kwasem cytrynowym,80,2.1,1.7,15.5
+1812,chrzan z bit¹ œmietan¹,244,2.6,21.2,10.1
+1813,chrzan z octem,48,1.6,0.3,11.8
+1814,chrzan ze œmietan¹,111,3.3,4.6,17
+1815,ciecierzyca gotowana,122,7.7,2.6,12.3
+1816,ciecierzyca konserwowana,82,3.7,2.2,11.2
+1817,ciecierzyca sucha,377,21,8.1,56
+1818,cukinia,13,1.4,0.2,3.1
+1819,cukinia gotowana,18,1.1,0.2,3.6
+1820,cykoria,23,1.5,0.1,4.9
+1821,cykoria kêdzierzawa,12,50,0.2,3.8
+1822,czosnek,144,6.6,0.6,32.5
+1823,czosnek w proszku,331,17,0.9,73.2
+1824,endywia,19,1.6,0.2,4.3
+1825,fasola bia³a gotowana,144,8.6,0.9,25.4
+1826,fasola bia³a konserwowa,88,3.6,0.1,17.2
+1827,fasola bia³a Jaœ,343,21.2,1.7,62.3
+1828,fasola bia³a Jaœ gotowana,122,9.1,0.2,20.2
+1829,fasola bia³a ziarna suche,303,22.6,1.9,62.5
+1830,fasola br¹zowa (holenderska) ziarna suche,339,23.6,1.5,63.5
+1831,fasola cannellini (w³oska) konserwowa,124,8.2,0.6,21.2
+1832,fasola czerwona konserwowa Pudliszki,78,5.5,0.9,15.8
+1833,fasola czerwona z puszki,86,5.3,0.4,16.1
+1834,fasola czerwona ziarna suche,344,22.5,0.7,60.2
+1835,fasola mung konserwowa,121,11.4,0.6,18.9
+1836,fasolka flageolet konserwowa,65,6.4,0.1,16.2
+1837,fasolka szparagowa zielona mro¿ona,33,2.3,0.3,7
+1838,fasolka szparagowa ¿ó³ta,28,2.3,0,7.7
+1839,fasolka szparagowa ¿ó³ta gotowana,44,2.7,0.6,8.6
+1840,fasolka szparagowa ¿ó³ta gotowana,42,2.6,0.7,8.8
+1841,fasolka szparagowa ¿ó³ta mro¿ona gotowana,24,1.6,0.1,5.3
+1842,groch gotowany,115,8.3,0.6,20.1
+1843,groch ziarno suche,301,24.2,1.5,62
+1844,groszek zielony,76,6.6,0.5,16.9
+1845,groszek zielony gotowany,97,6.4,0.3,19.2
+1846,groszek zielony konserwowy Bonduelle,83,4.9,0.2,15.8
+1847,groszek zielony konserwowy Pudliszki,65,4.2,0.9,13.7
+1848,groszek zielony mro¿ony,73,6.6,0.5,16.4
+1849,groszek zielony mro¿ony Bonduelle,92,6.4,0.4,16.3
+1850,groszek zielony gotowany,95,6.6,0.9,17.3
+1851,groszek zielony purée,118,6.5,2.7,18.3
+1852,hibiskus str¹ki gotowane,36,2.2,0,8.3
+1853,jarmu¿,30,3.2,0.8,6.3
+1854,jarmu¿ gotowany,32,2.5,1,5.5
+1855,kabaczek,36,0.8,0.2,9.1
+1856,kabaczek pieczony,40,1,0.7,8.9
+1857,kalafior,20,2.5,0.2,5.1
+1858,kalafior gotowany,22,2.3,0.5,4.1
+1859,kalafior mro¿ony,19,2.3,0.1,4.7
+1860,kalafior mro¿ony gotowany,18,1.9,0.2,3.7
+1861,kalarepa,31,2.3,0.4,6.6
+1862,kalarepa gotowana,36,2.4,0.4,6.9
+1863,kapusta bia³a,27,1.6,0.1,7.7
+1864,kapusta bia³a m³oda,23,1.3,0.5,4.7
+1865,kapusta bia³a gotowana,29,1.3,0.5,6.6
+1866,kapusta chiñska,33,3.2,0.2,6.1
+1867,kapusta chiñska pako,16,2.2,0.2,3.1
+1868,kapusta czerwona,26,1.8,0.3,7
+1869,kapusta kwaszona,13,1.2,0.3,3.1
+1870,kapusta kwaszona gotowana,14,0.7,0.4,3
+1871,kapusta pekiñska,13,1.3,0.1,3.8
+1872,kapusta pekiñska gotowana,15,0.9,0.4,2.7
+1873,kapusta w³oska,39,3.4,0.3,7.7
+1874,kapusta w³oska gotowana,23,2,0.4,4.5
+1875,karczochy,48,3.2,0.2,11
+1876,karczochy gotowane,52,3.7,0.3,11.9
+1877,kasztan duszony,133,2.2,1.7,27.9
+1878,kasztan gotowany,131,2.1,1,26.8
+1879,kasztan nieobrany,208,1.9,2.1,46.1
+1880,kasztan obrany,197,1.4,1.2,45.6
+1881,kasztan pieczony,250,3.4,2.1,53.1
+1882,kasztan suszony nieobrany,390,6.6,4.7,78.3
+1883,kasztan suszony obrany,370,5.2,3.7,79.1
+1884,kasztany wodne z knserwy,103,2.2,0,27.1
+1885,kie³ki bambusa,22,1.2,0.7,2.3
+1886,kie³ki fasoli mung,30,3.1,0.6,6.4
+1887,kie³ki lucerny,33,4.6,0.6,2.9
+1888,kie³ki rze¿uchy,13,1.3,0.4,3.3
+1889,kie³ki soczewicy,122,8.8,0.5,23
+1890,kie³ki soi,144,13,6.2,10.1
+1891,kie³ki soi gotowane,136,12.4,6.6,10
+1892,koncentrat pomidorowy 20%,81,4.5,1.6,12.1
+1893,koncentrat pomidorowy 30%,94,5.9,2.1,17.2
+1894,koncentrat pomidorowy 40%,157,8.2,3.2,25.2
+1895,koper ogrodowy,25,3,0.4,6.5
+1896,koper suszony,360,16.2,15.7,54
+1897,koper w³oski,10,0.8,0.1,1.9
+1898,koper w³oski gotowany,9,0.8,0.1,1.7
+1899,koperek zielony,20,3.2,0.6,7
+1900,korniszony,15,1,0.3,3.7
+1901,korzeñ paproci jadalnej,100,2.2,0.2,23.1
+1902,kukurydza kolba,112,3.6,1.2,22.1
+1903,kukurydza kolba gotowana z sol¹,131,3.7,1.4,31.1
+1904,kukurydza konserwowa,103,2.6,1,22.6
+1905,kukurydza pra¿ona,398,12.5,5.2,77.1
+1906,kukurydza skrobia,370,0.1,0.1,88.7
+1907,kukurydza z zielonym groszkiem,112,4.2,3.7,17.9
+1908,maniok,197,0.3,0.2,46
+1909,marchew,28,0.9,0.3,8.5
+1910,marchew gotowana,33,1.2,0.3,8.8
+1911,marchew konserwowa,22,0.6,0.2,4.3
+1912,marchew mro¿ona,25,1.1,0.3,7.9
+1913,marchew mro¿ona gotowana,33,1.1,0.2,7.4
+1914,marchew mro¿ona kostka,31,0.8,0.3,7.9
+1915,marchew purée,72,1.2,3.9,9.8
+1916,marchew z groszkiem konserwa,75,1.7,3.1,9.8
+1917,marchew z groszkiem konserwa Bonduelle,92,3,3.4,13.9
+1918,marchewka ca³a mini mro¿ona,21,0.7,0.2,8
+1919,marchew z zielonym groszkiem mro¿ona,40,2.7,0.3,11.1
+1920,mieszanka warzywna chiñska mrozona,70,5.3,2.6,8.9
+1921,ogórek konserwowy,12,0.4,0.3,2.5
+1922,ogórek kwaszony,12,0.9,0.2,2
+1923,ogórek kwaszony gotowany,9,0.7,0.2,2.2
+1924,ogórek zielony,14,0.8,0.2,3
+1925,oliwki czarne w zalewie,111,0.5,10.2,3.5
+1926,oliwki zielone marynowane,123,1.2,12.9,4.3
+1927,oliwki zielone w zalewie,102,1,11.1,0
+1928,papryka,32,1.3,0.2,7.2
+1929,papryka chili konserwowa,18,0.6,0.2,4.4
+1930,papryka czerwona,30,1.5,0.6,6.8
+1931,papryka czerwona gotowana,33,1.5,0.6,7
+1932,papryka czerwona konserwowa,31,0.9,1.3,5.1
+1933,papryka zielona,19,1,0.3,4.7
+1934,papryka zielona gotowana,22,1.2,0.4,5
+1935,pasternak,57,1.7,0.5,15.8
+1936,pasternak gotowany,63,1.9,0.5,17
+1937,pêdy bambusa,30,2.1,0,5.8
+1938,pêdy bambusa ods¹czone konserwa,24,1.6,0.5,5.3
+1939,pêdy bambusa ods¹czone konserwa Rolnik,28,2.5,0.1,4.2
+1940,pietruszka korzeñ,40,2.7,0.4,11
+1941,pietruszka korzeñ gotowana,44,2.8,0.4,11.2
+1942,pietruszka natka,42,4.5,0.5,8.8
+1943,pietruszka natka suszona,310,41.5,2.2,53.8
+1944,pochrzyn bulwy,135,2.1,0,33
+1945,pomidor,16,1,0.3,3.7
+1946,pomidor gotowany,22,1.2,0.2,4.4
+1947,pomidor mi¹¿sz,46,2.2,0.4,9.7
+1948,pomidor mro¿ony,21,1,0.3,3.5
+1949,pomidor purée,48,1.3,3.1,4.8
+1950,pomidor suszony,207,15.2,1.6,43.5
+1951,por,25,2.3,0.4,5.9
+1952,por gotowany,16,1,0.3,3.1
+1953,portulaka,19,1.5,0.3,4
+1954,rabarbar,8,0.6,0.1,4.4
+1955,rabarbar gotowany z cukrem,111,0.4,0.1,29.5
+1956,roszponka,19,2,0.4,3.5
+1957,rukiew wodna,15,3.1,0,0.8
+1958,rzepa,27,1.2,0.4,8
+1959,rzepa gotowana,28,0.8,0.3,6.5
+1960,rze¿ucha ogrodowa,19,2.5,0.6,1.3
+1961,rzodkiewka,15,1.1,0.3,4.5
+1962,rzodkiewka gotowana,22,1.3,0.6,3.9
+1963,salsefia,33,3.8,0.1,19
+1964,sa³ata,15,1.5,0.2,3
+1965,sa³ata karbowana,15,1.5,0.2,3.2
+1966,sa³ata lodowa,15,1,0.1,3.2
+1967,sa³ata rzymska,18,1.4,0.4,3.3
+1968,sa³ata skandynawska mro¿ona,28,2,0.3,7.1
+1969,seler korzeniowy,18,1.7,0.2,6.7
+1970,seler korzeniowy gotowany,46,1.9,0.3,8.9
+1971,seler naciowy,12,1.1,0.2,3.7
+1972,seler naciowy gotowany,20,1.2,0.3,4.1
+1973,skorzonera,79,3.5,0.3,17.5
+1974,skorzonera gotowana,79,2.8,0.2,15.2
+1975,soczewica czerwona,331,54.9,3.3,56.7
+1976,soczewica czerwona gotowana,114,8.2,0.9,20.2
+1977,soczewica czerwona sma¿ona,280,25.2,2.2,56.3
+1978,soja,390,35.2,20.2,33.1
+1979,soja nasiona gotowane,347,22.5,13.5,22.8
+1980,soja nasiona sma¿one,375,34.1,21,31.6
+1981,szczaw,22,1,0.7,5.1
+1982,szczaw gotowany,21,1.1,0.8,4.6
+1983,szczypiorek,31,3.2,0.7,4.1
+1984,szparagi,20,2.1,0.3,3.9
+1985,szparagi gotowane,21,2.3,0.4,3.5
+1986,szparagi konserwowe,21,2.2,0.8,2.6
+1987,szparagi obrane bia³e w zalewie Rolnik,11,1.2,0.1,2.2
+1988,szpinak,15,2.5,0.5,3.2
+1989,szpinak duszony,50,2.9,3.2,4.1
+1990,szpinak gotowany,18,2.6,0.4,3.3
+1991,szpinak mro¿ony gotowany,22,2.6,0.4,3.5
+1992,szpinak rozdrobniony mro¿ony,15,2.5,0.5,2.6
+1993,tamarillo (cyfomandra) pomidor drzewiasty,24,0.3,0.5,4.1
+1994,topinambur,77,2.1,0,17.7
+1995,topinambur gotowany,19,0.3,0,3.9
+1996,tradycyjna sa³atka jarzynowa mro¿ona,57,3.2,0.7,14.1
+1997,warzywa na paprykarz mro¿one,18,1,0.3,4.5
+1998,warzywa na patelniê z przyprawami orientalnymi,30,4.9,0.3,4.6
+1999,w³oszczyzna krojona w paski mro¿ona,24,1.3,0.2,7.7
+2000,ziemniak purée,120,2.3,2.7,21.6
+2001,ziemniaki,75,1.7,0.2,19
+2002,ziemniaki bez skóry opiekane,110,2.3,0.2,25.6
+2003,ziemniaki d³ugo przechowywane,92,1.8,0.2,19.8
+2004,ziemniaki gotowane,104,2.3,0.1,23.6
+2005,ziemniaki póŸne,87,2,0.2,21.1
+2006,ziemniaki póŸne gotowane,115,2,0.2,26.8
+2007,ziemniaki s³odkie (bataty),88,1.9,0.2,21.5
+2008,ziemniaki s³odkie (bataty) gotowane,74,1.5,0.2,17.9
+2009,ziemniaki wczesne,67,1.9,0.2,16.6
+2010,ziemniaki wczesne gotowane,93,2.1,0.2,21.3
+2011,ziemniaki ze skórk¹ gotowane z sol¹,103,2.2,0.2,24
+2012,bak³a¿any faszerowane pieczarkami,60,1.5,3.3,7.4
+2013,bak³a¿any w cieœcie,110,3.7,4.5,16.7
+2014,bak³a¿any z farszem miêsno-serowym,60,6.5,2.6,4.5
+2015,bak³a¿any ze œmietan¹,69,1.5,4.5,6.5
+2016,barszcz bia³y ¿urek,92,2.8,4.7,9.6
+2017,barszcz czerwony czysty,36,3.5,1.5,3.3
+2018,barszcz czerwony z botwink¹,30,1.4,1.8,2.4
+2019,barszcz czerwony z torebki,20,2.5,5,9.4
+2020,barszcz czerwony zabielany,35,2.1,1.3,3.2
+2021,barszcz ukraiñski,47,2.6,1.4,7.7
+2022,befsztyk jagniêcy,264,12.8,20.5,8
+2023,befsztyk z karkówki wo³owej z cebul¹,260,18.7,19.8,1.7
+2024,befsztyk z polêdwicy wo³owej z cebul¹,120,14.1,6.2,1.8
+2025,befsztyk z rostbefu z cebul¹,150,15.3,9.1,1.5
+2026,bitki wieprzowe,200,10.5,16.3,2.7
+2027,bitki wo³owe,105,14,4.6,2.2
+2028,bitki wo³owe w jarzynach,106,12.1,3.7,5.6
+2029,boczek wieprzowy duszony ze s³odk¹ kapust¹,137,4.9,12.1,5.5
+2030,boczek z farszem grzybowym,160,4.7,8.6,17
+2031,boeuf Strogonow z polêdwicy wo³owej,115,12.6,6.3,2.1
+2032,bób z papryk¹ i boczkiem,88,4.9,5.3,8.6
+2033,bób z warzywami,56,2.3,2.7,6.5
+2034,broku³y z bu³k¹ tart¹ i mas³em,84,4.5,5.4,6.7
+2035,brukiew z marchwi¹ i jab³kami,44,1,1.9,9.6
+2036,brukselka w winnym cieœcie,101,3.9,6.9,9.8
+2037,brukselka z wody z bu³k¹ tart¹ i mas³em,131,4.4,7.3,11.9
+2038,brukselka zapiekana pod beszamelem,95,5.5,5.6,8
+2039,bulion wo³owy z jarzynami,82,7,5.3,1.3
+2040,bryzol z polêdwicy wo³owej,255,25,16.9,1.6
+2041,bulion wo³owy z kostki,9,0.6,0.4,0.7
+2042,bulion z kury z jarzynami,87,6.5,5.7,1.3
+2043,bulion z kury z kostki,10,0.6,0.3,0.7
+2044,bulion z miêsa i warzyw,45,5.1,2.5,1.2
+2045,bulion z kury z kostki,10,0.6,0.3,0.7
+2046,buraki z jab³kami,70,1.7,2.2,12.1
+2047,buraki z rodzynkami,92,2,2.8,16.5
+2048,buraki zasma¿ane,90,2.2,4.8,11.3
+2049,buraki ze œmietan¹,70,2.3,2.4,11.7
+2050,cebula sma¿ona,115,1.7,9.7,7.7
+2051,cebula w œmietanie,83,1.6,6.3,8.3
+2052,ch³odnik na bia³ym barszczu z boæwin¹ jajkiem i ogórkiem,81,4.4,6,3.3
+2053,ch³odnik na rosole z bocwin¹ jajkiem i ogórkiem,64,4.6,4.2,2.6
+2054,ch³odnik pomidorowy,69,2.7,5.3,3
+2055,ch³odnik wiejski z zielenin¹,64,4.7,3.4,4.2
+2056,ch³odnik wiosenny,44,3.2,2.1,3.5
+2057,ch³odnik z botwinki,72,3.4,4.8,4.5
+2058,ch³odnik z kefiru,81,3.9,3.3,8.8
+2059,ch³odnik z maœlanki,68,5.9,3.2,4.4
+2060,ch³odnik z sera twarogowego z zielenin¹,53,4.7,2.1,4.3
+2061,ch³odnik z z truskawek z winem,72,0.7,3.3,10
+2062,ch³odonik ze szparagami i zielenin¹,81,3.2,6.5,3.6
+2063,ch³odnik ze zsiad³ego mleka,49,3.2,2.6,4.1
+2064,ch³odnik ze zsiad³ego mleka z zielenin¹ i rzodkiewk¹,62,5,3.1,4.5
+2065,cielêcina w potrawce,116,10.6,4.8,8.8
+2066,cukinia faszerowana ry¿em i miesem,60,2,4.4,4.8
+2067,cukinia z miêsem,86,4,6.6,4.4
+2068,cukinia zapiekana z parmezanem,65,3.4,4,4.4
+2069,dorsz w jarzynach,130,15.8,5.5,44
+2070,dorsz z boczkiem i ziemniakami,140,12.1,7.3,6.9
+2071,dorsz z farszem warzywnym,81,9.6,2.7,4.7
+2072,dorsz z jab³kami,104,8.2,4.5,8
+2073,dorsz z papryk¹,92,12.5,3.7,2.6
+2074,dorsz z warzywami zapiekany w œmietanie,97,9.5,3.4,8.9
+2075,dorsz z zielonym groszkiem w galarecie,55,9.8,0.3,4.5
+2076,dorsz zapiekany z beszamelem,125,15.2,5.7,3.2
+2077,eskalopki cielêce zapiekane,195,18,12.3,2.1
+2078,eskalopki wo³owe,166,20.2,8.6,2
+2079,farsz z pieczarek,67,2.2,5.6,3.9
+2080,fasola po bretoñsku z boczkiem,305,15.9,16.3,33.1
+2081,fasola po bretoñsku z chud¹ kie³bas¹,155,8,6.6,16
+2082,fasolka szparagowa z boczkiem,135,3.2,12,6.1
+2083,fasolka szparagowa z mas³em i bu³k¹ tart¹,76,2.7,4.9,9.7
+2084,fasolka szparagowa z pomidorami,51,1.8,2.6,7
+2085,fasolka szparagowa zapiekana z boczkiem i œmietan¹,180,3.5,17.9,4.1
+2086,flaczki na rosole,83,15.7,2.4,0
+2087,flaki na rosole z warzywami,70,4.7,4.4,3.8
+2088,fl¹dra zapiekana z warzywami,60,7.7,2.7,2.1
+2089,fondue serowe,255,16.4,20.8,1.3
+2090,galantyna z kurczaka,170,14.9,12,1.6
+2091,galaretka drobiowa,130,11,8,4.4
+2092,galaretka wieprzowa,168,14.8,10.8,4.5
+2093,galaretka wieprzowa z nó¿ek,207,16.6,15,0.9
+2094,galaretka z golonek wieprzowych,220,18.1,15.7,1.6
+2095,galaretka z karpia,72,9.6,2.5,1.5
+2096,galaretka z kurczaka,97,15.3,2.1,6.5
+2097,galaretka z kurczaka z zielonym groszkiem,60,7.3,3.5,1.1
+2098,gêœ z farszem z kaszy,266,10.6,22.1,7.8
+2099,golonka gotowana,296,18.7,24.8,0
+2100,go³¹bki z miêsem i ry¿em w sosie pomidorowym,130,9.2,5.1,12.3
+2101,go³¹bki z miêsem ry¿em i warzywami w sosie pomidorowym,112,4,7.8,7.1
+2102,groch z kapust¹,120,3.2,9.9,5.9
+2103,groszek ptysiowy,220,3.6,10.7,27.4
+2104,groszek z mas³em,102,3,7.1,7
+2105,groszek z ry¿em i smazonym boczkiem,98,3.2,6,8.1
+2106,gruszki marynowane,150,0.4,0.2,37.5
+2107,gruszki w sosie porzeczkowym,70,0.8,0.2,17.5
+2108,gruszki w sosie szodonowym,156,2,2.7,24
+2109,gruszki w sosie waniliowym,157,1.7,1.1,34.9
+2110,gruszki z ry¿em ? la Richelieu,100,2.3,3.5,17
+2111,grzanka,268,7.5,1.3,59
+2112,grzanka z serem i pieczarkami,245,8.8,13,24.5
+2113,grzanka z serem i szynk¹,200,10,9.2,18.3
+2114,grzanka z szynk¹ i ananasem,188,1.5,9.9,23.1
+2115,grzanka z w¹ttróbk¹ i jab³kiem,212,9.8,13.8,13.4
+2116,grzebienie francuskie z konfitur¹,340,4.5,17.9,40
+2117,grzybek z jajka,123,13.2,9.8,2.5
+2118,grzybek z jajka z cukrem,155,14,9.9,6.3
+2119,gulasz cielêcy z warzywami,107,7.5,7.2,4.6
+2120,gulasz wêgierski z udŸca wo³owego,145,13.6,7.5,6.3
+2121,gulasz wieprzowo-wo³owy z warzywami,150,14.5,8.8,2.6
+2122,gulasz wo³owy z jarzynami,125,12,7.2,3.8
+2123,gulasz z boczniaków z pomidorami,56,1.8,4.7,3.5
+2124,gulasz z grzybów z pomidorami i papryk¹,73,2.1,5.3,5.2
+2125,gulasz z karkówki wieprzowej,154,6.7,10.5,10
+2126,gulasz z karkówki wieprzowej z kapust¹,90,4.5,7.4,2.9
+2127,gulasz z ³opatki cielêcej,100,12.2,5,2.3
+2128,gulasz z ³opatki wieprzowej z piwem,194,9.8,15.3,4.1
+2129,gulasz z piersi kurczaka,140,14.6,5,8.7
+2130,gulasz z warzyw z wo³owin¹,78,5.9,4,6.5
+2131,indyczka pieczona z farszem rodzynkowo-migda³owym,177,14.8,10.7,5.3
+2132,jajeczka przepiórcze z kawiorem,100,7.2,7.1,2
+2133,jajka faszerowane z majonezem i rze¿uch¹,263,7.8,25,2.7
+2134,jajka nadziewane past¹ z wêdzonego dorsza,142,15.7,8.3,1.5
+2135,jajka nadziewane past¹ z wêdzonego wêgorza,198,10,17.3,2.5
+2136,jajka nadziewane sardynk¹ w oleju z warzywami,126,11,7.8,1.9
+2137,jajka nadziewane warzywami,125,7,9.8,2.5
+2138,jajka w galarecie z kawiorem,156,14.5,10.5,1
+2139,jajka w galarecie z sosem œmietankowo-chrzanowym,162,10.4,12,3.6
+2140,jajka w galarecie z szynk¹ i groszkiem,56,5.4,3.6,0.9
+2141,kaczka nadziewana farszem z w¹tróbki i jab³ek,255,12,22.1,2.4
+2142,kaczka w maladze,250,12.8,22.3,0.7
+2143,kalafior w cieœcie naleœnikowym,190,4.2,13.5,14.9
+2144,kalafior z bu³k¹ tart¹ i mas³em,79,3.8,5,6.5
+2145,kalafior zapiekany z sosem serowym,120,4.6,9.8,4.9
+2146,kalarepa nadziewana miêsem drobiowym,77,6.9,3,6.7
+2147,kalarepa nadziewana miêsem wieprzowym,115,6.8,8,4.9
+2148,kalarepa nadziewana miêsem wo³owym,94,8.5,4.1,7
+2149,kapuœniak,91,1.7,8.8,2.1
+2150,kapuœniak myœliwski z kie³bas¹ i boczkiem,90,3.5,8.5,0.8
+2151,karkówka na dziko,203,12.1,16.7,0
+2152,karkówka wieprzowa z grzybami,160,8.6,12.5,5.1
+2153,karp gotowany w jarzynach,94,10.8,4.9,3.4
+2154,karp gotowany z sosem koperkowym,111,12.5,6,0.7
+2155,karp po wêgiersku,95,10.1,4.2,5.4
+2156,karp po ¿ydowsku w szarym sosie,65,7.6,1.9,5.5
+2157,karp sma¿ony oprószany m¹k¹,167,16.2,9,4.9
+2158,karp sma¿ony panierowany,192,14.2,11.9,7.5
+2159,karp w galarecie,140,25.2,3.1,2.6
+2160,karp w galarecie z warzywami,60,9.1,1.9,1.4
+2161,karp zapiekany z parmezanem w œmietanie,150,10.5,7.3,12
+2162,kartoflanka z zacierkami,66,1.6,3.4,7.7
+2163,kasza gryczana na sypko zacierana jajkiem ze smalcem,145,4.9,3,25.5
+2164,kasza gryczana zapiekana z serem twarogowym i gêst¹ œmietana,182,7.7,11.5,12.6
+2165,kasza gryczana zapiekana ze œwie¿ymi grzybami i serem,113,3.8,7.8,9
+2166,kasza jaglana na sypko ze œliwkami,125,4.6,3.8,18.9
+2167,kasza jaglana zapiekana z jab³kami,153,3.4,4.7,25.3
+2168,kasza jêczmienna zapiekana z kurczakiem i groszkiem konserwowym,111,7.3,1.5,18.6
+2169,kasza jêczmienna zapiekana z w¹tróbk¹ drobiow¹,138,7.7,6,14.6
+2170,kasza manna na mleku,120,3.6,2.8,20.5
+2171,kasza manna na wodzie s³odzona,40,0.5,0.2,9.6
+2172,kasza zapiekana z boczkiem,188,7,12.8,13.5
+2173,kasza zapiekana z miêsem wo³owo-wieprzowym i pomidorami,125,6,5.3,15.1
+2174,klopsiki cielêce mielone,252,15.8,15.5,12.1
+2175,klopsiki wieprzowo-wo³owe w sosie pomidorowym,155,10.4,10.1,6.2
+2176,kluski dro¿d¿owe na parze,266,7.4,10,37.9
+2177,kluski francuskie,309,9.2,17,31.6
+2178,kluski k³adzione,170,5,1.5,34
+2179,kluski k³adzione polane stopion¹ s³onin¹,270,6.8,11.1,36.7
+2180,kluski k³adzione z jajecznic¹,162,7,6.4,19
+2181,kluski kopytka polane stopionym mas³em z cebulk¹,163,4,3.6,30
+2182,kluski krajane,220,6.6,2.4,45.1
+2183,kluski lane,98,4.3,2.4,15.2
+2184,kluski lane na mleku,71,3.7,3,7
+2185,kluski œl¹skie,175,2.7,3.9,33
+2186,kluski z gotowanych ziemniaków i twarogu (szagówki),16.43,1.5,23.1, 
+2187,kluski z p³atków owsianych ze stopionym boczkiem,175,5.7,8,22.1
+2188,kluski z sera twarogowego zapiekane z rodzynkami i gêst¹ œmietank¹,231,9.9,11.5,19
+2189,kluski z surowych ziemniaków,183,4.8,9,21.7
+2190,knedle z farszem z twarogu,145,7,4.8,19
+2191,knedle z serem ¿ó³tym,194,5.5,8.8,24.3
+2192,knedle ze œliwkami,170,3.7,3.6,32
+2193,kotleciki jagniêce,166,16.2,11.1,2.7
+2194,kotleciki z jajek,170,9.3,11.2,7.4
+2195,kotleciki z kaszy i twarogu,215,8.6,11.1,21.7
+2196,kotlety cielêce panierowany,364,26.8,21,17.2
+2197,kotlety de volaille z kurczaka,226,15.8,14,7.8
+2198,kotlety de volaille z kury,277,19.8,14.8,15.4
+2199,kotlety mielone wieprzowo-wo³owe nadziewane serem ¿ó³tym,182,14.4,9.2,10.2
+2200,kotlety mielone z dorsza z sosem koperokowym,173,15.1,7.7,9.5
+2201,kotlety mielone z miesa drobiowego i grzybów,142,2.9,10.4,9.5
+2202,kotlety mielone z miesa drobiowego z otrêbami,156,17,7.5,8.8
+2203,kotlety panierowane z karkówki,353,18.7,23.8,15.4
+2204,kotlety po¿arskie z kurczaka,290,15.7,19.8,12.8
+2205,kotlety po¿arskie z kury,382,20,21,12
+2206,kotlety schabowe wieprzowe duszone z cebul¹,167,17.5,9.6,3.7
+2207,kotlety schabowe wieprzowe panierowane,247,23,15.6,3.1
+2208,kotlety schabowe wieprzowe sauté,213,19,12.7,5.5
+2209,kotlety sojowe,325,35.3,2.2,41.3
+2210,kotlety z dorsza z pieczarkami,146,14.5,5.3,10.5
+2211,kotlety z fasoli,197,9.5,6.6,30.7
+2212,kotlety z karkówki wieprzowej z grilla,300,15.5,26.2,1.1
+2213,kotlety z kaszy gryczanej z warzywami,120,3.3,5.6,14.6
+2214,kotlety z piersi indyka panierowane w wiórkach kokosowych,191,13.2,14.5,4.2
+2215,kotlety z piersi kurczaka panierowane w migda³ach,212,19.7,14.5,3.4
+2216,kotlety z ry¿u zielonym groszkiem,131,3.7,4,21.2
+2217,kotlety z soi gotowane,88,12,0.9,9
+2218,kotlety z soi suche,339,49.7,2.5,36.2
+2219,kotlety z warzyw,94,3.8,7,6
+2220,kotlety z ziemniaków,156,3.9,4.4,25.6
+2221,kotlety z ¿ó³tego sera,293,15.3,23.5,8.4
+2222,kotlety ze szpinaku,137,4.9,6.4,18.5
+2223,krokiety z dorsza,207,15.5,8,18.1
+2224,krokiety z grzybów,93,4.3,6.2,6.5
+2225,krokiety z kapust¹,160,4,8.1,21.1
+2226,krokiety ziemniaczane,140,3,5.3,21.9
+2227,królik w œmietanie,207,14,15.9,2.1
+2228,krupnik,50,3.4,1.9,5.1
+2229,krupnik z kaszy gryczanej,45,1.6,1.1,7.1
+2230,krupnik z kaszy jêczmiennej,46,1.5,1.1,7.2
+2231,krupnik z ry¿u,47,1.4,1,7.6
+2232,kulebiak z farszem miêsnym,226,7.6,13,19.7
+2233,kulebiak z farszem z kapusty i grzybów,153,4.5,6,21.4
+2234,kura w galarecie,196,27.1,8.9,1.5
+2235,kurczak faszerowany bakaliami i w¹tróbk¹,191,15.3,13,4.2
+2236,kurczak w miodzie,158,16.4,9.2,2
+2237,kurczak w winnej galarecie,47,6.4,0.5,5
+2238,kurczak z nadzieniem podrobowo-rodzynkowym,327,19.9,24.8,5.9
+2239,kurczak z nadzieniem orzechowym,339,20,27.6,1.5
+2240,kurczak z nadzieniem ry¿owym z bakaliami,327,19.5,25.8,3.9
+2241,kurczak z nadzieniem z cielêciny,309,19.7,24.1,3.8
+2242,kurczak z nadzieniem z podrobów,309,19,24.1,3.4
+2243,kurczak z warzywami,93,11,4.5,3.5
+2244,kurczêta pieczone,332,6.2,14,47.5
+2245,kutia,332,6.2,14,47.5
+2246,leczo,62,1.3,4.5,5.6
+2247,³azanki,225,7.7,2.9,42.8
+2248,³azanki z serem twarogowym,200,9.6,9.5,19
+2249,lopatka cielêca w potrawce,99,14.1,3.6,2.9
+2250,³osoœ marynowany z warzywami,142,9.1,9.3,2.5
+2251,³osoœ w ³ódeczce z ogórka,80,10.1,4,2
+2252,³osoœ wêdzony z jajkiem,168,14.4,12,1.9
+2253,³osoœ z rusztu,133,12.1,8.4,2.6
+2254,³osos z sosem twarogowym,193,18.7,13,0.9
+2255,³osoœ zapiekany w muszelkach,146,10.5,9.9,3.4
+2256,makrela w sosie cytrynowym,150,8,9.8,6.3
+2257,makrela z grilla,175,29.7,5.3,0.9
+2258,marchew oprószana,70,1,4.2,10
+2259,marchewka z groszkiem oprószana,75,1.7,3.1,9.5
+2260,marchewka zasma¿ana,75,1,4.9,7.1
+2261,marchwianka,19,0.5,0,5.8
+2262,mintaj sma¿ony z papryk¹,85,10.3,4,2.7
+2263,mizeria ze œmietan¹ 12% t³uszczu,37,1.1,2.5,2.9
+2264,m³ode kurczêta faszerwane kukurydz¹,180,16,11.6,3.8
+2265,mostek cielêcy faszerowany,180,16.1,12,2.2
+2266,naleœniki,166,4.6,4.8,25.9
+2267,naleniki z cukrem,180,4.2,6.8,25.2
+2268,naleœniki z jab³kami,172,3.9,4.6,29
+2269,nalesniki z kapust¹,175,3.9,5,29
+2270,naleœniki z miêsem,174,8,9.7,13.5
+2271,naleœniki z serem twarogowym t³ustym,243,8,10.2,13.7
+2272,naleœniki z warzywami,120,4,4.1,17
+2273,okoñ pieczony z piwem,97,16.5,2,2
+2274,okoñ po kaszubsku z boczkiem,150,23,5.7,1
+2275,okoñ zapiekany z winem,132,19.6,4.7,1.5
+2276,omlet biszkoptowy z kie³bas¹,311,12.3,20.4,20
+2277,omlet biszkoptowy z twarogiem t³ustym,206,11.3,9.9,18.3
+2278,omlet biszkoptowy ze szpinakiem,150,6.5,10.6,10.1
+2279,omlet muœlinowy na œmietanie kremowej,231,8.1,21.4,1.8
+2280,omlet naturalny z marchewk¹ i groszkiem,111,5,7.9,7.8
+2281,omlet z porem i keczupem,118,7.2,8.5,4.1
+2282,omlet z szynk¹,185,13.6,14.1,1.2
+2283,omlet z zielonym groszkiem,120,8,7.4,7.7
+2284,omlet ze szparagami,107,4.4,8.8,3
+2285,ozory w galarecie,138,16.5,7.4,1.5
+2286,papryka czerwona w sosie winegret,99,1,8.3,6
+2287,papryka faszerowana miesem ry¿em i warzywami w sosie smietanowym,170,4,10.9,13.3
+2288,papryka faszerowana ry¿em i rodzynkami,74,2.5,4,8.5
+2289,paprykarz,120,4.8,4.5,14.6
+2290,paprykarz z kasz¹ jaglan¹,120,5,4.4,15.6
+2291,paprykarz z ³opatki cielêcej,100,1.5,4.6,2.4
+2292,paprykarz z ³ososia z jarzynami,216,18,14.7,3.4
+2293,pasta pieczarkowa z bazyli¹,111,8.5,4.5,19.1
+2294,pasta pomidorowa z cieciork¹,148,7.7,3,19.5
+2295,pasta sojowo-pieczarkowa,155,9,7.7,24.3
+2296,pasta sojowo-pomidorowa,152,9.1,5.9,21.5
+2297,pasta warzywna z cieciork¹,134,6.5,4,18.7
+2298,pasta warzywna z soczewic¹,105,5.5,5,14
+2299,pasta z jaj i zieleniny,234,8.8,22,1.9
+2300,pasta z makreli,178,10,13.3,9.3
+2301,pasta z miêsa wo³owego i pieczarek,174,10.6,13,4.3
+2302,pasta z sera twarogowego i zieleniny,245,12.2,21,4.8
+2303,pasta z sera ¿ó³tego i ryby,170,19.7,9.7,1.3
+2304,paszteciki dro¿d¿owe z farszem miêsnym,297,12.9,14.7,28.3
+2305,paszteciki dro¿d¿owe z farszem z kapusty,166,3.9,4.1,31.3
+2306,paszteciki krucho-dro¿d¿owe z miesem wo³owym,201,9,9.5,20.8
+2307,paszteciki z pieczarkami i miêsem drobiowym,157,8.7,10.4,7.8
+2308,pasztet domowy wo³owo-wieprzowy,237,16.9,17.8,2
+2309,pasztet koperkowy z cieciork¹,135,6.5,4,18.8
+2310,pasztet meksykañski,164,8.8,3.1,24.2
+2311,pasztet miêsno-grzybowy,143,11.5,10,3.1
+2312,pasztet ogórkowy z cieciork¹,122,6.8,2.9,18.7
+2313,pasztet orientalny,188,9.2,4.1,23.1
+2314,pasztet wieprzowo-wo³owy,290,19.2,22.4,3.5
+2315,pasztet z cielêciny,150,15.7,8.5,3
+2316,pasztet z gesich w¹tróbek,335,9.8,29.2,11
+2317,pasztet z kurczaka pieczony,211,14.2,14.1,7.2
+2318,pasztet z ryb wêdzonych,148,12.6,10.4,1.1
+2319,pieczarki faszerowane zapiekane z ¿ó³tym serem,93,4.5,7.7,3
+2320,pieczarki sma¿one,115,2,11.9,2.2
+2321,pieczeñ barania z ostrym sosem,251,13.6,20.6,4
+2322,pieczeñ cielêca duszona,238,20,17.2,1.8
+2323,pieczeñ cielêca po litewsku,135,14.7,7.3,2.5
+2324,pieczeñ cielêca z pieca,126,16,5.9,1.1
+2325,pieczeñ cielêca z pomarañcz¹,136,14.1,6,6.4
+2326,pieczeñ huzarska z rostbefu,147,15.5,7.4,4.3
+2327,pieczeñ rzymska,204,13.6,12.4,11
+2328,pieczeñ wieprzowa z musztard¹ i czosnkiem,292,7,24.8,0.4
+2329,pieczeñ wo³owa z sosem wiœniowym,158,14.5,9.8,2.4
+2330,pieczeñ z karkówki wieprzowej z kapust¹,175,10.5,15,1.5
+2331,pieczeñ z karkówki wieprzowej z winem i œliwkami,222,11.4,17,3.9
+2332,pieczeñ z rostbefu duszona z cebul¹,170,28.6,4.8,1.5
+2333,pieczeñ z rostbefu na dziko,144,16.5,8.3,1.7
+2334,pieczeñ z rostbefu z jarzynami,130,15.1,6.7,1.6
+2335,pieczeñ z szynki wieprzowej duszona z warzywami,192,12.7,14.9,2.2
+2336,pieczeñ z szynki wieprzowej z owocami,211,12.1,16.2,4.6
+2337,pieczeñ z szynki wieprzowej z warzywami i winem,224,14.5,7.5,1.7
+2338,pieczeñ z wo³owiny,115,21,3.7,0
+2339,pieczeñ ze schabu wieprzowego z jab³kami,145,14.4,8,5.1
+2340,pierogi leniwe z twarogiem pó³t³ustym,155,11.5,3.3,19.5
+2341,pierogi leniwe z twarogiem t³ustym ze zrumienion¹ bu³k¹ i mas³em,220,13.1,9.8,20
+2342,pierogi ruskie z twarogiem pó³t³ustym i przesma¿on¹ s³onin¹,153,7,6,18.5
+2343,pierogi ruskie z twarogiem pó³t³ustym i zrumienion¹ na maœle cebul¹,140,7,2,23
+2344,pierogi ruskie z twarogiem t³ustym,145,5.8,2.6,26.3
+2345,pierogi ruskie z twarogiem t³ustym i przesma¿onym boczkiem,180,6.1,7.2,22.6
+2346,pierogi z grzybami,140,4.4,5.5,19.6
+2347,pierogi z jab³kami i cynamonem,130,3.1,1.1,29.9
+2348,pierogi z jagodami polane stopionym mas³em,186,3.3,3.6,36.1
+2349,pierogi z kapust¹ grzybami i przesma¿on¹ s³onin¹,177,4.6,6,27.9
+2350,pierogi z kapust¹ i grzybami,111,3.7,1.5,22.1
+2351,pierogi z miêsem i zrumienion¹ cebul¹,250,13,10.5,25.5
+2352,pierogi z serem t³ustym,196,13,4.4,26.2
+2353,pierogi z serem t³ustym polane zrumienion¹ bu³k¹ i mas³em,235,11.2,7.9,29.5
+2354,pierogi z truskawkami polane zrumienion¹ bu³k¹ i mas³em,250,4.1,1,29.8
+2355,pierogi z wiœniami,135,3.8,1,29.5
+2356,pierogi ze szpinakiem,152,6.5,4.3,25.6
+2357,piero¿ki krucho-dro¿d¿owe z wiœniami,330,5,17.7,39.8
+2358,pierœ z indyka z sa³atk¹ owocow¹,103,7.7,4.4,9
+2359,pierœ z kurczaka z ananasem,102,17,0.9,5.8
+2360,pikle z ogórków,34,0.4,0.2,9.5
+2361,placek z ciasta ziemniaczanego (bambrzak),90,2.3,1.5,17
+2362,placki ziemniaczane,115,2.5,3.8,19
+2363,placki ziemniaczane z kie³bas¹ i warzywami,240,3.5,14.4,23.8
+2364,placi ziemniaczane z grzybami,63,2.4,1.3,8
+2365,polêdwica po angielsku,142,19.5,7,0
+2366,polêdwica wieprzowa nadziana ¿ó³tym serem,210,18.1,15,0.7
+2367,polêdwica wo³owa pieczona z kapust¹ i pieczarkami,87,10.8,4.3,3.4
+2368,polêdwica wo³owa z ró¿nymi warzywami,75,10.2,3,3.5
+2369,polêdwica wo³owa z rozna ze s³onink¹,192,18,13.1,0.4
+2370,polêdwica z dzika z czarn¹ porzeczk¹,125,18.4,4.9,1.3
+2371,pomidory duszone z cebul¹,23,1,0.4,4.8
+2372,pomidory nadziewane tuñczykiem,56,7.1,2.6,3.2
+2373,pomidory sma¿one,90,0.8,7.8,4.9
+2374,pomidory w przecierze,35,2.1,0.6,65.7
+2375,potrawka z kurczaka,142,14.1,8.5,2.9
+2376,potrawka z ³opatki cielêcej,86,12.6,3,2.3
+2377,pstr¹g z grilla w liœciach kapusty,147,18.5,7.5,1.5
+2378,pstr¹g z piekarnika,209,17.3,14.9,1.3
+2379,pstr¹g z warzywami,88,11,4.2,2.1
+2380,pulpety cielêce w jarzynach,99,9.2,4.8,6.6
+2381,pulpety wieprzowo-wo³owe w jarzynach,185,15.4,9.5,9.3
+2382,puplety z dorsza z warzywami,115,14.2,2.6,7.8
+2383,pyzy dro¿d¿owe,270,7.5,7.3,44.3
+2384,pyzy ziemniaczane,217,3.6,6.3,37.6
+2385,racuchy z dyni¹,222,5,11.1,27.3
+2386,racuszki z cukini,160,2.7,11.5,11.5
+2387,risotto,125,6.2,8.3,9.7
+2388,rolada wieprzowa z ³opatki,411,21,33,7.8
+2389,rolada z dorsza,90,11.6,1.4,8
+2390,rolada z³ososia z warzywami,117,10.4,6.4,3.2
+2391,rolada z szynki wieprzowej z farszem z bia³ej kie³basy,223,13.4,18.3,1.8
+2392,rolada z indyka,125,12.9,6.7,3,p0
+2393,rosó³ jarski,19,0.5,1.2,2.3
+2394,rosó³ rumiany wo³owy,99,4.4,8.5,1.9
+2395,rosó³ wo³owo-drobiowy,46,6,2.4,0.9
+2396,rosó³ z cielêciny,45,7,1,1.6
+2397,rosó³ z wo³owiny,75,4.3,5.6,1.9
+2398,rostbef z ro¿na,180,23.6,8.9,1.4
+2399,ro¿ki z ciasta francuskiego z jab³kami,395,4.8,25,38.8
+2400,ro¿ki z mortadeli i sera ¿ó³tego,242,11.5,21.8,0.6
+2401,rulony z szynki z musem jab³kowym,370,13,32.4,7.2
+2402,rumsztyk wo³owy,114,19.8,3.3,0
+2403,ryba maœlana z rusztu,133,11.6,9.4,0.3
+2404,ryba morska z grilla z owocami,88,11.1,2.4,5.5
+2405,ryba po grecku,101,10.7,4.9,5
+2406,ry¿ na sypko z mas³em,125,2,2.9,22
+2407,ry¿ zapiekany z jab³kami,126,1.9,3.2,22
+2408,ry¿ zapiekany z pomidorami,121,3.3,8.9,9.2
+2409,ry¿ zapiekany z szynk¹,210,12.3,12.4,13.6
+2410,ry¿ zapiekny ze œliwkami i suszonymi grzybami,140,5.9,7,14.5
+2411,sa³ata wiosenna z szynk¹ i twarogiem,150,8.5,12,2.6
+2412,sa³ata zielona z olejem,121,0.9,12,2.2
+2413,sa³ata zielona ze œmietan¹ 12% t³uszczu,47,1.6,2.5,4.4
+2414,sa³atka Caesar z sosem,72,5,3.7,6.8
+2415,sa³atka Coleslaw z sosem majonezowym,95,1.2,6.4,8.5
+2416,sa³atka jajeczna z pieczarkami,119,6.5,9,5
+2417,sa³atka jajeczna z szynk¹,151,12,10.2,1.5
+2418,sa³atka KFC,21,0.6,0.3,3.8
+2419,sa³atka meksykañska mro¿ona,45,3,0.4,10.9
+2420,sa³atka owocowa z alkoholem,106,0.4,0.3,20
+2421,sa³atka owocowa z orzechami,72,1,2.6,1.8
+2422,sa³atka Piccante z sosem,90,19.2,5.5,3.4
+2423,sa³atka pikantna z makreli,183,10.4,13.1,6.7
+2424,sa³atka rybna z nowalijkami,132,9.1,10,1.8
+2425,sa³atka ry¿owa z szynk¹ i owocami,135,5,6.3,15.7
+2426,sa³atka selerowa z szynk¹ i serem,183,7.6,15.1,4.6
+2427,sa³atka œledziowa,131,5.9,9.5,7.6
+2428,sa³atka Vega bez sosu,36,1.1,1.4,4.7
+2429,sa³atka warzywna z kurczakiem,94,7,5.1,5.8
+2430,sa³atka warzywna z kurczakiem i ananasem,137,7.6,8.8,7
+2431,sa³atka warzywna z ziemniaków buraków kukurydzy i kwaszonego ogórka,90,2,5,11.5
+2432,sa³atka z bia³ej kapusty Rolnik,60,1.9,0.4,14.4
+2433,sa³atka z broku³ów z bakaliami,156,3.1,12,11.2
+2434,sa³atka z cykorii selera i kwaszonego ogórka,105,3,8.3,5.4
+2435,sa³atka z dorsza,190,10,14,7.4
+2436,sa³atka z kapusty buraków i marchwi,25,1.3,0.3,6.2
+2437,sa³atka z kurczaka z owocami egzotycznymi,150,3.7,10.8,9.9
+2438,sa³atka z pe³not³ustego sera twarogowego i warzyw,166,8.8,9.7,12
+2439,sa³atka z pora ogórka kwaszonego z zielonym groszkiem,79,1.9,6.5,5.4
+2440,sa³atka z salsefii,100,1.8,8.5,7.7
+2441,sa³atka z tuñczyka kukurydzy i papryki,74,6.8,2.3,8
+2442,sa³atka z zielonego groszku ogórka kwaszonego i jab³ka,51,3.4,0.5,10.6
+2443,sa³atka z ziemniaków z cebul¹ i natk¹,111,1.6,7,11.9
+2444,sa³atka z ¿ó³tego sera z jajkiem i ogórkiem,277,13.2,24,2.7
+2445,sa³atka ze szparagów,75,1.6,6.5,4
+2446,sa³atka ze œledzia w oleju z warzywami,188,8.3,15.5,5.8
+2447,sandacz gotowany po polsku,66,10.5,2.3,1.1
+2448,sandacz z jarzynami duszony,85,10.7,4,4.6
+2449,sandacz z ry¿em,114,15.9,3.9,3.9
+2450,sandacz zapiekany z kapust¹ kwaszon¹,73,7.7,4.5,3.5
+2451,sandacz zapiekany z ziemniakami,127,11.8,5.4,10
+2452,sarnina w czerwonym winie,87,13.8,2.5,3
+2453,schab pieczony,215,20.8,14.2,0.8
+2454,schab wieprzowy faszerowany œliwkami,190,20,10,4.7
+2455,schab wieprzowy z chrzanem,160,17,8.9,4.5
+2456,schab wieprzowy z farszem z bia³ej kie³basy i s³onin¹,202,12.5,15.3,4.5
+2457,schab wieprzowy z kminkiem,221,24.1,12.2,1.4
+2458,schab z musem jab³kowym,136,12,6,9.1
+2459,schab ze œliwkami,158,16,7.6,6.5
+2460,seler sma¿ony w cieœcie biszkoptowym,125,3.5,9,10
+2461,seler sma¿ony w cieœcie naleœnikowym,90,3.4,2.8,15.7
+2462,ser zgliwia³y sma¿ony,60,0.3,0.2,15.3
+2463,serca wieprzowe duszone w winie,128,10.8,8.8,2
+2464,serowe koreczki z papryk¹ i oliwk¹,196,14.8,13.5,4.3
+2465,skrzyde³ka kurczaka na ostro z miodem,158,6.5,9.9,1.1
+2466,smardze duszone w œmietanie,65,2.3,5,3.8
+2467,soczewica z grzybami,130,6,4.2,18
+2468,soja na sypko z mas³em,210,16.5,12.6,15.5
+2469,spaghetti z sosem boloñskim,112,4,4.9,12.8
+2470,steki wieprzowe z karkówki,473,21.8,42.9,1.7
+2471,steki wieprzowe z szynki,157,15.7,9.4,2
+2472,steki wo³owe z antrykotu,260,23,17.5,0.9
+2473,strudel z farszem miêsnym,221,11.8,12.6,15.6
+2474,strudel z farszem z kaszy gryczanej i grzybów,199,3.4,12.9,20.5
+2475,strudel z farszem z szynki i ziemniaków,211,5.7,13.5,18.6
+2476,szasz³yki wieprzowo-wo³owe,188,11.5,14.8,2.4
+2477,szasz³yki wieprzowo-wo³owo-drobiowe,150,13.4,10.3,1
+2478,szasz³yki z jagniêciny z ogórkiem,148,19.3,7.4,0.3
+2479,szasz³yki z ³ososia,265,20.1,19.3,1.5
+2480,szasz³yki z piersi kurczaka z ogórkiem,125,18.3,5.7,0.1
+2481,szasz³yki z warzyw z serem,68,2,5,5.1
+2482,szasz³yki z w¹tróbek drobiowych z boczkiem i pieczarkami,186,10.4,16,1.1
+2483,szczupak duszony z borowikami,84,10.8,2.6,2.3
+2484,szczupak faszerowany,94,16.3,2.5,1.5
+2485,szczupak faszerowany w galarecie,53,9.6,0.7,2.3
+2486,szczupak filety sma¿one,134,15.1,3.6,10.7
+2487,szczupak filety w cieœcie sma¿one,155,18.1,3.6,12.5
+2488,szczupak parpykarz,75,7.8,3.8,3.9
+2489,szczupak pieczony,111,23.7,0.9,0
+2490,szczupak pieczony ob³o¿ony plastrami s³oniny,172,16.4,10.6,1.6
+2491,szczupak z jarzynami po polsku,87,12.8,3,2.8
+2492,sznycel cielêcy duszony,140,12.9,7.8,4.1
+2493,sznycel cielêcy naturalny,120,15.6,4.8,4
+2494,sznycel cielêcy po wiedeñsku,303,14.4,23.9,6.7
+2495,sznycel cielêcy z jajkiem,151,17,8,2.5
+2496,sznycel cielêcy zapiekany,115,8.5,4.6,11.3
+2497,sznycelki z dorsza,105,14,4.3,7
+2498,sznycle cielêce w migda³owej panierce,181,17,8.7,8.4
+2499,sznycle sojowe,325,33.8,1.9,43.1
+2500,sznycle wo³owe z gruszkami,133,13.5,5.1,9.7
+2501,szparagi z beszamelem,73,3.5,5.5,4
+2502,szparagi purée z mas³em i œmietan¹,62,2.4,4.8,4.4
+2503,szparagi w œmietanie,59,2,4.5,4.3
+2504,szparagi z wody z mas³em,61,1.9,4,5.7
+2505,szpinak zasma¿any,58,3,3.4,5.1
+2506,szpinak zasma¿any z serem pleœniowym i œmietan¹,95,3.6,6,5.9
+2507,sztufada wo³owa,202,7.4,14,1.3
+2508,sztuka miêsa z mostka wo³owego z sosem ziemniaczanym,177,11.1,13.6,3.6
+2509,sztuka miêsa z mostka wo³owego z warzywami,168,10.9,13.1,2.3
+2510,szynka wedzona gotowana,390,22.9,33.1,0
+2511,szynka wieprzowa gotowana z warzywami,121,8.3,9.7,0.9
+2512,szynka wieprzowa na dziko,235,15.5,18.8,1.6
+2513,szynka z bananami w sosie cumberland,150,5.5,6.9,18.2
+2514,œledzie marynowane z cebul¹,106,9,6.9,2.5
+2515,œledzie marynowane z pieczarkami i cebul¹,168,13.4,10,6.7
+2516,œledzie w majonezie z jab³kami i zielonym groszkiem,198,9,16.4,5.4
+2517,œledzie w oliwie z cebul¹,205,8.4,18.3,2.6
+2518,œledzie w sosie jogurtowym,110,7.4,7.3,4.4
+2519,œledzie w sosie majonezowo-¿urawinowym,393,5.9,38.2,7.1
+2520,œledzie w sosie œliwkowym z migda³ami,327,13,22.1,20.4
+2521,œledzie w sosie œmietankowo-jogurtowym z jab³kiem i ogórkiem kwaszonym,110,7.7,7.5,4.2
+2522,œledzie w œmietanie z jab³kiem i cebul¹,225,10.6,18.9,3.5
+2523,œledzie zapiekane z ziemniakami,135,7.6,8.1,9.2
+2524,œledziowe filety w sosie œmietankowym,297,8.2,28.1,3.9
+2525,œledziowe rolmopsy,100,5.5,7.1,4
+2526,tatar z polêdwicy wo³owej z ogórkiem i cebul¹,163,13,11.8,1
+2527,tuñczyk z sosem jogurtowo-chrzanowym,145,7,4.5,9.7
+2528,tymbaliki z dorsza zapiekane w sosie pomidorowym,115,15.7,5,2.3
+2529,udka kacze z jab³kami i bkaliami,211,7,16.6,9.7
+2530,udka z kurczaka sma¿one z miodem,170,16,10.3,3.6
+2531,udziec z sarny w winnym sosie,90,13,2.4,4.2
+2532,uszka z grzybowym farszem,118,4,4.6,16
+2533,vol-au-vent z kurczakiem i pieczarkami,19,7.5,15.2,14.8
+2534,w¹troba cielêca po nelsoñsku,93,6,,6,3,11
+2535,w¹troba wieprzowa sauté,243,18,17.5,4.2
+2536,w¹tróbka cielêca w sosie maderowym,121,11.4,6.1,5.3
+2537,w¹tróbka cielêca z gruszkami,131,11.4,5.8,9
+2538,w¹tróbki drobiowe z jab³kami,132,11.5,6.7,7
+2539,wegetariañskie placki selerowe z p³atkami owsianymi,145,2.4,11.2,12.7
+2540,wêgorz duszony z kawa³kami karpia i boczkiem,235,13,17.4,1.1
+2541,wêgorz rolada z farszem grzybowo-warzywnym,174,9,14.1,3.4
+2542,wêgorz w sosie koperkowym,209,10.4,16.6,3.5
+2543,wêgorz zapiekany z wêdzonym boczkiem pieczarkami i cebul¹,266,8,25.8,1.7
+2544,wieprzowina po chiñsku,131,10,7.2,6.6
+2545,wigilijna kapusta z grzybami,85,2.5,5,8.5
+2546,wigilijne kluski z makiem i bakaliami,301,7.7,10.9,47
+2547,wo³owina gotowana w warzywach,125,15.5,5.1,25.2
+2548,wo³owina w sosie w³asnym,143,17.1,7.4,2.5
+2549,zaj¹c w œmietanie,210,14.3,16,2.4
+2550,zakwas z buraków do barszczu,11,0.3,0,2.7
+2551,zapiekane ogórki z farszem miêsno-warzywnym,131,5.8,11.4,3
+2552,zapiekane pomidory z farszem ry¿owo-warzywnym z ¿ó³tym serem,71,3,3.5,7.4
+2553,zapiekane pomidory z kie³bas¹ i jajkiem,119,5.9,10,2.2
+2554,zapiekane zraziki wieprzowe w sosie œmietankowym,203,12,14,7.4
+2555,zapiekanka z bak³a¿anów i ¿ó³tego sera,130,6.9,9.6,5.9
+2556,zapiekana z filetów dorsza z boczkiem i cebul¹,97,14.5,4.1,0.6
+2557,zapiekanka z grzybów w sosie œmietankowym z ¿ó³tym serem,280,6.3,17.5,25.6
+2558,zapiekanka z kalafiora i wo³owiny w sosie œmietankowym,137,8.8,10.1,4
+2559,zapiekanka z kaszy gryczanej z serem twarogowym,137,8.5,6.5,12.2
+2560,zapiekanka z kaszy krakowskiej z broku³ami,113,4.9,4.6,13.3
+2561,zapiekanka z kie³bas¹ pieczarkami i serem na cieœcie dro¿d¿owym,124,7,5.6,12.7
+2562,zapiekanka z porów i kalarepki w cieœcie francuskim,87,2.5,7.1,3.6
+2563,zapiekanka z ry¿u z jab³kami,138,1.9,2.8,24.7
+2564,zapiekanka z ziemniaków i sera ¿ó³tego,147,7.5,5.6,16.2
+2565,zapiekanka z ziemniaków wo³owiny wêdzonego boczku i ¿ó³tego sera,167,9.2,9.7,11.3
+2566,zapiekanka z ziemniaków z grzybami i ¿ó³tym serem,132,3.3,7.7,12.5
+2567,zapiekanka z ziemniaków z zio³ami,142,6,2.8,23.3
+2568,zielone œledzie panierowane,197,13,11,13.2
+2569,ziemniaki duszone z szynk¹,91,3.1,3.1,14.3
+2570,ziemniaki pieczone w folii z mas³em czosnkowym,150,1.9,8.8,16.7
+2571,ziemniaki pieczone z kminkiem,132,3.2,2,27
+2572,ziemniaki po nelsoñsku z grzybami i œmietan¹,101,2.8,2.6,18.4
+2573,ziemniaki po wêgiersku,102,2,3.4,16.7
+2574,ziemniaki purée z mas³em i jogurtem,103,2,3.6,16
+2575,ziemniaki zapiekane z grzybami,133,2.5,7.2,16
+2576,zraziki z sarny w sosie œmietankowym,180,12.6,13.4,2.7
+2577,zrazy cielêce zawijane,111,9.6,5.5,6.4
+2578,zrazy nelsoñskie z grzybami i œmietan¹,133,8.3,7.6,9.2
+2579,zrazy nelsoñskie z polêdwicy wo³owej z ziemniakami,77,7.5,1.8,8.8
+2580,zrazy polskie zawijane z rostbefu wo³owego,130,12,6.4,5.7
+2581,zrazy wo³owe bite z suszonymi grzybami,91,11.8,4,2
+2582,zrazy wo³owe mielone z cebul¹ i suszonymi grzybami,245,18,15,10.3
+2583,zrazy wo³owe w œmietanie na grzankach,161,10,7.7,13.5
+2584,zrazy wo³owe z rostbefu z w³oszczyzn¹ i kalarep¹,111,10.3,4.9,3.9
+2585,zrazy wo³owe zawijane,169,1.5,11.3,3.4
+2586,zrazy z rostbefu wo³owego zapiekane z sosem piwnym,199,11.5,15.7,3.8
+2587,zrazy z szynki cielêcej sma¿one,221,19.2,11.4,10.5
+2588,zrazy z szynki cielêcej zapiekane,180,12.5,9.4,11.1
+2589,zrazy zawijane z ³ososia,206,15.5,14.6,2.5
+2590,zrazy zawijane z ³ososia z warzywami,151,12.9,9.9,2.4
+2591,zrazy zawijane ze schabu wieprzowego duszone w winie,145,16.8,7.5,1.5
+2592,zrazy zwijane ze schabu wieprzowego z ry¿em i boczkiem,158,12,10.4,5
+2593,zupa cebulowa czysta,57,1.1,1.9,9.7
+2594,zupa cytrynowa,36,3.6,1.6,2
+2595,zupa cytrynowa z ry¿em,60,1.5,2.1,8.6
+2596,zupa fasolowa,70,4.1,1.6,9.9
+2597,zupa grochowa,77,4.5,2.5,8.8
+2598,zupa gruszkowa,41,1.3,0.9,6.6
+2599,zupa grzybowa czysta,20,0.4,0.4,3
+2600,zupa grzybowa zabielana,31,1.4,2,1.7
+2601,zupa gulaszowa na karkówce wo³owej z cynaderkami,115,4.6,9.2,4.5
+2602,zupa gulaszowa z wo³owin¹,68,7.1,3.5,2.4
+2603,zupa jab³kowa,35,0.4,0.3,7.6
+2604,zupa jagodowa z bezami,27,0.5,0.3,6.8
+2605,zupa jarzynowa,35,1.2,1,4.3
+2606,zupa jarzynowa zabielana,46,1.5,1.7,6
+2607,zupa jesienna z mro¿onki,25,1.5,0.3,7
+2608,zupa kalafiorowa z mro¿onki,20,1.9,0.3,5.3
+2609,zupa kalafiorowa zabielana œmietan¹ 9% t³uszczu,27,1.5,0.5,5
+2610,zupa kalafiorowa zabielana œmietan¹ 18% t³uszczu,35,1.5,2.5,1.9
+2611,zupa kminkowa,33,3.5,1.1,2
+2612,zupa koperkowa,45,2.2,1.4,6
+2613,zupa krem z brukselki,52,2.3,4.1,3.7
+2614,zupa krem z grzybów,31,1.1,1.9,2.5
+2615,zupa krem z jarzyn,20,1,0.7,2.9
+2616,zupa krem z marchwi,35,2.3,1.9,3.2
+2617,zupa krem z pieczarek,30,0.9,2.7,1.8
+2618,zupa krem z pomidorów,33,1.1,2,3.2
+2619,zupa krem z selerów zabielana œmietank¹,30,1,2,2
+2620,zupa krem z selerów zagêszczana œmietank¹ i ¿ó³tkiem,42,3.5,2.2,2
+2621,zupa krem z suszonych borowików,69,1.9,4.4,5.9
+2622,zupa krem z zielonego groszku,60,1.4,4.7,3.8
+2623,zupa krem ze szparagów zagêszczana ¿ó³tkiem i œmietank¹,56,2.9,3.7,2.3
+2624,zupa krem ze œwie¿ych kurek,33,1,2.8,1.3
+2625,zupa krem ze œwie¿ych zielonek,126,5.5,3.7,17.7
+2626,zupa maœlankowa,49,2.2,1.4,8.8
+2627,zupa miêsna przecierana,109,5.9,8.6,1.5
+2628,zupa neapolitañska,32,3,1.4,2.4
+2629,zupa neapolitañska z makaronem,65,2.3,2.7,8.3
+2630,zupa nic,92,4.3,3,11.9
+2631,zupa ogórkowa czysta,27,0.7,1.6,2.6
+2632,zupa ogórkowa ze œmietan¹ 18% t³uszczu,45,1.2,2,5
+2633,zupa owocowa,44,0.3,0.3,10.4
+2634,zupa pieczarkowa czysta,20,0.7,1,2.2
+2635,zupa pikantna z karpia,59,7.5,1.7,3.8
+2636,zupa pomidorowa czysta,23,1.9,1.4,2
+2637,zupa pomidorowa zabielana makaronem,62,1.4,1.7,10
+2638,zupa pomidorowa zabielana ry¿em,40,1.5,1.9,11.7
+2639,zupa poziomkowa na œmietanie,105,2,6.3,11
+2640,zupa rybna œwi¹teczna z migda³ami i rodzynkami,57,6,2.1,4.5
+2641,zupa selerowa z grzankami,55,1.4,1.9,7.9
+2642,zupa selerowa zabielana,40,1.5,1.7,5
+2643,zupa szczwiowa,39,1.9,2.8,1.6
+2644,zupa szpinakowa z ziemniakami,40,2,1,6.4
+2645,zupa wiejska jarzynowa,33,0.2,1.5,3.8
+2646,w³oska z mro¿onki,26,1.9,0.2,7.1
+2647,zupa z bia³ej kapusty,44,0.9,3,4.3
+2648,zupa z czarnych jagód,40,0.1,0.2,10.3
+2649,zupa z dyni zabielana,46,1.1,2.3,6
+2650,zupa z fasolki szparagowej,35,2.2,1.3,4.9
+2651,zupa z fasolki szparagowej z pulpetami cielêcymi,38,4.4,1.4,2.9
+2652,zupa z jab³ek zabielana,33,0.2,0.6,7.5
+2653,zupa z kapusty kwaszonej,25,1.6,1.4,1.6
+2654,zupa z marchwi,80,1,4,11.1
+2655,zupa z m³odej kapusty,34,0.9,2.1,2.9
+2656,zupa z kalarepek zabielana,29,1,1.9,2.6
+2657,zupa z porów,32,1.1,1.4,4.6
+2658,zupa z porów z makaronem,66,2.4,1.3,10.5
+2659,zupa z porzeczek zagêszczana kisielem,45,1.2,0.4,13.8
+2660,zupa z poziomek,90,2.7,3.5,12.2
+2661,zupa z ró¿nych owoców,49,0.8,1.7,8.1
+2662,zupa z rydzów,35,1.4,2.5,2
+2663,zupa z soczewicy,30,1.4,1.4,3.2
+2664,zupa z suszonych œliwek zabielana,85,1,2,15.4
+2665,zupa z wiœni zagêszczana kisielem,31,0.4,0.3,7.6
+2666,zupa z zielonego groszku,47,4.1,0.7,6.4
+2667,zupa ziemniaczana na wieprzowinie,52,2.1,2.9,5.7
+2668,zupa ziemniaczana z mro¿onki,40,1.4,0.3,10.8
+2669,zupa ziemniaczana z zasma¿k¹,75,2.3,5.4,4.4
+2670,zupa zimowa z mro¿onki,23,2,0.4,7
+2671,¿eberka wieprzowe duszone,215,8,19.4,2.3
+2672,¿eberka wieprzowe panierowane,221,8.5,17.5,9
+2673,¿eberka wieprzowe w miodzie na ostro z kukurydz¹,260,11,20,9.6
+2674,¿eberka wieprzowe z warzywami,120,5.4,10.5,3.3
+2675,¿o³¹dki z indyka w sosie potrawkowym,111,10.5,5,6.5
+2676,¿ur z kie³bas¹,93,7.4,6,2.8
+
