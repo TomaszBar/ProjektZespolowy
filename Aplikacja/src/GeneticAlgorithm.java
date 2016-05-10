@@ -45,7 +45,7 @@ public class GeneticAlgorithm extends JFrame {
    
     //Zmiene do scieżki bazy produktów
    // static String sciezka;
-    static String sciezka = "Baza\\produkty.csv";
+    static String sciezka = "C:\\Users\\Gregory\\Documents\\JavaEclipse\\Fitnes\\Baza\\produkty.csv";
     static String naglowki;
     //Zmiene do wyprwadzenia tekstu
     static String[] tekst = new String[15];
@@ -92,7 +92,7 @@ public class GeneticAlgorithm extends JFrame {
     //************* Metoda wczytująca plik z danymi *************// 
     
     public static ArrayList<BaseProduct> czytaj_Plik(String sciezka) {
-        // sciezka = "Baza\\produkty.csv";
+        // sciezka = "C:\\Users\\Gregory\\Documents\\JavaEclipse\\Fitnes\\Baza\\produkty.csv";
         
         Path sciezkaDoPliku = Paths.get(sciezka);
         // Lista będzie przechowywała kolejne linie odczytane z pliku jako String
@@ -170,7 +170,7 @@ public class GeneticAlgorithm extends JFrame {
                 
         //if w zależności od perametru        
                 
-       // sciezka = "Baza\\produkty.csv";
+       // sciezka = "C:\\Users\\Gregory\\Documents\\JavaEclipse\\Fitnes\\Baza\\produkty.csv";
         Path sciezkaDoPliku = Paths.get(sciezka);        
         
         ArrayList<String> out = new ArrayList<String>();
@@ -208,7 +208,7 @@ public class GeneticAlgorithm extends JFrame {
         listaProduktów = czytaj_Plik(sciezka);
         String numer_produktu = JOptionPane.showInputDialog("Podaj numer taksonu, który chcesz usunąć");
         int numer = Integer.parseInt(numer_produktu);
-       // sciezka = "Baza\\produkty.csv";
+       // sciezka = "C:\\Users\\Gregory\\Documents\\JavaEclipse\\Fitnes\\Baza\\produkty.csv";
         Path sciezkaDoPliku = Paths.get(sciezka);
         
         boolean usuniety = false;
@@ -810,7 +810,7 @@ public class GeneticAlgorithm extends JFrame {
                     tablica_genów[wiersze][kolumny] = genertor.nextInt(15) + 952;
                 } if (kolumny >= 14) {
                       //Warzywa(968-1100)     
-                    tablica_genów[wiersze][kolumny] = genertor.nextInt(132) + 968;
+                    tablica_genów[wiersze][kolumny] = genertor.nextInt(132) + 960;
                 }
                  if (kolumny >= 15) {
                        //pieczywo(325-482)    
@@ -1243,214 +1243,8 @@ public class GeneticAlgorithm extends JFrame {
         return tablica_selekcja; 
     }
     
-    public static int []Sortuj_rosnąco(String sciezka,int wariant){
-    	
-    
-    	
-    	 listaProduktów = czytaj_Plik(sciezka);
-         
-    	    //************* Zapisanie z tablicy genów do tab.kalorie_produktu *************//
-    	        
-    	       
-				
-//				switch(wariant){//switch zawierajacy obsluge wybranej w liscie operacji
-//					
-//					case 0:
-//			    	        for (BaseProduct sort : listaProduktów){
-//			    	        numer = sort.getNr();
-//			    	        kalorie_produktu [numer] = sort.getKalorie();
-//			    	        numery[numer]=numer;
-//			    	        }
-//						
-//							break;
-//					case 1:
-//			    	        for (BaseProduct sort : listaProduktów){
-//			    	        numer = sort.getNr();
-//			    	        kalorie_produktu [numer] = sort.getKalorie();
-//			    	        numery[numer]=numer;
-//			    	        }
-//					
-//							break;
-//					case 2:
-//						 for (BaseProduct sort : listaProduktów){
-//				    	        numer = sort.getNr();
-//				    	        kalorie_produktu [numer] = sort.getKalorie();
-//				    	        numery[numer]=numer;		   
-//				    	        }
-//							break;
-//					case 3:
-//						 for (BaseProduct sort : listaProduktów){
-//				    	        numer = sort.getNr();
-//				    	        kalorie_produktu [numer] = sort.getKalorie();
-//				    	        numery[numer]=numer;
-//				    	        }
-//							break;
-//					case 4:
-//						 for (BaseProduct sort : listaProduktów){
-//				    	        numer = sort.getNr();
-//				    	        kalorie_produktu [numer] = sort.getKalorie();//gettluszcze
-//				    	        numery[numer]=numer;
-//				    	        }
-//							break;
-//
-//					default:break;
-//				}
-//				Arrays.sort(kalorie_produktu);
-				
-				
-    	// int[]kalorie_produktu = new int [1200];
-         //int numer = 0;
-         for (BaseProduct suma : listaProduktów){
-         numer = suma.getNr();
-         kalorie_produktu [numer] = suma.getKalorie();
-         int temp;
-	    	int zmiana = 1;
-	    	while(zmiana < 0){
-	    			zmiana = 0;
-	    				for(int i=0; i<kalorie_produktu.length-1; i++){
-	    						if(kalorie_produktu[i]>kalorie_produktu[i+1]){
-	    								temp = kalorie_produktu[i+1];
-	    								kalorie_produktu[i+1] = kalorie_produktu[i];
-	    								kalorie_produktu[i] = temp;
-	    								tab_numer[i] = numery[i];
-	    								zmiana++;
-	    						}
-	    				}
-	    	}
-         System.err.println("kal "+ kalorie_produktu[numer]);
-         }
-         
-        // Arrays.sort(kalorie_produktu);
-         //ArrayList<BaseProduct> taksony = new ArrayList<BaseProduct>();
-         
-         //Collections.sort(listaProduktów);
-         
-        // listaProduktów = czytaj_Plik(sciezka);
-    	 int max = 0;
-         for (BaseProduct t : listaProduktów) {
-             if (t.getNr() > max) {
-                 max = t.getNr();
-             }
-         }   
-    	    			for(int i=0; i<max; i++){
-    	    					System.out.print(kalorie_produktu[i]+" ");
-    	    				}
-    	        
-    	return  tab_numer;
-    }
-   
-    public static <T> int []Sortuj_malejaco(String sciezka,int wariant){
-    	
-    	
-    	
-   	 listaProduktów = czytaj_Plik(sciezka);
-        
-   	    //************* Zapisanie z tablicy genów do tab.kalorie_produktu *************//
-   	        
-				
-				switch(wariant){//switch zawierajacy obsluge wybranej w liscie operacji
-					
-					case 0:
-			    	        for (BaseProduct sort : listaProduktów){
-			    	        numer = sort.getNr();
-			    	        kalorie_produktu [numer] = sort.getKalorie();
-			    	        numery[numer]=numer;
-			    	        }
-						
-							break;
-					case 1:
-			    	        for (BaseProduct sort : listaProduktów){
-			    	        numer = sort.getNr();
-			    	        kalorie_produktu [numer] = sort.getKalorie();
-			    	        numery[numer]=numer;
-			    	        }
-					
-							break;
-					case 2:
-						 for (BaseProduct sort : listaProduktów){
-				    	        numer = sort.getNr();
-				    	        kalorie_produktu [numer] = sort.getKalorie();
-				    	        numery[numer]=numer;		   
-				    	        }
-							break;
-					case 3:
-						 for (BaseProduct sort : listaProduktów){
-				    	        numer = sort.getNr();
-				    	        kalorie_produktu [numer] = sort.getKalorie();
-				    	        numery[numer]=numer;
-				    	        }
-							break;
-					case 4:
-						 for (BaseProduct sort : listaProduktów){
-				    	        numer = sort.getNr();
-				    	        kalorie_produktu [numer] = sort.getKalorie();//gettluszcze
-				    	        numery[numer]=numer;
-				    	        }
-							break;
+ 
 
-					default:break;
-				}
-				
-				//Collections.sort(listaProduktów );
- 	       
-				 for(int i=1; i<kalorie_produktu.length; i++)
-				    {
-				        for(int j=kalorie_produktu.length-1; j>=1; j--)
-				        {
-				            if(kalorie_produktu[j]<kalorie_produktu[j-1])
-				            {
-				                int bufor;
-				                bufor=kalorie_produktu[j-1];
-				                kalorie_produktu[j-1]=kalorie_produktu[j];
-				                kalorie_produktu[j]=bufor;
-				               tab_numer[i] = numery[j];
-				            }
-				        }
-				    }
- 	    			for(int i=0; i<kalorie_produktu.length; i++){
- 	    				//	System.out.print(kalorie_produktu[i]+", ");
- 	    				//System.out.print(numery[i]+", ");
- 	    				}
- 	        
- 	return  tab_numer;
-    	}
-  
-    public static String[] Wyprowadż_po_sortowaniu(String sciezka,int[]tab){
-    	
-    	String []Dane_produkt = new String[1200];
-    	int []Dane_liczbowe = new int[1200];
-    	int []Dane_numer = new int[1200];
-    	
-    	listaProduktów = czytaj_Plik(sciezka);
-    	 int max = 0;
-         for (BaseProduct t : listaProduktów) {
-             if (t.getNr() > max) {
-                 max = t.getNr();
-             }
-         }
-    	
-    	
-        String[] tekst_produkty = new String[max]; 
-        
-        for (int kolumny = 0; kolumny < max; kolumny++) {
-
-            int liczba_wskazujaca = tab[kolumny];
-            
-            BaseProduct takson_wczytaj = listaProduktów.get(liczba_wskazujaca);
-
-            Dane_numer[kolumny] = takson_wczytaj.getNr();
-            Dane_produkt[kolumny] = takson_wczytaj.getPprodukt();
-            Dane_liczbowe[kolumny] = takson_wczytaj.getKalorie();
-
-            tekst_produkty[kolumny] = new StringBuffer(tekst_produkty[kolumny]).append(Dane_numer[kolumny] + ", ").append(Dane_produkt[kolumny] + ", ").append(Dane_liczbowe[kolumny] + ", ").toString();
-        }
-    	
-    	System.out.println(tekst_produkty[5]);
-    	
-    	return tekst_produkty;
-    }
-    
-    
     //************* Metoda wyprowadza wynik  *************//
     
     public static String[] wprowadz_Wynik (int kod_najlepszego_osobnika []) {

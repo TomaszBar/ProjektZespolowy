@@ -74,9 +74,9 @@ public class HelpWindow extends JDialog implements ActionListener
 		contentPane.setLayout(null);
 		
 		try {
-			ImageIcon ikonainformacjeautor = new ImageIcon("image\\ikona-informacji-2_21010494.jpeg");
+			ImageIcon ikonainformacjeautor = new ImageIcon("C:\\Users\\Gregory\\Documents\\JavaEclipse\\Fitnes\\image\\ikona-informacji-2_21010494.jpeg");
 			lIcon = new JLabel();
-			lIcon.setIcon(new ImageIcon("image\\fitt.jpg"));
+			lIcon.setIcon(new ImageIcon("C:\\Users\\Gregory\\Documents\\JavaEclipse\\Fitnes\\image\\fitt.jpg"));
 //			lIcon = new JLabel(new ImageIcon(
 //				getClass().getResource("author_logo.jpg")));
 		} 

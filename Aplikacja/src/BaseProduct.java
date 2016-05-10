@@ -1,7 +1,9 @@
+import java.util.Arrays;
+import java.util.Comparator;
 
-
-public  class BaseProduct {
-  static String tekst;
+public class BaseProduct  {
+	
+	 static String tekst;
   
       
       private int nr;
@@ -9,6 +11,8 @@ public  class BaseProduct {
       private int kalorie;
      
       public BaseProduct(int nr, String produkt, int kalorie){
+    	  
+    	   super();
            this.nr = nr;
            this.produkt = produkt;
            this.kalorie = kalorie;
@@ -48,6 +52,8 @@ public  class BaseProduct {
   public void setKalorie(int kalorie) {
       this.kalorie = kalorie;
   }
-
+ 
+	
+	
  
   }

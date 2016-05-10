@@ -2,6 +2,7 @@ nr,rodzaj,kalorie,
 1,adwokad,254
 2,ajerkoniak,277
 3,brandy,215
+4,coca-cola,42
 5,coca-cola bezkofeinowa,42
 6,coca-cola bezkofeinowa light,1
 7,coca-cola light,1
@@ -299,7 +300,7 @@ nr,rodzaj,kalorie,
 299,pozimoki,35
 300,pozimoki mrozone slodzone,91
 301,rambutan,71
-302,rodzynynki Ekonatural,272
+302,rodzynynki Ekonatural,272,
 303,rodzynynki sultanskie,277
 304,rodzynynki greckie,272
 305,sliwki,46

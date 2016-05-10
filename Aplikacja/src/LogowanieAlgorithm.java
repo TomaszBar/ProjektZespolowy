@@ -1,414 +1,259 @@
+import java.awt.Font;
 import java.io.IOException;
-import java.math.BigInteger;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
-import java.security.MessageDigest;
+import java.sql.Connection;
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.ResultSet;
+import java.sql.SQLException;
+import java.sql.Statement;
 import java.util.ArrayList;
-import java.util.Scanner;
-
+import java.util.List;
+import java.sql.SQLException;
 import javax.swing.JOptionPane;
-
+import javax.swing.JTable;
+import javax.swing.RowSorter;
+import javax.swing.SortOrder;
+import javax.swing.table.AbstractTableModel;
+import javax.swing.table.DefaultTableModel;
+import javax.swing.table.TableModel;
+import javax.swing.table.TableRowSorter;
 
 public class LogowanieAlgorithm {
-	
-	
-	static ArrayList<BaseUser> listaUżytkowników= new ArrayList<>();
 
-	//Zmiene do scieżki bazy produktów
-    static String sciezka;
-    static String naglowki;
-    boolean poprawne_Login;
-    boolean poprawne_Hasło;
-    int numer_uzytkownika;
-    int uprawnienia;
-    
-	  public LogowanieAlgorithm() {
-		 
+	Connection con = DriverManager.getConnection("jdbc:sybase:Tds:localhost:2638", "DBA", "sql");
+
+	// Zmiene do scieżki bazy produktów
+
+	boolean poprawne_Login = false;
+	boolean poprawne_Hasło = false;
+	int numer;
+	String uprawnienia;
+	int wzrost, waga, wiek, czas, zakres, kalorie, wybór, numer_produktu, Nowy;
+	String Uprawnienia = "Użytkownik";
+	private String nowy_numer;
+	static int Numer_uztkownika;
+	/**
+	 * Atrybut do sortowania wartości w tabeli
+	 */
+	private TableRowSorter<TableModel> sorter;
+
+	public LogowanieAlgorithm() throws SQLException {
+
 		// TODO Auto-generated constructor stub
 	}
-	        
-	    
-	   public static ArrayList<BaseUser> czytaj_Plik() {
-	        sciezka = "Baza\\uzytkownik.csv";
-	        Path sciezkaDoPliku = Paths.get(sciezka);
-	        // Lista będzie przechowywała kolejne linie odczytane z pliku jako String
-	        ArrayList<String> odczyt = new ArrayList<String>();
-	        try {
-	            // Wczytanie wszystkich linii do listy
-	            odczyt = (ArrayList) Files.readAllLines(sciezkaDoPliku);
-	        } catch (IOException ex) {
-	            JOptionPane.showInternalMessageDialog(null,"Niestety nie moge utworzyć pliku !", "Informacja", JOptionPane.WARNING_MESSAGE);
-	        }
 
-	        // Pobranie pierwszej linii z nagłówkami...
-	        naglowki = odczyt.get(0);
-	        // ... następnie usunięcie jej
-	        odczyt.remove(0);
+	// ************* Metoda sprawdzające poprawność logowania *************//
 
-	    //Pobiera po serii danych, odpowiadających linii w pliku 
-	        // a następnie tworzy obiekty typu Takson i wypełnia je danymi
-	        ArrayList<BaseUser> taksony = new ArrayList<>();
-	        for (String linia : odczyt) {
-	            // Dzielenie na poszczególne pola (oodzielone przecinkami)
-	            String[] l = linia.split(",");
-	            BaseUser takson;
-	            takson = new BaseUser(
-	                    Integer.parseInt(l[0]), // nr uztykownika
-	                    l[1], // imie
-	                    l[2], // nazwisko,
-	                    l[3], //adres
-	                    l[4], //email
-	                    Integer.parseInt(l[5]),//nr telefonu
-	                    Integer.parseInt(l[6]),// kod genetyczny
-	                    l[7],//login
-	                    l[8],//hasło
-	                    Integer.parseInt(l[9])//uprawnienia		
-	            );
-	            taksony.add(takson);
-	        }
+	public boolean Logowanie(String Login, String Hasło) throws SQLException {
+		Statement stmt = con.createStatement();
+		String login = null, hasło = null;
 
-	        return taksony;
-	    }
+		ResultSet rs = stmt.executeQuery("SELECT * from Uzytkownicy");
+		int i = 0;
+		while (rs.next()) {
+			login = rs.getString(8);
 
-	    //************* Metoda wypisanie danych *************// 
-	    
-	    public static void wypisz_Dane() {
-	        
-	        listaUżytkowników = czytaj_Plik();
-	        // Zamiana przecinków na tabulatory w nagłówku - bardziej przejrzyste
-	        System.out.println(naglowki.replace(",", "\t"));
-	        System.out.println("===============================================");
-	        // Pobieranie każdego taksonu i wywołanie metody toString przyjmującej
-	        // jako argument rodzaj reparatora do wyświetlenia, tu jest to tabulator
-	        for (BaseUser takson : listaUżytkowników) {
-	            System.out.println(takson.toString("\t"));
-	        }
-	    }
+			if (Login.equals(login)) {
+				poprawne_Login = true;
+				numer = rs.getInt(1);
+				uprawnienia = rs.getString(7);
+			}
+		}
 
-	    //************* Metoda dodanie nowego produktu *************// 
-	    
-	    public static void dodaj_Dane() {
-	        listaUżytkowników = czytaj_Plik();
-	        // Numer nowego taksonu powinien być o 1 większy niż
-	        // najwyższy obecnie istniejący
-	        int nowyId = znajdz_MaxId() + 1;
-	        
-	        
-	        String produkty = JOptionPane.showInputDialog("Podaj produkt :");
-	        String nazwa_kalorie = JOptionPane.showInputDialog("Podaj kalorie :");
-	        int kalorie = Integer.parseInt(nazwa_kalorie);
-	        // Tworzenie obiektu, wykorzystanie konstruktora przyjmującego
-	        // jako argument numer
-	        BaseUser nowy = new BaseUser(nowyId);
-	        //Usatwimy nowe produkt i kalorie
-	      //  nowy.setProdukt(produkty);
-	       // nowy.setKalorie(kalorie);
-	        
-	        
-	       
-	        
-	                listaUżytkowników.add(nowy);
-	                
-	        sciezka = "uzytkownik.csv";
-	        Path sciezkaDoPliku = Paths.get(sciezka);        
-	        
-	        ArrayList<String> out = new ArrayList<String>();
-	        out.add(naglowki);
-	        
-	        for (BaseUser takson : listaUżytkowników) {
-	            out.add(takson.toString(","));
-	        }
-	        try {
-	            Files.write(sciezkaDoPliku, out);
-	            JOptionPane.showMessageDialog(null, " Zaostał dodany produkt '" + produkty+"' o kalori "+kalorie, "Informacja", JOptionPane.INFORMATION_MESSAGE);
-	        } catch (IOException ex) {
-	            JOptionPane.showInternalMessageDialog(null,"Niestety nie moge utworzyć pliku !", "Informacja", JOptionPane.WARNING_MESSAGE);
-	        }
-	        
-	    }
-	    
-	    //************* Metoda wyszukuje największy numer produktu *************// 
-	           // przyda się do wyznaczenia numeru dla nowego produktu
+		rs = stmt.executeQuery("SELECT * from Uzytkownicy");
 
-	    public static int znajdz_MaxId() {
-	        int max = 0;
-	        for (BaseUser t : listaUżytkowników) {
-	            if (t.getNr() > max) {
-	                max = t.getNr();
-	            }
-	        }
-	        return max;
-	    }
+		while (rs.next()) {
+			hasło = rs.getString(9);
 
-	    //************* Metoda usuwanie z listy produktu *************//
-	    
-	    static void usun_Dane(){
-	        listaUżytkowników = czytaj_Plik();
-	        String numer_produktu = JOptionPane.showInputDialog("Podaj numer uzytkownika, który chcesz usunąć");
-	        int numer = Integer.parseInt(numer_produktu);
-	        sciezka = "C:\\Users\\Gregory\\Documents\\JavaEclipse\\Fitness\base\\uzytkownik.csv";
-	        Path sciezkaDoPliku = Paths.get(sciezka);
-	        
-	        boolean usuniety = false;
+			if (Hasło.equals(hasło)) {
+				poprawne_Hasło = true;
+				numer = rs.getInt(1);
+				uprawnienia = rs.getString(7);
+				// System.err.println(uprawnienia+numer_uzytkownika);
+			}
+		}
 
-	        // Wyszukanie taksonu
-	        for (int i = 0; i < listaUżytkowników.size(); i++) {
-	            BaseUser takson = listaUżytkowników.get(i);
-	            int numerTaksonu = takson.getNr();
-	            if (numerTaksonu == numer) {
-	                listaUżytkowników.remove(i);
-	                // zaznacz jeśli dokonane zostało usunięcie
-	                usuniety = true;
-	                break;
-	            }
-	        }
-	         ArrayList<String> out = new ArrayList<String>();
-	        out.add(naglowki);
-	        
-	        for (BaseUser takson : listaUżytkowników) {
-	            out.add(takson.toString(","));
-	        }
-	        try {
-	            Files.write(sciezkaDoPliku, out);
-	        } catch (IOException ex) {
-	            
-	            JOptionPane.showInternalMessageDialog(null,"Niestety nie moge utworzyć pliku !", "Informacja", JOptionPane.WARNING_MESSAGE);
-	        }
-	        
-	        if (usuniety) {
-	            JOptionPane.showMessageDialog(null, "Produkt nr. " + numer + " usuniety ", "Informacja", JOptionPane.INFORMATION_MESSAGE);
-	            
-	        } else {
-	             JOptionPane.showMessageDialog(null, "Nie ma takiego produktu o numerze " + numer, "Informacja", JOptionPane.WARNING_MESSAGE);
-	        }
+		boolean zgoda = ((poprawne_Hasło) && (poprawne_Login));
 
-	    }
-	    
-	    //************* Metoda zapis danych *************// 	   
+		// System.out.println("Zgoda : "+zgoda);
+		return zgoda;
+	}
 
-	    public static void zapisz_Dane() {
+	// ************* Metoda zbierająca dane poza logowaniu *************//
 
-	        Path sciezkaDoPliku = Paths.get(sciezka);
+	@SuppressWarnings("null")
+	String[] Dane(int numer) throws SQLException {
 
-	        System.out.println("Podaj ścieżkę i plik do zapisu \n"
-	                + "Jeśli chcesz zapisać do bierzącego pliku: \n"
-	                + sciezka + "\n wciśnij enter");
+		Statement stmt = con.createStatement();
 
-	        Scanner skaner = new Scanner(System.in);
-	        String sc = skaner.nextLine();
+		String[] dane = new String[8];
 
-	        // Jeśli użytkownik wpisał ścieżkę
-	        if (sc.length() > 0) {
-	            sciezkaDoPliku = Paths.get(sc);
-	        }
+		ResultSet rs = stmt.executeQuery("SELECT * from Uzytkownicy");
+		int i = 0;
+		while (rs.next()) {
+			int numer_pomocniczy = rs.getInt(1);
 
-	        ArrayList<String> out = new ArrayList<String>();
-	        out.add(naglowki);
-	        for (BaseUser takson : listaUżytkowników) {
-	            out.add(takson.toString(","));
-	        }
-	        try {
-	            Files.write(sciezkaDoPliku, out);
-	        } catch (IOException ex) {
-	            JOptionPane.showInternalMessageDialog(null,"Niestety nie moge utworzyć pliku !", "Informacja", JOptionPane.WARNING_MESSAGE);
-	        }
-	    }
+			if (numer == numer_pomocniczy) {
 
-	    public String getHasz(String txt){
-	    	
-	    	try{
-		        MessageDigest m = MessageDigest.getInstance("MD5");
-		        m.update(txt.getBytes(),0,txt.length());
-		        return new BigInteger(1,m.digest()).toString(16);	
-	    	}
-	    	catch (Exception e){
-	    		return null;
-	    	}
+				dane[1] = rs.getString(2);// imie
+				dane[2] = rs.getString(3);// nazwisko
+				dane[3] = rs.getString(4);// aderes
+				dane[4] = rs.getString(6);// email
+				dane[5] = rs.getString(8);// login
+				dane[6] = rs.getString(9);// haslo
+				dane[7] = rs.getString(5);// tel
 
-	  }	    
-	    
-	    //************* Metoda sprawdzające poprawność logowania *************// 
-	    
-	    public boolean Logowanie(String Login,String Hasło)
-	    {
-	    	int numer;
-	    	String login = null,hasło = null;
-	    	
-	    	listaUżytkowników = czytaj_Plik();
-	    	
-	    	
-	    		 for (BaseUser logwanie : listaUżytkowników){
-	    		       
-	    		        login = logwanie.getLogin();
-	    		       
-	    		        if (Login.equals(login))
-	    		        {
-	    		        	 poprawne_Login = true;
-	    		        }else{
-	    		        	
-	    		        	 poprawne_Login = false;
-	    		        }
-	    		        		
-	    		        }
-	    		 
-	    		
-   	
-	    		 for (BaseUser logowanie : listaUżytkowników){
-	    		        
-	    		        hasło = logowanie.getHaslo();
-	    		        String hasloZahaszowane = getHasz(Hasło);
-	    		        	    		        
-	    		        if (hasło.equals(hasloZahaszowane) || hasło.equals(Hasło))
-	    		        {
-	    		        	 poprawne_Hasło = true;
-	    		        }else{
-	    		        	
-	    		        	 poprawne_Hasło = false;
-	    		        }
-	    		        
-	    		        }
-	    		 
-	    	boolean zgoda = (poprawne_Hasło && poprawne_Login);
-	    	
-	    	return zgoda;
-	    }
-	    
-	    //************* Metoda sprawdzające uprawnienia logowania *************// 
-	    
-	    int Uprawnienia(String Login,String Hasło)
-	    {
-	    	
-	    	
-	    	String login = null,hasło = null;
-	    	
-	    	 for (BaseUser logowanie : listaUżytkowników){
-  		       
- 		        login = logowanie.getLogin();
- 		       
- 		        if (Login.equals(login))
- 		        {
- 		        	 poprawne_Login = true;
- 		        	 uprawnienia = logowanie.getUprawnienia();
- 		        	 
- 		        }else{
- 		        	
- 		        	 poprawne_Login = false;
- 		        }
- 		        		
- 		        }
- 		 
- 		
+			}
+		}
 
- 		 for (BaseUser logowanie : listaUżytkowników){
- 		        
- 		        hasło = logowanie.getHaslo();
- 		        
- 		        if (Hasło.equals(hasło))
- 		        {
- 		        	 poprawne_Hasło = true;
- 		        	 uprawnienia = logowanie.getUprawnienia();
- 		        }else{
- 		        	
- 		        	 poprawne_Hasło = false;
- 		        }
- 		        
- 		        }
-	    	
-	    	
-	    	return uprawnienia;
-	    }
-	    
-	    //************* Metoda sprawdzające numer logowania *************// 
-	    
-	    int Numer_uzytkownika(String Login,String Hasło){
-	    	String login = null,hasło = null;
-	    	
-	    	 for (BaseUser logowanie : listaUżytkowników){
- 		       
-		        login = logowanie.getLogin();
-		       
-		        if (Login.equals(login))
-		        {
-		        	 poprawne_Login = true;
-		        	 numer_uzytkownika = logowanie.getNr();
-		        	 
-		        }else{
-		        	
-		        	 poprawne_Login = false;
-		        }
-		        		
-		        }
-		 
-		
+		return dane;
+	}
 
-		 for (BaseUser logowanie : listaUżytkowników){
-		        
-		        hasło = logowanie.getHaslo();
-		        
-		        if (Hasło.equals(hasło))
-		        {
-		        	 poprawne_Hasło = true;
-		        	 numer_uzytkownika = logowanie.getNr();
-		        }else{
-		        	
-		        	 poprawne_Hasło = false;
-		        }
-		        
-		        }
-	    	
-	    	
-	    	return numer_uzytkownika;
-	    }
-	    
-	    //************* Metoda zbierająca dane poza logowaniu *************// 
-	    
-	    @SuppressWarnings("null")
-		String [] Dane(int numer){
-	    	
-	    	String[] dane = new String[7];
-	    	
-	    	 for (BaseUser dane_uzytkownikow : listaUżytkowników)
-	    	 {
-	    		 int numer_pomocniczy = dane_uzytkownikow.getNr();
-	    		 
-	    		 if(numer==numer_pomocniczy)
-	    		 {
-	    			 dane[1] = dane_uzytkownikow.getImie();
-	    			 dane[2] = dane_uzytkownikow.getNazwisko();
-	    			 dane[3] = dane_uzytkownikow.getAdres();
-	    			 dane[4] = dane_uzytkownikow.getEmail();
-	    			 dane[5] = dane_uzytkownikow.getLogin();
-	    			 dane[6] = dane_uzytkownikow.getHaslo();
-	    			 
-	    		 }
-	    	 }
-	    	
-	    	return dane;
-	    }
-	    
-	    //************* Metoda zbierająca dane poza logowaniu *************// 
-	    
-	    int []Dane_liczbowe(int numer){
-	    	
-	    	int [] dane = new int [5];
-	    	 for (BaseUser dane_uzytkownikow : listaUżytkowników)
-	    	 {
-	    		 int numer_pomocniczy = dane_uzytkownikow.getNr();
-	    		 
-	    		 if(numer==numer_pomocniczy)
-	    		 {
-	    			 dane[1] = dane_uzytkownikow.getKod_gentyczny();
-	    			 dane[2] = dane_uzytkownikow.getNumer_telefonu();
-	    			 
-	    		 }
-	    	 }
-	    	
-	    	
-	    	return dane;
-	    }
-	    
-	public static void main(String[] args) {
+	// ************* Metoda rejstracja *************//
+
+	public JTable Rejestracja(String imie, String nazwisko, String adres, String email, String nr_tlefonu, String login,
+			String haslo) throws SQLException {
+
+		Connection con = DriverManager.getConnection("jdbc:sybase:Tds:localhost:2638", "DBA", "sql");
+		Statement stmt = con.createStatement();
+		ResultSet rs = stmt.executeQuery("SELECT count(0) from Uzytkownicy");
+		JTable result;
+
+		int iterator_wierszy = 0;
+		rs.next();
+		iterator_wierszy = rs.getInt(1);
+
+		rs = stmt.executeQuery("SELECT * from Uzytkownicy");
+		while (rs.next()) {
+			numer_produktu = rs.getInt(1);
+
+			Nowy = numer_produktu + 1;
+			nowy_numer = Integer.toString(Nowy);
+			// System.out.println("Nowy :"+nowy_numer);
+
+		}
+		int numer_uzytkownika_nowy = iterator_wierszy + 1;
+
+		/**
+		 * Create the Table
+		 */
+
+		String[] colNames = new String[] { "NR", "imie", "Nazwisko", "Adres", "Telefon", "Email", "Uprawnienia",
+				"Login", "Hasło" };
+
+		AbstractTableModel model = new DefaultTableModel(colNames, iterator_wierszy) {
+			/**
+			 * 
+			 */
+			private static final long serialVersionUID = 1L;
+
+			public boolean isCellEditable(int row, int column) {
+				return false;
+			};
+		};
+		result = new JTable(model);
+		result.getColumnModel().getColumn(0).setPreferredWidth(80);
+		result.getColumnModel().getColumn(1).setPreferredWidth(80);
+		result.setRowHeight(30);
+		result.setFont(new Font("Arial", 1, 16));
+
+		sorter = new TableRowSorter<>(result.getModel());
+
+		result.setRowSorter(sorter);
+
+		List<RowSorter.SortKey> sortKeys = new ArrayList<>();
+
+		int columnIndexToSort = 0;
+		sortKeys.add(new RowSorter.SortKey(columnIndexToSort, SortOrder.ASCENDING));
+
+		sorter.setSortKeys(sortKeys);
+
+		String Uprawnienia = "Użytkownik";
+		// 'Login'
+		/**
+		 * Create the Load Baza.
+		 */
+
+		String sql = "INSERT INTO Uzytkownicy(Numer,Imie,Nazwisko,Aderes,Telefon,Email,Uprawnienia,Logi,Haslo)Values ("
+				+ nowy_numer + ",'" + imie + "','" + nazwisko + "','" + adres + "'," + nr_tlefonu + ",'" + email + "','"
+				+ Uprawnienia + "','" + login + "','" + haslo + "')";
+		// System.out.println(sql);
+		stmt = con.createStatement();
+		stmt.execute(sql);
+
+		return result;
+
+	}
+
+	// ************* Metoda edycja *************//
+
+	public JTable Edytuj(int numer, String imie, String nazwisko, String adres, String email, String nr_tlefonu,
+			String login, String haslo, String Uprawnienia) throws SQLException {
+
+		// Connection con = DriverManager.getConnection(
+		// "jdbc:sybase:Tds:localhost:2638", "DBA", "sql");
+		Statement stmt = con.createStatement();
+		ResultSet rs = stmt.executeQuery("SELECT count(0) from Uzytkownicy");
+		JTable result;
+
+		int iterator_wierszy = 0;
+		rs.next();
+		iterator_wierszy = rs.getInt(1);
+
+		rs = stmt.executeQuery("SELECT * from Uzytkownicy");
+
+		/**
+		 * Create the Table
+		 */
+
+		String[] colNames = new String[] { "NR", "imie", "Nazwisko", "Adres", "Telefon", "Email", "Uprawnienia",
+				"Login", "Hasło" };
+
+		AbstractTableModel model = new DefaultTableModel(colNames, iterator_wierszy) {
+			/**
+			 * 
+			 */
+			private static final long serialVersionUID = 1L;
+
+			public boolean isCellEditable(int row, int column) {
+				return false;
+			};
+		};
+		result = new JTable(model);
+		result.getColumnModel().getColumn(0).setPreferredWidth(80);
+		result.getColumnModel().getColumn(1).setPreferredWidth(80);
+		result.setRowHeight(30);
+		result.setFont(new Font("Arial", 1, 16));
+
+		sorter = new TableRowSorter<>(result.getModel());
+
+		result.setRowSorter(sorter);
+
+		List<RowSorter.SortKey> sortKeys = new ArrayList<>();
+
+		int columnIndexToSort = 0;
+		sortKeys.add(new RowSorter.SortKey(columnIndexToSort, SortOrder.ASCENDING));
+
+		sorter.setSortKeys(sortKeys);
+
+		/**
+		 * Create the Load Baza.
+		 */
+		String sql = "UPDATE  Uzytkownicy SET Imie='" + imie + "',Nazwisko='" + nazwisko + "',Aderes='" + adres
+				+ "',Telefon=" + nr_tlefonu + ",Email='" + email + "',Logi='" + login + "',Haslo='" + haslo
+				+ "'WHERE Numer=" + numer;
+		stmt = con.createStatement();
+		stmt.execute(sql);
+
+		return result;
+	}
+
+	public static void main(String[] args) throws SQLException {
+
+		// new LogowanieAlgorithm();
 
 	}
 
