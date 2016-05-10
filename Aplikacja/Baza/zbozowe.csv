@@ -1,0 +1,159 @@
+nr,rodzaj,kalorie,
+325,bagietka francuska,285
+326,bajgiel,223
+327,bulki drozdzowe,277
+328,bulka do hot-doga,321
+329,bulka grahamka,266
+330,bulka krajzerka,291
+331,bulka malgorzatka,268
+332,bulka maslana,328
+333,bulka mleczna,315
+334,bulka owsiana,302
+335,bulka pszenna paryska,277
+336,bulka pszenna poznanska,225
+337,bulka przenna wyborowa,224
+338,bulka przenna z makiem,272
+339,bulka sojowa,321
+340,bulka tarta,348
+341,bulka tarta panierka,401
+342,bulka wroclawska,301
+343,bulka zwykla,279
+344,chalka zwykla,279
+345,chalka zdobna,331
+346,chleb baltonowski,244
+347,chleb chrupki,361
+348,chleb chrupki graham Wasa,365
+349,chleb chrupki 7 zbuz Wasa,345
+350,chleb chrupki kukurydziane Wasa,365
+351,chleb chrupki pszenne Wasa,360
+352,chleb chrupki ryzowe Wasa,375
+353,chleb chrupki zytnie Wasa,353
+354,chleb chrupki original Wasa,315
+355,chleb chrupki pelnoziarnisty 3 zboza,324
+356,chleb chrupki pelnoziarnisty sport,305
+357,chleb chrupki z musli Wasa,355
+358,chleb ciabata,278
+359,chleb graham pszenny,222
+360,chleb lecytynowy,230
+361,chleb mazowiecki,244
+362,chleb mieszany pszenno-zytni,202
+363,chleb mieszany slonecznikowy,244
+364,chleb mieszany z soja,233
+365,chleb mleczny,248
+367,chleb naan,342
+368,chleb naleczowski,239
+369,chleb parski,240
+370,chleb pszenny,256
+371,chleb pszenny ciemny,222
+372,chleb pszenny z ziarnem pszenicy,233
+373,chleb pszenny rozowy,201
+374,chleb pumpernikiel,255
+375,chleb pytlowy zytni,234
+376,chleb razowy pelnoziarnisty,223
+377,chleb razowy z pestki slonecznikowy,214
+378,chleb sitek,213
+379,chleb staropolski,220
+380,chleb tostowy,303
+381,chleb tostowy graham,277
+382,chleb wiejski,244
+383,chleb wielkoposki,250
+384,chleb zakopianski,266
+385,chleb zwykly,249
+386,chleb zytni jasny,244
+387,chleb zytni jasny mleczny,251
+388,chleb zytni pelnoziarnisty,236
+389,chleb zytni pelnoziarnisty ze sliwka,173
+390,chleb zytni pytlowy,243
+391,chleb zytni razowy,224
+391,chleb zytni na miodzie,236
+392,chleb zytni stargadzki,228
+393,chlebek chapatti,334
+394,chlebek puri - indyjski,333
+395,croissant,362
+396,gluten,381
+397,kasza gryczana,338
+398,kasza gryczana gotowana,65
+399,kasza jaglana,348
+400,kasza jeczmienna perlowa,332
+401,kasza jeczmienna perlowa gotowana,92
+402,kasza kukurydziana,366
+403,kasza manna,345
+404,kasza kuskus,367
+405,kasza kuskus gotowana,114
+406,kasza manna gotowana,80
+407,maca,291
+408,makaron bezjajeczny,370
+409,makaron bezjajeczny gotowany,133
+410,makaron czterojajeczny,372
+411,makaron czterojajeczny gotowany,140
+412,makaron dwujajeczny,370
+413,makaron dwujajeczny gotowany,135
+414,makaron razowy,350
+415,makaron razowy gotowany,126
+416,makaron ryzowy,287
+417,makaron ryzowy gotowany,190
+418,makaron sojowy,274
+419,makaron sojowy gotowany,130
+420,maka atta,140
+421,maka gryczana,343
+422,maka jeczmienna,355
+423,maka kukurydziana,348
+424,maka pszenna chlebowa typu 750,360
+425,maka pszenna chlebowa gotowana typu 750,111
+426,maka pszenna graham typu 1850,360
+427,maka pszenna razoww typu 2000,360
+428,maka pszenna semolina,342
+429,maka pszenna sitkowa,333
+430,maka pszenna tortowa typu 450,360
+431,maka przenna typu 500,341
+432,maka ryzowa,370
+433,maka sojowa odtluszczona,331
+434,maka sojowa pelnotlusta,475
+435,maka ziemniaczna,350
+436,maka zytnia razowa typu 2000,341
+437,maka zytnia sitkowa typu 1400,340
+438,maka zytnia wyborowa,340
+439,otreby owsiane,248
+440,otreby pszenne,183
+441,otreby ryzowe,313
+442,otreby zytnie,240
+443,paluszki solone,288
+444,paluszki solinki,378
+445,paluszki z kminkiem,502
+446,pieczywo polfrancuskie z dzemem,410
+447,pieczywo polfrancuskie z serem,400
+448,platki jeczmienne,360
+449,platki kukurydziane,365
+450,platki kukurydziane wzbogacane,365
+451,platki chrupkie Gellwe,399
+452,platki musli czekoladowe,360
+453,platki czkoladowe-orzechowe,368
+454,platki musli gorskie Naturelia,375
+455,platki lekkie Fitella truskawkowe,350
+456,platki musli studenckie Naturelia,360
+457,platki musli z orzechami,400
+458,platki z owocami,315
+459,platki musli z owocami suszonymi,330
+460,platki musli z suszonymi owocami tropic,370
+461,platki musli z rodzynkami i orzechami,370
+462,platki owsiane ,370
+463,platki owsiane gotowane ,68
+464,platki pszenne naturalne,355
+465,platki ryzowe,361
+466,platki sniadaniowe Chocapic,382
+467,platki sniadaniowe Cookie Crips,377
+468,platki sniadaniowe Nesquik,379
+469,platki zytnie naturalne,345
+470,ryz arborio ,375
+471,ryz basmati bialy,350
+472,ryz brazowy ,335
+473,ryz preparowany ,285
+474,tortilla-wraps ,321
+475,zarodki pszenne,260
+476,ziarno gryki,337
+477,ziarno jeczmienia,324
+478,ziarno kukurydzy,362
+479,ziarno owsa,388
+480,ziarno przenicy,331
+481,ziarno przezyta,313
+482,ziarno zyta,350

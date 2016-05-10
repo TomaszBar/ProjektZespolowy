@@ -1,0 +1,133 @@
+nr,rodzaj,kalorie,
+1,adwokad,254
+2,ajerkoniak,277
+3,brandy,215
+5,coca-cola bezkofeinowa,42
+6,coca-cola bezkofeinowa light,1
+7,coca-cola light,1
+8,likier curacao,422
+9,gin,233
+10,herbata bez cukru,0
+11,herbata rumiankowa,1
+12,herbata zielona z mieta,62
+13,herbata ziolowa bez cukru,1
+14,jalocowka,232
+15,kakao Nesquik,380
+16,kakao proszek 16%,452
+17,kakao proszek 20%,460
+18,kawa 3 w 1,405
+19,kawa bez cukru,3
+20,kawa cappucino,431
+21,kawa cappucino smietankowe,291
+22,kawa Ricore,344
+23,kawa rozpuszczalna,240
+24,kawa rozpuszczalna z cykoria,184
+25,kawa zbozowa bez cukru,3
+26,kawa zbozowa,366
+27,koniak,321
+28,likier kminkowy,166
+29,likier orzechwy,274
+30,likier zilowy,203
+31,napoje gazowany o smaku owocowym,44
+32,napoj cytrynowy,15
+33,napoj Fanta,48
+34,napoj Fanta o smaku pomarnczowym,44
+35,napoj herbaciny Ice Tea Green Lipton,28
+36,napoj herbaciny o smaku malinowym Gellwe,384
+37,napoj herbata z limonka Zywiec Zdroj,20
+38,napoj jabkowo-mietowy Tymbark,39
+39,napoj jabkowy,43
+40,napoj mleczny jogurtowy,80
+41,napoj mleczny kakaowy,79
+42,napoj mleczny Monte Drink,87
+43,napoj Red Bull,45
+44,napoj Sprite,42
+45,napoj z czarnej porzeczki Tymbark,57
+46,nektar jabkowy antonowka Tymbark,44
+47,nektar z czerwonych grejfrutow Hortex,45
+48,orenzada,44
+49,pepsi cola,42
+50,pepsi cola bezkofeinowa,42
+51,pepsi cola bezkofeinowa light,10
+52,pepsi cola light,1
+53,piwo bezalkoholowe,29
+54,piwo ciemne,50
+55,piwo ciemne pelne,77
+56,piwo imbirowe,32
+57,piwo jasne,42
+58,piwo jasne pelne,72
+59,piwo korzene,42
+60,porter,90
+61,porto,170
+62,portwein,162
+63,rum,241
+64,sherry slodkie,145
+65,sherry wytrawne,115
+66,sok ananasowy,50
+67,sok brzoskiwiniowo-bananowo-jabkowy Hortex,45
+68,sok cytrynowy,27
+69,sok grejfrutowy,40
+70,sok grejfrutowy rozowy,40
+71,sok grejfrutowy swiezy,40
+72,sok gruszkowy,46
+73,sok jabkowy,44
+74,sok jabkowy Tymbark,42
+75,sok jabkowy 100%,46
+76,sok jabkowy antonowka,44
+77,sok jabkowy swiezy,24
+78,sok Kubus,52
+79,sok marchwiowo-brzoskiwiniowy,45
+80,sok marchwiowo-jabkowy-brzoskiwiniowy,48
+81,sok marchwiowo-jabkowy-pomarnczowym,45
+82,sok marchwiowo-jabkowy,47
+83,sok marchwiowo-pomarnczowym,38
+84,sok marchwiowy,44
+85,sok pomarnczowym swiezy,45
+86,sok pomidorowy,12
+87,sok pomidorowy pasteryzoawany,14
+88,sok pomidorowy pikatny,13
+89,sok wielowarzywny,26
+90,sok z buraka i ogorka kiszonego,28
+91,sok z buraka,36
+92,sok z cytryny swiezy,22
+93,sok z czarnej porzeczki pasteryzoawany,53
+94,sok z czarnej porzeczki swiezy,55
+95,sok z jabkowy swiezy,47
+96,sok z limonki swiezy,24
+97,sok z marchwi i selera,28
+98,sok z marchwiowo-jabkowy-owocowym,53
+99,sok z marchwi swiezy,46
+100,sok z pomidorow,15
+101,sok z winogronu,59
+102,szampan,76
+103,szampan polslodki,99
+104,szampan slodki,121
+105,tonik,35
+106,tonik Schwepps,30
+107,whisky,220
+108,whisky scotch,250
+109,winiak,263
+110,wino biale musujace,77
+111,wino biale polwytrawne,83
+112,wino biale slodkie,90
+113,wino biale wytrawne,111
+114,wino czerwone,109
+115,wino czerwone polslodkie,78
+116,wino czerwone slodkie,107
+117,wino czerwone wytrawne,68
+118,wino lecznicze chrzanowe,88
+119,wino lecznicze selserowe,75
+120,wino madera,97
+121,wino malaga,134
+122,wino rozowe,73
+123,wino wermut slodkie,174
+124,wino wermut wytrawne,97
+125,wino z czarnej porzeczki,80
+126,wino z glogu,72
+127,wino z pomarnczy,157
+128,wino z winogronu,111
+129,woda mineralna,0
+130,woda mineralna niegazowana,0
+131,wodka,239
+132,wodka czysta,224
+133,wodka slodka,265

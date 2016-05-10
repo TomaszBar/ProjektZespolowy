@@ -1,0 +1,1101 @@
+nr,rodzaj,kalorie,
+1,adwokad,254
+2,ajerkoniak,277
+3,brandy,215
+5,coca-cola bezkofeinowa,42
+6,coca-cola bezkofeinowa light,1
+7,coca-cola light,1
+8,likier curacao,422
+9,gin,233
+10,herbata bez cukru,0
+11,herbata rumiankowa,1
+12,herbata zielona z mieta,62
+13,herbata ziolowa bez cukru,1
+14,jalocowka,232
+15,kakao Nesquik,380
+16,kakao proszek 16%,452
+17,kakao proszek 20%,460
+18,kawa 3 w 1,405
+19,kawa bez cukru,3
+20,kawa cappucino,431
+21,kawa cappucino smietankowe,291
+22,kawa Ricore,344
+23,kawa rozpuszczalna,240
+24,kawa rozpuszczalna z cykoria,184
+25,kawa zbozowa bez cukru,3
+26,kawa zbozowa,366
+27,koniak,321
+28,likier kminkowy,166
+29,likier orzechwy,274
+30,likier zilowy,203
+31,napoje gazowany o smaku owocowym,44
+32,napoj cytrynowy,15
+33,napoj Fanta,48
+34,napoj Fanta o smaku pomarnczowym,44
+35,napoj herbaciny Ice Tea Green Lipton,28
+36,napoj herbaciny o smaku malinowym Gellwe,384
+37,napoj herbata z limonka Zywiec Zdroj,20
+38,napoj jabkowo-mietowy Tymbark,39
+39,napoj jabkowy,43
+40,napoj mleczny jogurtowy,80
+41,napoj mleczny kakaowy,79
+42,napoj mleczny Monte Drink,87
+43,napoj Red Bull,45
+44,napoj Sprite,42
+45,napoj z czarnej porzeczki Tymbark,57
+46,nektar jabkowy antonowka Tymbark,44
+47,nektar z czerwonych grejfrutow Hortex,45
+48,orenzada,44
+49,pepsi cola,42
+50,pepsi cola bezkofeinowa,42
+51,pepsi cola bezkofeinowa light,10
+52,pepsi cola light,1
+53,piwo bezalkoholowe,29
+54,piwo ciemne,50
+55,piwo ciemne pelne,77
+56,piwo imbirowe,32
+57,piwo jasne,42
+58,piwo jasne pelne,72
+59,piwo korzene,42
+60,porter,90
+61,porto,170
+62,portwein,162
+63,rum,241
+64,sherry slodkie,145
+65,sherry wytrawne,115
+66,sok ananasowy,50
+67,sok brzoskiwiniowo-bananowo-jabkowy Hortex,45
+68,sok cytrynowy,27
+69,sok grejfrutowy,40
+70,sok grejfrutowy rozowy,40
+71,sok grejfrutowy swiezy,40
+72,sok gruszkowy,46
+73,sok jabkowy,44
+74,sok jabkowy Tymbark,42
+75,sok jabkowy 100%,46
+76,sok jabkowy antonowka,44
+77,sok jabkowy swiezy,24
+78,sok Kubus,52
+79,sok marchwiowo-brzoskiwiniowy,45
+80,sok marchwiowo-jabkowy-brzoskiwiniowy,48
+81,sok marchwiowo-jabkowy-pomarnczowym,45
+82,sok marchwiowo-jabkowy,47
+83,sok marchwiowo-pomarnczowym,38
+84,sok marchwiowy,44
+85,sok pomarnczowym swiezy,45
+86,sok pomidorowy,12
+87,sok pomidorowy pasteryzoawany,14
+88,sok pomidorowy pikatny,13
+89,sok wielowarzywny,26
+90,sok z buraka i ogorka kiszonego,28
+91,sok z buraka,36
+92,sok z cytryny swiezy,22
+93,sok z czarnej porzeczki pasteryzoawany,53
+94,sok z czarnej porzeczki swiezy,55
+95,sok z jabkowy swiezy,47
+96,sok z limonki swiezy,24
+97,sok z marchwi i selera,28
+98,sok z marchwiowo-jabkowy-owocowym,53
+99,sok z marchwi swiezy,46
+100,sok z pomidorow,15
+101,sok z winogronu,59
+102,szampan,76
+103,szampan polslodki,99
+104,szampan slodki,121
+105,tonik,35
+106,tonik Schwepps,30
+107,whisky,220
+108,whisky scotch,250
+109,winiak,263
+110,wino biale musujace,77
+111,wino biale polwytrawne,83
+112,wino biale slodkie,90
+113,wino biale wytrawne,111
+114,wino czerwone,109
+115,wino czerwone polslodkie,78
+116,wino czerwone slodkie,107
+117,wino czerwone wytrawne,68
+118,wino lecznicze chrzanowe,88
+119,wino lecznicze selserowe,75
+120,wino madera,97
+121,wino malaga,134
+122,wino rozowe,73
+123,wino wermut slodkie,174
+124,wino wermut wytrawne,97
+125,wino z czarnej porzeczki,80
+126,wino z glogu,72
+127,wino z pomarnczy,157
+128,wino z winogronu,111
+129,woda mineralna,0
+130,woda mineralna niegazowana,0
+131,wodka,239
+132,wodka czysta,224
+133,wodka slodka,265
+134,anyz,322
+135,dynia pestki,566
+136,dynia pestki opiekne,523
+137,kokos,342
+138,koper nasiona,303
+139,len nasiona,540
+140,mak niebieski,487
+141,migdaly,577
+142,migdaly kaliforniskie,580
+143,migdaly opiekne na sucho,616
+144,migdaly opiekne w oleju,620
+145,mleczko kokosowe,21
+146,orzechy arachidowe,565
+147,orzechy arachidowe opiekne na sucho,580
+148,orzechy arachidowe opiekne w oleju,570
+149,orzechy barazylijskie,678
+150,orzechy cashews prozone i salone,598
+151,orzechy kokosowe wiorki,605
+152,orzechy kokosowe miazsz,655
+153,orzechy laskowe,644
+154,orzechy laskowe opiekne na sucho,660
+155,orzechy narkowca,570
+156,orzechy nerkowca opiekne na sucho,577
+157,orzechy nerkowca opiekne w oleju,580
+158,orzechy pekan,690
+159,orzechy pinii,675
+160,orzechy pistacjowe,590
+161,orzechy pistacjowe opiekne na sucho,596
+162,orzechy pistacjowe w lupinach,622
+163,orzechy w czekoladzie,640
+164,sezam nasiona,606
+165,slonecznik nasiona,570
+166,slonecznik opiekne w oleju,590
+167,slonecznik opiekne na sucho,670
+168,slonecznik z miodem,555
+169,wiorki kokosowe,705
+170,agrest,40
+171,ananas,55
+172,ananas plastry w syropie,87
+173,ananas suszony,334
+174,arbuz,35
+175,awokado,164
+176,babaco,20
+177,banan,97
+178,banan skrobiowy,111
+179,banan suszony,345
+180,borowki,48
+181,borowki amerykanskie,59
+182,borowki konfitura do miesa,192
+183,brzowkiwinia,45
+184,brzowkiwinia mus,78
+185,brzowkiwinia suszona,255
+186,brzowkiwinia w syropie,77
+187,brzowkiwinia w syropie odsaczana,88
+188,canistel,155
+189,cytron kandyzowana skora,91
+190,cytryna,35
+191,cytryna swieza skora,73
+192,czarne jagody,46
+193,czarne jagody gotowane,93
+194,czarne jagody mrozone,44
+195,czeresnie,62
+196,czeresnie suszone,275
+197,daktyle,92
+198,daktyle suszone,279
+199,durian,30
+200,dynia gotowana,24
+201,dynia,26
+202,dzem agrestowo-truskawkowy niskoslodzony,166
+203,dzem ananasowy bez cukru,601
+204,dzem ananasowy niskoslodzony,154
+205,dzem brzoskiwiniowy niskoslodzony,159
+206,dzem jagodowy niskoslodzony,154
+207,dzem jagodowy bez cukru,148
+208,dzem morelowy niskoslodzony,155
+209,dzem pomarnczowym niskoslodzony,155
+210,dzem sliwkowy niskoslodzony,155
+211,dzem sliwkowy wysokoslodzony,155
+212,dzem truskawkowy,167
+213,dzem truskawkowy wysokoslodzony,255
+214,dzem wisniowy niskoslodzony,156
+215,dzem wisniowy wysokoslodzony,259
+216,dzem z czarnej porzeczki niskoslodzony,155
+217,dzem z czarnej porzeczki wysokoslodzony,255
+218,dzem z kiwi niskoslodzony,156
+219,dzem z moreli slodzony fruktoza,122
+220,dzem z pigwy,163
+221,dzem z truskawkowy slodzony fruktoza,119
+222,figi kaktusowe,44
+223,figi suszone,292
+224,figi suszone duszone,133
+225,figi swieze,77
+226,granat,70
+227,grejfrut,34
+228,grejfrut czerwony,33
+229,grejfrut w puszcze slodzony,73
+230,gruszka,55
+231,gruszka gotowana,55
+232,gruszka suszona,266
+233,gruszka suszona duszona bez cukru,122
+234,gruszka suszona duszona z cukrem,140
+235,gujawa,36
+236,guanabana,66
+237,jabko,44
+238,jabko gotowana,44
+239,jabko gwiezdziste,69
+240,jabko mus,122
+241,jabko pieczone,105
+242,jabko suszone,244
+243,jabko pieczone z cukrem,110
+244,jabko suszone gotowane,63
+245,jezyny,62
+246,kalamansi,30
+247,karambola,34
+248,kiwi,55
+249,klementynki,39
+250,konfitura truskawkowa,303
+251,konfitura wisniowa,311
+252,kumkwat,13
+253,liczi,73
+254,limonka,28
+255,longan,56
+256,malinojezyny,35
+257,maliny,30
+258,maliny mrozone,30
+259,maliny gotowane,144
+260,mandarynka,43
+261,mandarynka z zalewie,40
+262,mango,66
+263,mangostan,78
+264,marakuja,35
+265,marmolada,271
+266,marmolada sliwkowa,244
+267,melon,33
+268,melon gorzki,8
+269,melon kantalupa,23
+270,melon miodowy,33
+271,mieszanka owoscow mieszanych,44
+272,morele,45
+273,morele gotowane,45
+274,morele suszone,290
+275,morele suszone bez cukru,130
+276,morele w pyszcze slodzone,90
+277,morwa czarna,31
+278,nektarynka,45
+279,owoc chlebowca,101
+280,papaja,45
+281,patison gotowany,11
+282,pepino,19
+283,persymona czarna,66
+284,persymona suszona,276
+285,pigwa,55
+286,pigwica,58
+287,pomarancze,45
+288,pomarancze skora,106
+289,pomelo,48
+290,pompela,43
+291,porzeczki biale,35
+292,porzeczki biale mrozone,32
+293,porzeczki czarne,36
+294,porzeczki czarne mrozone,40
+295,porzeczki czerwone,33
+296,porzeczki czerwone mrozone,35
+297,powidla sliwkowe,217
+298,powidla z wegierskie,225
+299,pozimoki,35
+300,pozimoki mrozone slodzone,91
+301,rambutan,71
+302,rodzynynki Ekonatural,272
+303,rodzynynki sultanskie,277
+304,rodzynynki greckie,272
+305,sliwki,46
+306,sliwki bez pestek mrozone,52
+307,sliwki daktylowe,78
+308,sliwki gotowane,45
+309,sliwki powidla,220
+310,sliwki suszone,12
+311,sliwki suszone z pesteka,270
+312,sliwki suszone duszone bez cukru,122
+313,sliwki w czekoladzie,613
+314,sliwki w puszcze,85
+315,truskawki,30
+316,truskawki mrozone,29
+317,tykawa,18
+318,winogrona,72
+319,winogrona w slodki sosie,80
+320,wisnie,49
+321,wisnie gotowane,43
+322,wisnie suszone,273
+323,zurawina,50
+324,zurawina mus slodzony w puszcze,150
+325,bagietka francuska,285
+326,bajgiel,223
+327,bulki drozdzowe,277
+328,bulka do hot-doga,321
+329,bulka grahamka,266
+330,bulka krajzerka,291
+331,bulka malgorzatka,268
+332,bulka maslana,328
+333,bulka mleczna,315
+334,bulka owsiana,302
+335,bulka pszenna paryska,277
+336,bulka pszenna poznanska,225
+337,bulka przenna wyborowa,224
+338,bulka przenna z makiem,272
+339,bulka sojowa,321
+340,bulka tarta,348
+341,bulka tarta panierka,401
+342,bulka wroclawska,301
+343,bulka zwykla,279
+344,chalka zwykla,279
+345,chalka zdobna,331
+346,chleb baltonowski,244
+347,chleb chrupki,361
+348,chleb chrupki graham Wasa,365
+349,chleb chrupki 7 zbuz Wasa,345
+350,chleb chrupki kukurydziane Wasa,365
+351,chleb chrupki pszenne Wasa,360
+352,chleb chrupki ryzowe Wasa,375
+353,chleb chrupki zytnie Wasa,353
+354,chleb chrupki original Wasa,315
+355,chleb chrupki pelnoziarnisty 3 zboza,324
+356,chleb chrupki pelnoziarnisty sport,305
+357,chleb chrupki z musli Wasa,355
+358,chleb ciabata,278
+359,chleb graham pszenny,222
+360,chleb lecytynowy,230
+361,chleb mazowiecki,244
+362,chleb mieszany pszenno-zytni,202
+363,chleb mieszany slonecznikowy,244
+364,chleb mieszany z soja,233
+365,chleb mleczny,248
+367,chleb naan,342
+368,chleb naleczowski,239
+369,chleb parski,240
+370,chleb pszenny,256
+371,chleb pszenny ciemny,222
+372,chleb pszenny z ziarnem pszenicy,233
+373,chleb pszenny rozowy,201
+374,chleb pumpernikiel,255
+375,chleb pytlowy zytni,234
+376,chleb razowy pelnoziarnisty,223
+377,chleb razowy z pestki slonecznikowy,214
+378,chleb sitek,213
+379,chleb staropolski,220
+380,chleb tostowy,303
+381,chleb tostowy graham,277
+382,chleb wiejski,244
+383,chleb wielkoposki,250
+384,chleb zakopianski,266
+385,chleb zwykly,249
+386,chleb zytni jasny,244
+387,chleb zytni jasny mleczny,251
+388,chleb zytni pelnoziarnisty,236
+389,chleb zytni pelnoziarnisty ze sliwka,173
+390,chleb zytni pytlowy,243
+391,chleb zytni razowy,224
+391,chleb zytni na miodzie,236
+392,chleb zytni stargadzki,228
+393,chlebek chapatti,334
+394,chlebek puri - indyjski,333
+395,croissant,362
+396,gluten,381
+397,kasza gryczana,338
+398,kasza gryczana gotowana,65
+399,kasza jaglana,348
+400,kasza jeczmienna perlowa,332
+401,kasza jeczmienna perlowa gotowana,92
+402,kasza kukurydziana,366
+403,kasza manna,345
+404,kasza kuskus,367
+405,kasza kuskus gotowana,114
+406,kasza manna gotowana,80
+407,maca,291
+408,makaron bezjajeczny,370
+409,makaron bezjajeczny gotowany,133
+410,makaron czterojajeczny,372
+411,makaron czterojajeczny gotowany,140
+412,makaron dwujajeczny,370
+413,makaron dwujajeczny gotowany,135
+414,makaron razowy,350
+415,makaron razowy gotowany,126
+416,makaron ryzowy,287
+417,makaron ryzowy gotowany,190
+418,makaron sojowy,274
+419,makaron sojowy gotowany,130
+420,maka atta,140
+421,maka gryczana,343
+422,maka jeczmienna,355
+423,maka kukurydziana,348
+424,maka pszenna chlebowa typu 750,360
+425,maka pszenna chlebowa gotowana typu 750,111
+426,maka pszenna graham typu 1850,360
+427,maka pszenna razoww typu 2000,360
+428,maka pszenna semolina,342
+429,maka pszenna sitkowa,333
+430,maka pszenna tortowa typu 450,360
+431,maka przenna typu 500,341
+432,maka ryzowa,370
+433,maka sojowa odtluszczona,331
+434,maka sojowa pelnotlusta,475
+435,maka ziemniaczna,350
+436,maka zytnia razowa typu 2000,341
+437,maka zytnia sitkowa typu 1400,340
+438,maka zytnia wyborowa,340
+439,otreby owsiane,248
+440,otreby pszenne,183
+441,otreby ryzowe,313
+442,otreby zytnie,240
+443,paluszki solone,288
+444,paluszki solinki,378
+445,paluszki z kminkiem,502
+446,pieczywo polfrancuskie z dzemem,410
+447,pieczywo polfrancuskie z serem,400
+448,platki jeczmienne,360
+449,platki kukurydziane,365
+450,platki kukurydziane wzbogacane,365
+451,platki chrupkie Gellwe,399
+452,platki musli czekoladowe,360
+453,platki czkoladowe-orzechowe,368
+454,platki musli gorskie Naturelia,375
+455,platki lekkie Fitella truskawkowe,350
+456,platki musli studenckie Naturelia,360
+457,platki musli z orzechami,400
+458,platki z owocami,315
+459,platki musli z owocami suszonymi,330
+460,platki musli z suszonymi owocami tropic,370
+461,platki musli z rodzynkami i orzechami,370
+462,platki owsiane ,370
+463,platki owsiane gotowane ,68
+464,platki pszenne naturalne,355
+465,platki ryzowe,361
+466,platki sniadaniowe Chocapic,382
+467,platki sniadaniowe Cookie Crips,377
+468,platki sniadaniowe Nesquik,379
+469,platki zytnie naturalne,345
+470,ryz arborio ,375
+471,ryz basmati bialy,350
+472,ryz brazowy ,335
+473,ryz preparowany ,285
+474,tortilla-wraps ,321
+475,zarodki pszenne,260
+476,ziarno gryki,337
+477,ziarno jeczmienia,324
+478,ziarno kukurydzy,362
+479,ziarno owsa,388
+480,ziarno przenicy,331
+481,ziarno przezyta,313
+482,ziarno zyta,350
+483,bazylia ssuszona,255
+484,bazylia swieza,25
+485,chili w proszku,312
+486,carry w proszku,330
+487,cynamon w proszku,266
+488,fix do potraw knorr,277
+489,galka muszkatalowa,536
+490,gorycz zolta,473
+491,gozdziki,330
+492,imbir korzen,73
+493,imbir proszek,361
+494,kapary,113
+495,kapary w puszce,24
+496,kapary w zalewie octowej,23
+497,ketchup,99
+498,kminek nasiona,380
+499,kminek proszek,337
+500,kolendra,362
+501,leczo mrozone,20
+502,liscie laurowe,315
+503,liscie mniszka lekarskiego,43
+504,maggi,15
+505,majeranek suszony,273
+506,majonez,716
+507,majonez dekoracyjny winiary,739
+508,majonez light,334
+509,mieta suszona,280
+510,oregano mielone,305
+511,mieta swieza,45
+512,musztarda,166
+513,ocet winny,16
+514,oregano mielone,305
+515,papryka ostra,316
+516,pieprz bialy,300
+517,pieprz czarny,295
+518,pieprz czerwony,320
+519,sos agrestowy,54
+520,sos barbecue,161
+521,sos borowkowy,80
+522,sos chrzanowy,96
+523,sos cumberland,50
+524,sos cytrynowy,40
+525,sos czosnkowy,102
+526,sos fasolowy,49
+527,sos grzybowy z suszonych grzybow,56
+528,sos holenderski,409
+529,sos jablkowy,52
+530,sos jarzynowy,50
+531,sos jogurtowy z zielenia,55
+532,sos koperkowy,43
+533,sos musztardowy,51
+534,sos mysliwski,125
+535,sos pieczarkowy,65
+536,sos pieczeniowy,80
+537,sos sardynkowy,55
+538,sos szczawiowy,99
+539,sos szczypiorkowo-chrzanowy,161
+540,sos sliwkowy,109
+541,sos smietanowo-musztardowy,211
+542,sos tatraski,310
+543,sos waniliowy,149
+544,sos winegret,570
+545,sos z maku,256
+546,sos z suszonych owocow,80
+547,sos ziemniaczny,54
+548,sos musztardowy,214
+549,sol biala,0
+550,szfran,313
+551,szlwia mielona,310
+552,tymianek suszony,273
+553,tymianek swiezy,99
+554,wanilia ekstrat,295
+555,bazant pieczony,215
+556,bazant surowa piers,130
+557,ges samo mieso,316
+558,ges tuszka,345
+559,ges tuszka pieczona,501
+560,gluszec,123
+561,gluszec pieczony,172
+562,bazant pieczony,215
+563,bazant surowe mieso ze skora,184
+564,ges mieso,316
+565,ges tuszka,345
+566,golab,172
+567,indyk piers bez skory duszona,122
+568,indyk piers bez skory surowa,88
+569,indyk piers ze skora smazona,199
+570,indyk tuszka,132
+571,indyk udko ze skora pieczone na grilu,166
+572,indyk udko ze skora surowe,133
+573,indyk wedzony,133
+574,kabanosy z kurczaka,250
+575,kaczka piers surowa,125
+576,kaczka tuszka,313
+577,kielbasa deliketasowa,111
+578,kielbasa jalowcowa,239
+579,kielbasa kanapkowa,183
+580,kielbasa mazurska,133
+581,kielbasa martadela,212
+582,kielbasa parowki z indyka,233
+583,kielbasa parowki z kurczaka,258
+584,kielbasa podlaska,236
+585,kielbasa szynkowa z indyka,89
+586,kura,200
+587,kura tuszka smazona,431
+588,kurczak porcja rosolowa,180
+589,kurczak skrzydelko ze skora gotowane,251
+590,kurczak tuszka,160
+591,kurczak tuszka smazona,250
+592,kurczak udko bez skory duszone,211
+593,kurczak udko ze skora surowe,161
+594,kurczak wedzony,165
+595,kuropatwa surowa,108
+596,kuropatwa pieczona,213
+597,pasztet podlaski z kurczaka,230
+598,pasztet z kurczaka pieczony,213
+599,perliczka,177
+600,poledwica z indyka,106
+601,poledwica z piersi kurczaka,97
+602,strusie mieso mielone surowe,135
+603,szynka z indyka,85
+604,szynka z piersi kurczaka,97
+605,watrobka drobiowa,137
+606,zoladki drobiowe,120
+607,bic mac,273
+608,cheeseburger,277
+609,chicken mcnuggets,287
+610,chipsy ziemniaczane bekonowe,566
+611,chipsy ziemniaczane o smaku cebuli,522
+612,chipsy ziemniaczane fromage,509
+613,chipsy ziemniaczane paprykowe,548
+614,chipsy ziemniaczane solone,556
+615,chrupki kukurydziane,361
+616,chrupki kukurydziane o smaku serowo-ketchupowym,511
+617,frytki mrozone,177
+618,hamburger,267
+619,hot wings skrzydelka w super pikantnej panierce,363
+620,kurczak hot&spicy w pikantnej panierce,368
+621,kurczak kentucky w lagodnej panierce,246
+622,pizza pepperoni mrozona,233
+623,pizza z pieczarkami i cebula mrozona,300
+624,pizza z szynka mrozona,255
+625,popcorn,523
+626,borowiki,33
+627,drozdze piekarskie,124
+628,grzyby chinskie pochwianeczka jadalna swieze,26
+629,drozdze piwne suszone,275
+630,grzyby shiitake swieze,14
+631,kurki,18
+632,pieczarki,15
+633,pieczarki marynowane,27
+634,rydze,24
+635,baleron gotowany,245
+636,baranina lopatka,287
+637,baranina udziec,231
+638,baton szynkowy z indyka,145
+639,baton z kurczaka,142
+640,bekon,432
+641,bekon kanadyjski,406
+642,cielecina frykando,107
+643,cielecina lopatka,101
+644,cielecina mieso z koscia,155
+645,cielecina sznyclowka pieczona,171
+646,cielecina szynka,201
+647,cielecina udziec,110
+648,cynaderki,95
+649,flaki gotowane,101
+650,flaki surowe,88
+651,jagniecina bez kosci,277
+652,kabanosy wieprzowe,330
+653,kielbasa biala,333
+654,kielbasa krakowska parzona,170
+655,kielbasa litewska,285
+656,kielbasa lubuska,256
+657,kielbasa mielonka,170
+658,kielbasa mortadela,203
+659,kielbasa mysliwska,300
+660,kielbasa parowki dla dzieci,230
+661,kielbasa parowki morlinki,251
+662,kielbasa parowki sokolow,356
+663,kielbasa parowki popularne,250
+664,kielbasa podwawelska,255
+665,kielbasa polska,338
+666,kielbasa slaska,213
+667,kielbasa torunska,278
+668,kielbasa wiejska,299
+669,kielbasa zwyczajna,212
+670,kielbasa zywiecka,320
+671,kielbaski frankfurterki,370
+672,kielbaski serdelki,322
+673,kielbaski wiedenskie,250
+674,kiszka kaszana jeczmienna,199
+675,kiszka pasztetowa,399
+676,konina z koscia,107
+677,kozlecina pieczona,140
+678,kozlecina surowa,111
+679,krolik tuszka,160
+680,krupniok,250
+681,mielonka,207
+682,mozg cielecy,103
+683,mozg wieprzowy,143
+684,mozg wolowy,132
+685,nerki baranie,88
+686,nerki wieprzowe,99
+687,nerki wolowe,87
+688,ozor cielecy,107
+689,ozor wieprzowy,166
+690,ozor wolowy peklowany wedzony,212
+691,pasztet pieczony,400
+692,pasztet popularny,406
+693,poledwica luksusowa,180
+694,poledwica sopocka,166
+695,salami luksusowe,560
+696,salami popularne,580
+697,salceson czarny,344
+698,sarnina comber grilowany,155
+699,sarnina pieczona,160
+700,sarnina surowa,118
+701,schab wedzony,133
+702,serca wieprzowe,117
+703,szynka kanapkowa,101
+704,szynka wiejska,256
+705,szynka z dzika,110
+706,szynkowka wolowa,85
+707,slimaki,77
+708,slimaki w muszlach,26
+709,watroba cieleca,125
+710,watroba wieprzowa surowa,140
+711,watroba wolowa,127
+712,watrobianka,236
+713,wieprzowina biodrowka,136
+714,wieprzowina boczek bez kosci,515
+715,wieprzowina golonka tylna ,297
+716,wieprzowina karkowka,272
+717,wieprzowina lopatka,262
+718,wieprzowina nogi,276
+719,wieprzowina podgardle,644
+720,wieprzowina poledwica,129
+721,wieprzowina schab,134
+722,wieprzowina schab z koscia,180
+723,wieprzowina serce,115
+724,wieprzowina szynka,266
+725,zeberka,327
+726,wolowina antrykot,150
+727,wolowina golen przednia,373
+728,wolowina karkowka,415
+729,wolowina kosci,368
+730,wolowina lopatka,226
+731,wolowina mostek,359
+732,wolowina poledwica,115
+733,wolowina rostbef,156
+734,wolowina rozbratel,150
+735,wolowina szponder,221
+736,wolowina udziec,150
+737,wolowina wedzona,156
+738,zajecze mieso duszone,200
+739,actimel,71
+740,jajo kurze bialko,45
+741,jajo kurze bialko gotowane,55
+742,jajo kurze cale,138
+743,jajo kurze zoltko,313
+744,jajo kurze zoltko gotowane,155
+745,jogurt Activia z suszonymmi sliwkami,95
+746,jogurt balkaniski,112
+747,jogurt babnanowy,72
+748,jogurt do picia Danonki,87
+749,jogurt gruszkowy Danone,87
+750,jogurt naturalny 0% tluszczu,53
+751,jogurt natruralny 2% tluszczu,62
+752,kefir 0% tluszczu,26
+753,kefir 2% tluszczu,55
+754,maslanka 0.5%,36
+755,maslanka 1.5%,45
+756,mleko kobyle,43
+757,mleko kozie,70
+758,mleko krowie UHT 0.5% tluszczu,40
+759,mleko krowie UHT 1.5% tluszczu,45
+760,mleko krowie 3.2%,63
+761,mleko owcze,109
+762,mleko sojowe,53
+763,ser beie poltlusty,232
+764,ser bryndza,284
+765,ser camembert pelnotlusty,299
+766,ser cheddar pelnotlusty,400
+767,ser edamski tlusty,316
+768,ser edamski topiony,299
+769,ser edamski pelnotlusty,384
+770,ser feta,216
+771,ser emanteler tlusty,316
+772,ser emanteler pelnotlusty,384
+773,ser mascarpone,455
+774,ser mozzarella,455
+775,ser oscypek,593
+776,ser plesniowy,352
+777,ser parmezan,453
+778,ser radamer,435
+779,ser ricotta,126
+780,ser tartare figura,197
+781,ser tartare delikatny,202
+782,ser wiejski,129
+783,serek homogenizowany,143
+784,serek kremowy turek,216
+785,serek swiezy turek,157
+786,smietana 9% tluszczu,111
+787,smietana 12% tluszczu,136
+788,smietana 18 tluszczu,185
+789,smietana 20% tluszczu,202
+790,smietana 24% tluszczu,240
+791,smietana 30% tluszczu,292
+792,zabielacz do kawy,105
+793,amur,65
+794,dorsz duszony,97
+795,dorsz gotowany,82
+796,dorsz piczony,103
+797,dorsz swiezy,77
+798,dorsz smozony panierowany,172
+799,fladra pieczona,112
+800,jesiotr swiezy,102
+801,jesiotr wedzony,177
+802,kalmary,85
+803,kalmary suszone,334
+804,kalmary smazony,133
+805,kalmary swiezy,111
+806,karp duszony,144
+807,karp gotowany,144
+808,karp pieczony,148
+809,karp swiezy,111
+810,kawior,267
+811,kraby gotowane,112
+812,karby surowe,85
+813,kraby w puszce,104
+814,kraby gotowane,100
+815,krewetki gotowane,100
+816,krewetki shrimps,120
+817,krewetki swieze,110
+818,langusta,120
+819,leszcz duszony,55
+820,leszcz smozony,64
+821,leszcz swiezy,55
+822,lin smazony,53
+823,kin swiezy,45
+824,losoc gotowany,263
+825,losoc pieczony,254
+826,losoc swiezy,206
+827,losoc w puszce,204
+828,makrela swieza,182
+829,makrela pieczona,166
+830,okon pieczony,111
+831,okon smazony,155
+832,okon swiezy,87
+834,ostrygi swieze,82
+835,ostrygi gotowane,165
+836,osmiornica gotowana,161
+837,osmiornica swieza,83
+838,paluszki rybne mrozone,180
+839,paluszki rybne swieze,200
+840,plaszczka,100
+841,ploc smazona,35
+842,ploc swieza,36
+843,rak gotowany,83
+844,rak swiezy,78
+845,rak w skorupie,42
+846,rekin mieso,101
+847,sandacz pieczony,115
+848,sandacz smazony,139
+849,sandacz swiezy,85
+850,sum pieczony,100
+851,sum smazony,112
+852,sum swiezy,104
+853,szczupak gotowany,18
+854,szczupak pieczony,100
+855,szczupak smazony,153
+856,szczupak swiezy,79
+857,szprot w oleju,356
+858,szprot w sosie pomidorow,176
+859,szprot wedzony,224
+860,sledz marynowany,195
+861,sledz pieczony,212
+862,sledz smoazony,250
+863,sledz solony,220
+864,sledz swiezy,165
+865,sledz w oleju,301
+866,sledz w sosie pomidorow,160
+867,tunczyk pieczony,187
+868,tunczyk swiezy,145
+869,tunczyk w oleju,191
+870,wegorz pieczony,360
+871,wegorz smazony,387
+872,wegorz swiezy,282
+873,witlinek,80
+874,babka drozdzowa z bakliami,309
+875,babka maemuskowa,320
+876,babka piaskowa,370
+877,babka ziemniaczna,130
+878,baton 3bit,515
+879,baton bounty milk,448
+880,baton knoopers,528
+881,baton lion,491
+882,baton mars,451
+883,baton milky way,448
+884,baton snikers,497
+885,baton twix,483
+886,baton fitness,382
+887,baton nequik,418
+889,bezy,420
+890,biszkopty okregle,398
+891,budyn czkolada,368
+892,bita smietana w areazolu,225
+893,chalwa,473
+894,ciastka karpatka,460
+895,ciastka jezyki,457
+896,ciastka kokosanki,470
+897,ciastka markizy,488
+898,ciastka napolenaki,356
+899,ciato wiedenski,336
+900,cukier bialy,402
+901,cukier bradzowy,376
+902,cukierki mleczne,433
+903,cukierki owocowe,422
+904,cukierki mietowe,388
+905,cukierki landrynki,381
+906,czekolada biala,588
+907,czekolada gorzka,577
+908,czekolada mleczna,550
+909,czekolada kawowa,529
+910,czekolada kremowa,563
+911,monte czekoladowy,195
+912,monte waniliowy,187
+913,drazetki tic tac,390
+914,dropsy mleczne,421
+915,dropsy owocowe,392
+916,drozdzowka,299
+917,faforki,579
+918,fruktoza,388
+919,galaretka wisniowa,55
+920,herbatniki,440
+921,karmel,404
+922,lody bakaliowe,136
+923,lody czkoladowe,133
+924,lody orzechowe,144
+925,lody owocowe,122
+926,lody smietankowe,171
+927,lody waniliowe,264
+928,marcepan,433
+929,melasa,233
+930,miod pszczeli,331
+931,miod sztuczny,330
+932,paczek,381
+933,pierniczki alpejskie,370
+934,pierniczki beskidzkie,340
+935,rogal kruchy,350
+936,rogal maslany,321
+937,percelki,390
+938,rurka z kremem,155
+939,sernik na zimno,200
+940,sernik brzoskiwiniowy,233
+941,slone paluszki,396
+942,sucharki popularne,391
+943,suchary delikatesowe,285
+944,syrop z agawy,400
+945,syrop z truskawki,271
+946,wafel grzesiek,546
+947,wafel piccolo,500
+948,wafel prince polo,534
+949,wafel peincessa,562
+950,wafle ryzowe,387
+951,wafle familijne,533
+952,margaryna,731
+953,margaryna palma,710
+954,margaryna kama,298
+955,margaryna rama,621
+956,margaryna rama oliwio,432
+957,olej kukurydziany,885
+958,olej lniany,885
+959,olej rzepakowy,899
+960,olej slonecznikowy,885
+961,slonina,800
+962,smalec barani,910
+963,smalec gesi,890
+964,smalec wieprzowy,870
+965,smalec wolowy,905
+966,tran,903
+967,smalec z kaczki,891
+968,baklazan,22
+969,baklazan gotowany,24
+970,bocwina gotowana,50
+971,bocwina burak lisciowy,16
+972,bob gotowany,87
+973,brokuly,25
+974,brokuly gotowane,31
+975,brukiew,22
+976,brukiew gotowana,17
+977,bruksela,33
+978,burak,41
+979,burak gotowany,45
+980,cebula,31
+981,cebula  gotowana,38
+982,cebila szalotka,34
+983,chrzan,660
+984,cukinia,13
+985,cukinia gotowana,18
+986,czosnek,144
+987,endywia,19
+988,fasola biala gotowana,144
+989,fasola biala konserwoa,88
+990,fasola biala jas,343
+991,groch gotowany,155
+992,groszek zielony,76
+993,hibidkus,36
+994,jarmuz,30
+995,kabaczek,36
+996,kabaczek pieczony,40
+997,kalafior,20
+998,kalafior gotowany,22
+999,kalarepa,31
+1000,kalarepa gotowana,36
+1001,kapusta biala,27
+1002,kapusta biala mloda,23
+1003,kapusta biala gotowana,29
+1004,kapusta chniska,33
+1005,kapusta czerwona,26
+1006,kapusta kwaszona,13
+1007,kapusta pekinska,13
+1008,kapusta wloska,39
+1009,karczochy,48
+1010,karczochy gotowane,52
+1011,kasztan gotowany,131
+1012,kasztan niebrany,208
+1013,kasztan obrany,197
+1014,kasztany wodne z knoserwy,103
+1015,kielki bambusa,22
+1016,kielki fasoli mung,30
+1017,kielki lucerny,33
+1018,kielki rzezuchy,13
+1019,kielki soczewicy,122
+1020,kielki soi,144
+1021,koper ogrogowy,250
+1022,koper suszony,360
+1023,koper wloski,10
+1024,koperk zielony,20
+1025,korniszony,15
+1026,korzen paproci jadalnej,100
+1027,kukurydza kolba,112
+1028,kukurydza  kolba gtowana,131
+1029,kukurydza pradzona,398
+1030,kukurydza konserwowa,103
+1031,maniok,197
+1032,marchew,28
+1033,marchew gotowana,33
+1034,marchew konserwowa,22
+1035,marchew puree,72
+1036,ogorek konserwowy,12
+1037,ogorek kwaszony,12
+1038,ogorek zielony,14
+1039,ogorek kwaszony gotowany,9
+1040,oliwki czarne w zalewie,111
+1041,oliwki zielone martnowane,123
+1042,oliwki zielone w zalewnie,102
+1043,papryka,32
+1044,paprtka chili konserwowa,18
+1045,papryka czerowna,30
+1046,papryka czerwona gotowana,33
+1046,parryka czerwona konserwowa,31
+1047,papryka zielona,19
+1049,papryka zielona gotowana,27
+1050, pasterniak,57
+1051,pasterniak gotowany,63
+1052,pedy bambusa,30
+1053,pietruszka korzen,40
+1054,pietruszka korzen gotowana,44
+1055,pietruszka natka,42
+1056,pietruszka natka suszona,310
+1057,pochrzyn bulwy,135
+1058,pomidor,16
+1059,pomodor gotowany,22
+1060,pomidor miasz,46
+1061,pomidor suszony,207
+1062,pomodor puree,48
+1063,por,25
+1064,por gotowany,16
+1065,portulaka,19
+1066,rabarbar,80
+1067,rabarbar gotowany z cukrem,111
+1068,roszponka,19
+1069,rukiew wodna,15
+1070,ziemniaki wczesne gtowane,93
+1071,ziemniaki ze skora gtowane z sola,103
+1072,rzepa,27
+1073,salata,15
+1074,salata karbowana,15
+1075,salata,15
+1076,salata karbowana,15
+1077,salata lodowa,15
+1078,salata rzymska,18
+1079,selre korzeniowy,44
+1080,skorzonera,79
+1081,soczewiaca czerwoan,331
+1082,soczewiaca czerwona gotowana,114
+1083,soja,390
+1084,szczaw,22
+1085,szczaw gotowany,21
+1086,szczpiorek,31
+1087,szparagi,20
+1088,szparagi gotowane,21
+1089,szparagi konserwowe,21
+1090,szpinak,15
+1091,szpinak duszony,50
+1092,topinambur,77
+1093,ziemniaki puree,120
+1094,ziemniaki bez skory,110
+1095,ziemniaki gotowane,104
+1096,ziemniaki pizne,87
+1097,ziemniaki slodkie,88
+1098,ziemniaki wczesne,67
+1099,ziemniaki wczesne gtowane,93
+1100,ziemniaki ze skora gtowane z sola,103
+1101,agrest,1234
+1102,agrest,1234
+1103,agrstddd,345
